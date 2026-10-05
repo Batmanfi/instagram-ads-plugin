@@ -6,7 +6,7 @@ This is an alpha/pilot candidate. Local synthetic acceptance passed; installed C
 
 ## Teammate pilot
 
-Read [handoff](docs/GITHUB-HANDOFF.md), [setup](docs/TEAMMATE-QUICKSTART.md) and [acceptance](docs/SECOND-MAC-ACCEPTANCE.md). Download the private prerelease's synthetic pilot kit and trusted manifest digest. Follow its START-HERE.md to check tools/fonts/browser and set up the engine. Plugin installation/refresh is separate; engines/assets/dependencies are not supplied automatically by installing a plugin. Teammates use their own private Git and Google Drive accounts.
+Read [pilot release](docs/PILOT-RELEASE.md), [handoff](docs/GITHUB-HANDOFF.md), [setup](docs/TEAMMATE-QUICKSTART.md) and [acceptance](docs/SECOND-MAC-ACCEPTANCE.md). Download the private prerelease's synthetic pilot kit and trusted manifest digest. Follow its START-HERE.md to check tools/fonts/browser and set up the engine. Plugin installation/refresh is separate; engines/assets/dependencies are not supplied automatically by installing a plugin. Teammates use their own private Git and Google Drive accounts.
 
 State defaults to ~/Library/Application Support/Instagram Ads and data to ~/Documents/Instagram Ads, independently on each Mac. No maintainer computer is needed for local preparation/render/recovery/delivery. Existing campaigns, outputs, forms/jobs and old versions remain retained through explicit updates. No automatic migration or cleanup exists.
 

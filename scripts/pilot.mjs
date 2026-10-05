@@ -12,6 +12,9 @@ try {
  requireValue(options['manifest-sha256']===index.manifestSha256,'Supply the trusted manifest SHA-256 separately; the kit cannot establish publisher trust by itself');
  for(const name of [index.manifest,'bootstrap/instagram-ads/scripts/cli.mjs'])requireValue(typeof name==='string'&&!path.isAbsolute(name)&&!name.split('/').includes('..'),'Unsafe kit path');
  const manifest=path.join(kit,index.manifest);requireValue(sha(fs.readFileSync(manifest))===options['manifest-sha256'],'Manifest checksum mismatch');
+ const declared=JSON.parse(fs.readFileSync(manifest));requireValue(declared.version===1&&declared.product==='instagram-ads'&&Array.isArray(declared.plugin?.files)&&declared.plugin.files.length,'Invalid release plugin index');
+ const bootstrap=path.join(kit,'bootstrap/instagram-ads');const seen=new Set();
+ for(const entry of declared.plugin.files){requireValue(typeof entry.path==='string'&&!path.isAbsolute(entry.path)&&!entry.path.includes('\\')&&entry.path.split('/').every(part=>part&&part!=='.'&&part!=='..')&&!seen.has(entry.path),'Unsafe bootstrap file index');seen.add(entry.path);const file=path.join(bootstrap,entry.path);requireValue(fs.realpathSync(file)===file&&fs.statSync(file).isFile()&&fs.statSync(file).size===entry.size&&sha(fs.readFileSync(file))===entry.sha256,'Bootstrap plugin checksum mismatch: '+entry.path);}
  const state=options['state-root']??path.join(os.homedir(),'Library/Application Support/Instagram Ads'),data=options['data-root']??path.join(os.homedir(),'Documents/Instagram Ads');
  requireValue(path.isAbsolute(state)&&path.isAbsolute(data),'State/data paths must be absolute');
  const cli=path.join(kit,'bootstrap/instagram-ads/scripts/cli.mjs'),common=['--state-root',state];

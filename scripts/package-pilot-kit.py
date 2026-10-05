@@ -1,8 +1,8 @@
 """Create a portable, clearly synthetic installation kit; no remote publish."""
 from pathlib import Path
-import json,hashlib,zipfile,shutil
+import json,hashlib,zipfile,shutil,datetime
 root=Path(__file__).resolve().parent.parent;dist=root/'.local/dist';version=json.loads((root/'plugins/instagram-ads/plugin.json').read_text())['version']
-base=dist/'synthetic-pilot';assert not base.exists(),'Preserve pilot kits; remove only unselected scratch explicitly or version the next kit'
+base=dist/('synthetic-pilot-'+datetime.datetime.now(datetime.timezone.utc).strftime('%Y%m%dT%H%M%S%f'));assert not base.exists(),'Use a fresh unselected staging directory'
 base.mkdir();baseline=json.loads(Path(json.loads((dist/'release-package-verification.json').read_text())['manifest']).read_text());body={k:v for k,v in baseline.items() if k!='releaseId'}
 sha=lambda data:hashlib.sha256(data).hexdigest()
 assets=root/'asset-manifests/synthetic-pilot-v1.json';av=json.loads(assets.read_text());shutil.copyfile(assets,base/assets.name)
@@ -38,7 +38,9 @@ After complete delivery, test interruption/restart, update/rollback/skipped vers
 
 No teammate invitation or installed second-Mac verification has happened merely because this kit was created. Read the included RIGHTS-AND-SCOPE.md and acceptance guide.
 '''
-(base/'START-HERE.md').write_text(readme);shutil.copyfile(root/'docs/SECOND-MAC-ACCEPTANCE.md',base/'SECOND-MAC-ACCEPTANCE.md')
+(base/'START-HERE.md').write_text(readme.replace('SECOND-MAC-ACCEPTANCE.md','docs/SECOND-MAC-ACCEPTANCE.md'));(base/'docs').mkdir()
+for name in ['SECOND-MAC-ACCEPTANCE.md','TEAMMATE-QUICKSTART.md','PRIVATE-RELEASES.md','GITHUB-HANDOFF.md']:
+ (base/'docs'/name).write_text((root/'docs'/name).read_text().replace('../plugins/instagram-ads/','../bootstrap/instagram-ads/'))
 archive=dist/f'Instagram-Ads-Synthetic-Pilot-{version}.zip';top=archive.stem
 files=sorted(p for p in base.rglob('*') if p.is_file())
 with zipfile.ZipFile(archive,'w',zipfile.ZIP_DEFLATED) as z:
