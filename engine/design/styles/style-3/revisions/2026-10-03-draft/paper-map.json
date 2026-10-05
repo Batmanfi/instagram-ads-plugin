@@ -1,0 +1,134 @@
+{
+  "fileId": "01M3VF361K5SV4TAFHF5Q9C09D",
+  "pageId": "p-4-0",
+  "master": "CJ-0",
+  "reference": "FZ-0",
+  "guide": "G2-0",
+  "status": "draft-awaiting-user-tuning",
+  "blocks": [
+    {
+      "id": "hook",
+      "paperNode": "CR-0",
+      "backgroundNode": "CS-0",
+      "rowNodes": [
+        "CU-0",
+        "CW-0",
+        "CY-0"
+      ],
+      "textNodes": [
+        "CV-0",
+        "CX-0",
+        "CZ-0"
+      ],
+      "emojiNodes": []
+    },
+    {
+      "id": "intro",
+      "paperNode": "D1-0",
+      "backgroundNode": "D2-0",
+      "rowNodes": [
+        "D4-0"
+      ],
+      "textNodes": [
+        "D5-0"
+      ],
+      "emojiNodes": []
+    },
+    {
+      "id": "step-1",
+      "paperNode": "D7-0",
+      "backgroundNode": "D8-0",
+      "rowNodes": [
+        "DA-0",
+        "DD-0"
+      ],
+      "textNodes": [
+        "DC-0",
+        "DE-0"
+      ],
+      "emojiNodes": [
+        "DB-0"
+      ]
+    },
+    {
+      "id": "step-2",
+      "paperNode": "E4-0",
+      "backgroundNode": "E5-0",
+      "rowNodes": [
+        "E7-0",
+        "EA-0",
+        "EC-0"
+      ],
+      "textNodes": [
+        "E9-0",
+        "EB-0",
+        "ED-0"
+      ],
+      "emojiNodes": [
+        "E8-0"
+      ]
+    },
+    {
+      "id": "step-3",
+      "paperNode": "EF-0",
+      "backgroundNode": "EG-0",
+      "rowNodes": [
+        "EI-0",
+        "EL-0"
+      ],
+      "textNodes": [
+        "EK-0",
+        "EM-0"
+      ],
+      "emojiNodes": [
+        "EJ-0"
+      ]
+    },
+    {
+      "id": "step-4",
+      "paperNode": "EO-0",
+      "backgroundNode": "EP-0",
+      "rowNodes": [
+        "ER-0",
+        "EU-0"
+      ],
+      "textNodes": [
+        "ET-0",
+        "EV-0"
+      ],
+      "emojiNodes": [
+        "ES-0"
+      ]
+    },
+    {
+      "id": "proof",
+      "paperNode": "EX-0",
+      "backgroundNode": "EY-0",
+      "rowNodes": [
+        "F0-0",
+        "F2-0"
+      ],
+      "textNodes": [
+        "F1-0",
+        "F3-0"
+      ],
+      "emojiNodes": []
+    },
+    {
+      "id": "cta",
+      "paperNode": "F5-0",
+      "backgroundNode": "F6-0",
+      "rowNodes": [
+        "F8-0",
+        "FA-0"
+      ],
+      "textNodes": [
+        "F9-0",
+        "FB-0"
+      ],
+      "emojiNodes": [
+        "FC-0"
+      ]
+    }
+  ]
+}

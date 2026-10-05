@@ -1,0 +1,213 @@
+{
+  "version": 1,
+  "description": "User-approved Style 1 reference. Reference copy is an example, not authority for future campaign claims.",
+  "sourceScreenshot": "design/styles/style-1/source-screenshot.png",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "safeMargins": {
+      "top": 150,
+      "side": 90,
+      "bottom": 280
+    }
+  },
+  "fontFile": "public/fonts/RobotoCondensed-Regular.ttf",
+  "fontFamily": "Roboto Condensed",
+  "fontWeight": 400,
+  "letterSpacingEm": -0.03,
+  "blocks": [
+    {
+      "id": "hook",
+      "preset": "hook",
+      "fontSize": 62,
+      "x": 540,
+      "y": 150,
+      "fill": "#000000",
+      "lines": [
+        "I’m looking for 5-10 B2B",
+        "businesses who want to book",
+        "20-40 new sales calls per month"
+      ],
+      "measuredWidths": [
+        541,
+        673,
+        730
+      ],
+      "measurement": "Paper MCP text-node width plus existing emoji-image width, after -0.03em tracking.",
+      "paperNode": "6-0",
+      "backgroundNode": "1V-0",
+      "rowNodes": [
+        "9-0",
+        "B-0",
+        "D-0"
+      ],
+      "textNodes": [
+        "A-0",
+        "C-0",
+        "E-0"
+      ]
+    },
+    {
+      "id": "intro",
+      "preset": "label",
+      "fontSize": 52,
+      "x": 540,
+      "y": 470,
+      "fill": "#000000",
+      "lines": [
+        "Here’s how it works:"
+      ],
+      "measuredWidths": [
+        378
+      ],
+      "measurement": "Paper MCP text-node width plus existing emoji-image width, after -0.03em tracking.",
+      "paperNode": "20-0",
+      "backgroundNode": "21-0",
+      "rowNodes": [
+        "23-0"
+      ],
+      "textNodes": [
+        "24-0"
+      ]
+    },
+    {
+      "id": "step-1",
+      "preset": "white",
+      "fontSize": 46,
+      "x": 540,
+      "y": 620,
+      "fill": "#FFFFFF",
+      "lines": [
+        "📌 We scrape every decision",
+        "maker in your market"
+      ],
+      "measuredWidths": [
+        481,
+        354
+      ],
+      "measurement": "Paper MCP text-node width plus existing emoji-image width, after -0.03em tracking.",
+      "paperNode": "26-0",
+      "backgroundNode": "27-0",
+      "rowNodes": [
+        "2A-0",
+        "2D-0"
+      ],
+      "textNodes": [
+        "2C-0",
+        "2E-0"
+      ]
+    },
+    {
+      "id": "step-2",
+      "preset": "white",
+      "fontSize": 46,
+      "x": 540,
+      "y": 790,
+      "fill": "#FFFFFF",
+      "lines": [
+        "📌 We send 5,000+ personalized",
+        "cold emails to them every day"
+      ],
+      "measuredWidths": [
+        548,
+        499
+      ],
+      "measurement": "Paper MCP text-node width plus existing emoji-image width, after -0.03em tracking.",
+      "paperNode": "2G-0",
+      "backgroundNode": "2H-0",
+      "rowNodes": [
+        "2K-0",
+        "2N-0"
+      ],
+      "textNodes": [
+        "2M-0",
+        "2O-0"
+      ]
+    },
+    {
+      "id": "step-3",
+      "preset": "white",
+      "fontSize": 46,
+      "x": 540,
+      "y": 960,
+      "fill": "#FFFFFF",
+      "lines": [
+        "📌 We respond to the interested",
+        "leads and book the calls"
+      ],
+      "measuredWidths": [
+        538,
+        407
+      ],
+      "measurement": "Paper MCP text-node width plus existing emoji-image width, after -0.03em tracking.",
+      "paperNode": "2Q-0",
+      "backgroundNode": "2R-0",
+      "rowNodes": [
+        "2U-0",
+        "2X-0"
+      ],
+      "textNodes": [
+        "2W-0",
+        "2Y-0"
+      ]
+    },
+    {
+      "id": "proof",
+      "preset": "black",
+      "fontSize": 46,
+      "x": 540,
+      "y": 1170,
+      "fill": "#000000",
+      "lines": [
+        "We’ve used this approach to book",
+        "5,000+ sales calls across 30+",
+        "industries"
+      ],
+      "measuredWidths": [
+        564,
+        497,
+        166
+      ],
+      "measurement": "Paper MCP text-node width plus existing emoji-image width, after -0.03em tracking.",
+      "paperNode": "30-0",
+      "backgroundNode": "31-0",
+      "rowNodes": [
+        "35-0",
+        "37-0",
+        "39-0"
+      ],
+      "textNodes": [
+        "36-0",
+        "38-0",
+        "3A-0"
+      ]
+    },
+    {
+      "id": "cta",
+      "preset": "black",
+      "fontSize": 52,
+      "x": 540,
+      "y": 1480,
+      "fill": "#000000",
+      "lines": [
+        "If you want more information, click",
+        "the button below 👇"
+      ],
+      "measuredWidths": [
+        656,
+        381
+      ],
+      "measurement": "Paper MCP text-node width plus existing emoji-image width, after -0.03em tracking.",
+      "paperNode": "3C-0",
+      "backgroundNode": "3D-0",
+      "rowNodes": [
+        "3G-0",
+        "3I-0"
+      ],
+      "textNodes": [
+        "3H-0",
+        "3J-0"
+      ]
+    }
+  ]
+}

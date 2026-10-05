@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "id": "source-v1",
+  "distributionStatus": "local-development-only; redistribution clearance not established",
+  "files": [
+    {
+      "path": "music/Sources and License.txt",
+      "size": 371,
+      "sha256": "a8c4f2dcb3b7b7e29fdc60a027f01d511d2bbfba3c4cd90da5099919c7a4ee37"
+    },
+    {
+      "path": "music/sunday-evening-c7qCc7NXErc.mp3",
+      "size": 2102661,
+      "sha256": "2ae08da9014ceef36f25bbe3c37f6b3c1004f8e51f3cc440a68cb5573d786f75"
+    },
+    {
+      "path": "music/hush-Wuc5DWazolU.mp3",
+      "size": 2063037,
+      "sha256": "e82584d0cafcb5f9be7e4b5c26225d13ad7f305b5d42432325d534035883822a"
+    },
+    {
+      "path": "music/chill-sunday-TN6ea1nnp8w.mp3",
+      "size": 1720221,
+      "sha256": "6caf1397c52264ea0e50bd3e61e8c74e184d0ae18d7877aef2fc4715569ddb45"
+    },
+    {
+      "path": "backgrounds/09-Lake-1080x1920.mp4",
+      "size": 6079576,
+      "sha256": "dd0746afb043aaf3313930923320e813e09274de99e4e3df9a7271d1c335ceb7"
+    },
+    {
+      "path": "backgrounds/Sources and License.txt",
+      "size": 2885,
+      "sha256": "dc2efbd9615ae1bb9a2213cee6184edb35c0e2c670a9a4133fcd8a0660a2485e"
+    },
+    {
+      "path": "backgrounds/01-Mount-Rainier-Road-1080x1920.mp4",
+      "size": 27593553,
+      "sha256": "d61d45a750b7b7a6adb953cc0a717297f58318983ccde9f0d5a2addcc7387c2b"
+    },
+    {
+      "path": "backgrounds/10-Island-Coast-1080x1920.mp4",
+      "size": 14360225,
+      "sha256": "209fc2a458dcbbaaa4cd944eeff2686475a6f93a5b358ced88dfc25670c88a90"
+    },
+    {
+      "path": "backgrounds/05-City-Traffic-Dusk-1920x1080.mp4",
+      "size": 9534160,
+      "sha256": "5cde96519ff607f2dc6be1ce3580e252fbc206ffce593896db751354b93f7af5"
+    },
+    {
+      "path": "backgrounds/08-Lake-Sunset-1080x1920.mp4",
+      "size": 3507678,
+      "sha256": "ba41d0804b40f04785401760d9c59d49cf8d36e921c68e9d59c016f9e1f11a3d"
+    },
+    {
+      "path": "backgrounds/06-Flowering-Cactus-Garden-1080x1920.mp4",
+      "size": 5805837,
+      "sha256": "caaa33bb973fb2500be925c6af6bab1e11c5a155a95097784dbfac0becde71a4"
+    },
+    {
+      "path": "backgrounds/04-Pine-Mountains-1080x1920.mp4",
+      "size": 9154056,
+      "sha256": "899303cc88341d6d704c5b96d9271756b327091ba4fb2501c801d952a72eecbf"
+    },
+    {
+      "path": "backgrounds/11-Mountain-Landscape-1080x1920.mp4",
+      "size": 7222842,
+      "sha256": "ec6af09968fda8a1584f94c3d0b481ec8b6915b73bac76bffaa2b93f8cb45c0a"
+    },
+    {
+      "path": "backgrounds/02-Cactus-Garden-1080x1920.mp4",
+      "size": 14061955,
+      "sha256": "a4e158d9b5fc8398177ba965c0553ca49e3d3281b11ae787f2ffa2f3a7e0c8b3"
+    },
+    {
+      "path": "backgrounds/12-Mountain-Road-2160x3840.mp4",
+      "size": 288410547,
+      "sha256": "e1fda8531e11ace5f68940c09a631a2b93bf590b357459b030eea88e25c73276"
+    },
+    {
+      "path": "backgrounds/03-Rocky-Coast-1080x1920.mp4",
+      "size": 37283247,
+      "sha256": "614b38c9579ba98842114c431267bcfdb760c8a649febaf374fad164c4ae79d8"
+    },
+    {
+      "path": "backgrounds/07-Lake-and-Mountains-1080x1920.mp4",
+      "size": 6835380,
+      "sha256": "f1a144a5dac6bd810cfe7c0f5f294b1c37d6e4f3014ebbf1b68a951e74dbd350"
+    }
+  ]
+}

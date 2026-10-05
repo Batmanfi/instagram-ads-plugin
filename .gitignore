@@ -1,0 +1,11 @@
+.local/
+node_modules/
+engine/node_modules/
+engine/work/
+engine/.remotion/
+engine/out/
+engine/public/backgrounds/
+engine/public/music/
+.DS_Store
+__pycache__/
+*.pyc

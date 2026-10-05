@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "instagram-ads",
+  "version": "0.3.0-alpha.1",
+  "description": "Prepare exact-copy Instagram ad campaigns, run pinned local jobs and package reviewed delivery. Private development candidate.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Instagram Ads \u2014 Development Alpha",
+        "shortDescription": "Inline campaign setup and local production",
+        "longDescription": "Archive exact scripts, select saved styles and optional music inline, then start persistent local Remotion jobs with QA and complete delivery. Engine/assets/dependencies require separate setup; second-Mac installation remains unverified.",
+        "developerName": "Instagram Ads Team",
+        "category": "Productivity",
+        "capabilities": [
+          "Read",
+          "Write"
+        ],
+        "defaultPrompt": [
+          "Check my Instagram Ads setup.",
+          "Prepare these scripts for the Instagram Ads campaign form."
+        ]
+      }
+    }
+  }
+}

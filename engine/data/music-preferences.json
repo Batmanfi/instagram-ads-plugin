@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "musicEnabledByDefault": false,
+  "approvedPresets": {
+    "chill-sunday-approved": {
+      "version": 1,
+      "approvedOn": "2026-10-04",
+      "timezone": "Asia/Kolkata",
+      "status": "user-approved",
+      "userConfirmation": "Yeah, this is fine, the volume is fine and the music part is fine.",
+      "sampleCampaign": "outboundpilot-music-sample-2026-10-04-01",
+      "sampleAdId": "ad-06",
+      "settings": {
+        "track": "chill-sunday",
+        "startTime": 0,
+        "volume": 0.25,
+        "fadeInSeconds": 0.26666666666666666,
+        "fadeOutSeconds": 0.5
+      },
+      "requestedFadeInSeconds": 0.25,
+      "resolvedFadeInFrames": 8,
+      "resolvedFadeOutFrames": 15,
+      "musicEnabledByDefault": false,
+      "scope": "Approved sound level and excerpt from the supplied Chill Sunday sample; music still requires an explicit user request. No approval of other track/excerpt combinations is inferred."
+    }
+  },
+  "aiUsage": "Only when the current user explicitly requests background music: use all three supplied tracks, rotating chill-sunday / hush / sunday-evening in original campaign ad order at 25% gain with the saved fades, unless that request specifies different settings. Choose concrete tracks before rendering and persist them per ad. Existing renderer already supports all three track IDs. Never restrict generic music requests to Chill Sunday. Do not enable music for requests that do not ask for it. This preference file is AI production guidance, not an automatic renderer soundtrack.",
+  "requestedMusicPolicy": {
+    "requestedOn": "2026-10-04",
+    "timezone": "Asia/Kolkata",
+    "userInstruction": "So are you only using Chill Sunday? Uh you should use other 2 also that I have given.",
+    "musicEnabledByDefault": false,
+    "tracks": [
+      "chill-sunday",
+      "hush",
+      "sunday-evening"
+    ],
+    "selection": "Rotate through all three in original campaign ad order, repeating as needed; persist the concrete selected track in every ad manifest so single and batch rerenders match.",
+    "settings": {
+      "startTime": 0,
+      "volume": 0.25,
+      "fadeInSeconds": 0.26666666666666666,
+      "fadeOutSeconds": 0.5
+    },
+    "overridePolicy": "A current user request for a particular track, excerpt or volume overrides these choices.",
+    "approvalScope": "The user requested all three tracks and approved the sample volume. The reviewed excerpt is Chill Sunday 0–10s. Start at 0–10s on the other two unless the user specifies a different excerpt; do not label their excerpts as individually reviewed."
+  }
+}

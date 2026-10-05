@@ -1,0 +1,145 @@
+{
+  "status": "user-approved",
+  "savedOn": "2026-10-03",
+  "copyAudit": "passed against direct Paper text reads",
+  "paperReview": "Spacing, type, contrast, centering, highlights, emojis and fit passed; guides unclipped",
+  "rendererReview": "Frames 0/150/299 and changed-copy stills visually checked",
+  "typescript": "passed",
+  "geometryAndLayoutTests": {
+    "total": 14,
+    "passed": 14
+  },
+  "renderSmokeChecks": {
+    "total": 21,
+    "passed": 21,
+    "cases": [
+      {
+        "name": "style-3-reference",
+        "result": "render passed",
+        "message": ""
+      },
+      {
+        "name": "style-3-changed-copy",
+        "result": "render passed",
+        "message": ""
+      },
+      {
+        "name": "style-3-copy-fit-guard",
+        "result": "rejected as expected",
+        "message": "Copy cannot fit legibly with 28px block gaps. Request shorter copy."
+      },
+      {
+        "name": "style-4-reference",
+        "result": "render passed",
+        "message": ""
+      },
+      {
+        "name": "style-4-changed-copy",
+        "result": "render passed",
+        "message": ""
+      },
+      {
+        "name": "style-4-copy-fit-guard",
+        "result": "rejected as expected",
+        "message": "Copy cannot fit legibly with 28px block gaps. Request shorter copy."
+      },
+      {
+        "name": "short-ad-compact",
+        "result": "render passed",
+        "message": ""
+      },
+      {
+        "name": "short-ad-distributed",
+        "result": "render passed",
+        "message": ""
+      },
+      {
+        "name": "single-block-compact",
+        "result": "render passed",
+        "message": ""
+      },
+      {
+        "name": "mixed-manual-positions",
+        "result": "rejected as expected",
+        "message": "ad-06: provide y for every block or omit all y values for automatic layout."
+      },
+      {
+        "name": "style-2-reference",
+        "result": "render passed",
+        "message": ""
+      },
+      {
+        "name": "style-2-changed-copy",
+        "result": "render passed",
+        "message": ""
+      },
+      {
+        "name": "style-2-copy-fit-guard",
+        "result": "rejected as expected",
+        "message": "Copy cannot fit legibly with 28px block gaps. Request shorter copy."
+      },
+      {
+        "name": "style-1-reference",
+        "result": "render passed",
+        "message": ""
+      },
+      {
+        "name": "style-1-changed-copy",
+        "result": "render passed",
+        "message": ""
+      },
+      {
+        "name": "style-1-exact-copy-guard",
+        "result": "rejected as expected",
+        "message": "hook: explicit lines alter source copy.\n    at layout (http://localhost:3000/bundle.js:6596:11)"
+      },
+      {
+        "name": "style-1-copy-fit-guard",
+        "result": "rejected as expected",
+        "message": "Copy cannot fit legibly with 28px block gaps. Request shorter copy."
+      },
+      {
+        "name": "seven-block-auto-layout",
+        "result": "render passed",
+        "message": ""
+      },
+      {
+        "name": "long-copy-readability",
+        "result": "rejected as expected",
+        "message": "Copy cannot fit legibly with 28px block gaps. Request shorter copy."
+      },
+      {
+        "name": "manual-lines-preserve-copy",
+        "result": "rejected as expected",
+        "message": "altered: explicit lines alter source copy.\n    at layout (http://localhost:3000/bundle.js:6596:11)"
+      },
+      {
+        "name": "bottom-safe-area",
+        "result": "rejected as expected",
+        "message": "template-qa/bottom: copy exceeds safe area. Request shorter copy or adjust layout."
+      }
+    ]
+  },
+  "contrastOverlay": 0.28,
+  "headTrackingEm": -0.01,
+  "productionPresetImplemented": true,
+  "finalMP4Requested": false,
+  "fontRequirement": "Bundled Roboto Bold",
+  "sha256": {
+    "paper-draft.png": "192955f5328015379c73085b25d81ecd800aa0d5e8dc49de830a8c84900df2ad",
+    "remotion-150.png": "f146b3e4afd3cfe8830780f3b50d3daaa8da9cb951c295edb44390106d9262d8",
+    "background-cleaned.png": "16b6664db1458e4a5e0f7496115a044f76ee127370b08687e5abcd929acbe4d5",
+    "remotion-changed-copy.png": "cea07c5747b79d012066fe933ec08f3973e1cf908001181875ead452d7dff058",
+    "paper-approved.png": "17c4cb42e8adc6d70a55ca9f42e38f25cd62339ab46ce4f4003b121029e7e85d",
+    "IMG_20261003_185525_359.webp": "62c619696ba170382e56774d4c88723fe195aed10c637ccf5fe7bcff612b6d5a",
+    "README.md": "a6d1406dfe41bc561802556c4c2b188870dbc8a1fb2ed16fee8384db1fe9f6fc",
+    "remotion-299.png": "d47413428cd98cc30e6f88c8ed11ac5307cb1cb87fb7e0716075f6fe0db75d47",
+    "paper-approved-snapshot.json": "52a6d6a605a7adc40d796bb3a10cfd284540c5fd9b0f165e5999ef4ee3d9bde1",
+    "paper-map.json": "d6ed3073b481c1716020cc44b8ae065e3c451a85cef342c03bc53c234fc2bd34",
+    "reference-copy.json": "8c8c462d73cac6126072d3f74cac366ecb22c700a8163848b3e2a9c97206b47d",
+    "draft-layout.json": "337c2d815d0e60ce81a8d606d4f69189d003ed5088174c6c1cf0a4bc92b8f80a",
+    "background-edit.json": "758207d52b0ea2859d8de04a4a4cf927e1542ce434461680e58e84eb6895fc45",
+    "paper-draft-snapshot.json": "8ec76124946cc39e329260f4fd82e183f4793a2c488564d77149c6609e628165",
+    "remotion-0.png": "ea6abbcb433c35378d0debb6a92e5eb9026cbcc92dac959c680edd5a339420ec"
+  }
+}

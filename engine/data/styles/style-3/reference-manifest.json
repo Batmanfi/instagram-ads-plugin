@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "style": "style-3",
+  "safeMargins": {
+    "top": 150,
+    "side": 70,
+    "bottom": 280
+  },
+  "defaultContrast": 0.28,
+  "ads": [
+    {
+      "id": "style-3-reference",
+      "outputName": "style-3-reference",
+      "style": "style-3",
+      "fontPreset": "wide-bold",
+      "layoutMode": "compact",
+      "contrast": 0.28,
+      "background": {
+        "filename": "01-Mount-Rainier-Road-1080x1920.mp4",
+        "startTime": 0,
+        "cropPosition": [
+          50,
+          50
+        ]
+      },
+      "blocks": [
+        {
+          "id": "hook",
+          "styleRole": "hook",
+          "fontSize": 52.0,
+          "highlight": "black",
+          "x": 539.9999,
+          "y": 276.0,
+          "lines": [
+            "I'm looking for 5-10 B2B companies",
+            "that want to send 50,000+ cold emails",
+            "a month to their target market."
+          ],
+          "maxWidth": 940
+        },
+        {
+          "id": "intro",
+          "styleRole": "label",
+          "fontSize": 46.0,
+          "highlight": "black",
+          "x": 539.9995,
+          "y": 529.0,
+          "lines": [
+            "Here's how it works:"
+          ],
+          "maxWidth": 940
+        },
+        {
+          "id": "step-1",
+          "styleRole": "support",
+          "fontSize": 46.0,
+          "highlight": "black",
+          "x": 540.0,
+          "y": 629.0,
+          "lines": [
+            "📌 We find every decision maker in",
+            "your market"
+          ],
+          "maxWidth": 940
+        },
+        {
+          "id": "step-2",
+          "styleRole": "support",
+          "fontSize": 46.0,
+          "highlight": "black",
+          "x": 540.0,
+          "y": 780.0,
+          "lines": [
+            "📌 We use intent signals to narrow",
+            "the list to companies actively",
+            "looking for what you sell"
+          ],
+          "maxWidth": 940
+        },
+        {
+          "id": "step-3",
+          "styleRole": "support",
+          "fontSize": 46.0,
+          "highlight": "black",
+          "x": 540.0,
+          "y": 981.0,
+          "lines": [
+            "📌 We personalize every outreach",
+            "email using AI"
+          ],
+          "maxWidth": 940
+        },
+        {
+          "id": "step-4",
+          "styleRole": "support",
+          "fontSize": 46.0,
+          "highlight": "black",
+          "x": 540.0,
+          "y": 1132.0,
+          "lines": [
+            "📌 We respond to the leads and",
+            "book the calls"
+          ],
+          "maxWidth": 940
+        },
+        {
+          "id": "proof",
+          "styleRole": "proof",
+          "fontSize": 49.0,
+          "highlight": "white",
+          "x": 539.9995,
+          "y": 1337.0,
+          "lines": [
+            "You only have to take the calls",
+            "and close the deals."
+          ],
+          "maxWidth": 940
+        },
+        {
+          "id": "cta",
+          "styleRole": "cta",
+          "fontSize": 49.0,
+          "highlight": "white",
+          "x": 540.0,
+          "y": 1495.0,
+          "lines": [
+            "If you want more info, click the",
+            "button below 👇"
+          ],
+          "maxWidth": 940
+        }
+      ]
+    }
+  ]
+}

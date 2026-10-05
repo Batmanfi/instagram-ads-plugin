@@ -1,0 +1,58 @@
+{
+  "blocks": [
+    {
+      "id": "hook",
+      "lineCount": 3,
+      "emojiCount": 0,
+      "width": 930.093125,
+      "height": 272.8
+    },
+    {
+      "id": "intro",
+      "lineCount": 1,
+      "emojiCount": 0,
+      "width": 478.426875,
+      "height": 90.48
+    },
+    {
+      "id": "step-1",
+      "lineCount": 2,
+      "emojiCount": 1,
+      "width": 603.090625,
+      "height": 131.56
+    },
+    {
+      "id": "step-2",
+      "lineCount": 2,
+      "emojiCount": 1,
+      "width": 683.246875,
+      "height": 131.56
+    },
+    {
+      "id": "step-3",
+      "lineCount": 2,
+      "emojiCount": 1,
+      "width": 671.496875,
+      "height": 131.56
+    },
+    {
+      "id": "proof",
+      "lineCount": 3,
+      "emojiCount": 0,
+      "width": 710.198125,
+      "height": 197.8
+    },
+    {
+      "id": "cta",
+      "lineCount": 2,
+      "emojiCount": 1,
+      "width": 830.674375,
+      "height": 157.04000000000002
+    }
+  ],
+  "trackingUpdate": "passed",
+  "copyUpdate": "passed",
+  "fontWeight": 700,
+  "letterSpacingEm": -0.01,
+  "fonts": true
+}

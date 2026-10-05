@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "tracks": [
+    {
+      "id": "chill-sunday",
+      "title": "Chill Sunday",
+      "filename": "chill-sunday-TN6ea1nnp8w.mp3",
+      "duration": 111,
+      "codec": "mp3",
+      "sampleRate": 48000,
+      "channels": 2,
+      "sha256": "6caf1397c52264ea0e50bd3e61e8c74e184d0ae18d7877aef2fc4715569ddb45",
+      "licenseStatus": "User-supplied local file; no license document supplied."
+    },
+    {
+      "id": "hush",
+      "title": "Hush",
+      "filename": "hush-Wuc5DWazolU.mp3",
+      "duration": 142.08,
+      "codec": "mp3",
+      "sampleRate": 48000,
+      "channels": 2,
+      "sha256": "e82584d0cafcb5f9be7e4b5c26225d13ad7f305b5d42432325d534035883822a",
+      "licenseStatus": "User-supplied local file; no license document supplied."
+    },
+    {
+      "id": "sunday-evening",
+      "title": "Sunday Evening",
+      "filename": "sunday-evening-c7qCc7NXErc.mp3",
+      "duration": 133.894729,
+      "codec": "mp3",
+      "sampleRate": 48000,
+      "channels": 2,
+      "sha256": "2ae08da9014ceef36f25bbe3c37f6b3c1004f8e51f3cc440a68cb5573d786f75",
+      "licenseStatus": "User-supplied local file; no license document supplied."
+    }
+  ]
+}

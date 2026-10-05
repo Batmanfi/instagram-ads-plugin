@@ -1,0 +1,76 @@
+{
+  "id": "ad-06",
+  "totalHeight": 633.76,
+  "gap": 285.41333333333336,
+  "valid": true,
+  "blocks": [
+    {
+      "id": "hook",
+      "fontSize": 62,
+      "lines": [
+        "In the last 75 days, we sent",
+        "over 18,300 cold emails and added",
+        "$432K in revenue for a B2B client."
+      ],
+      "textWidths": [
+        609.3125,
+        788.1875,
+        762.390625
+      ],
+      "width": 832.8275,
+      "height": 272.8,
+      "top": 150,
+      "bottom": 422.8,
+      "centerX": 540
+    },
+    {
+      "id": "body-01",
+      "fontSize": 46,
+      "lines": [
+        "📌 Want to make more revenue",
+        "with cold email? We can run",
+        "this same system for you."
+      ],
+      "textWidths": [
+        524.65625,
+        468.296875,
+        433.171875
+      ],
+      "width": 556.85625,
+      "height": 190.44000000000003,
+      "top": 708.2133333333334,
+      "bottom": 898.6533333333334,
+      "centerX": 540
+    },
+    {
+      "id": "body-02",
+      "fontSize": 46,
+      "lines": [
+        "If we don't book calls, you don't pay 💰"
+      ],
+      "textWidths": [
+        642.265625
+      ],
+      "width": 675.385625,
+      "height": 80.04,
+      "top": 1184.0666666666666,
+      "bottom": 1264.1066666666666,
+      "centerX": 540
+    },
+    {
+      "id": "cta",
+      "fontSize": 52,
+      "lines": [
+        "Click the button below for more info 👇"
+      ],
+      "textWidths": [
+        740.75
+      ],
+      "width": 778.19,
+      "height": 90.48,
+      "top": 1549.52,
+      "bottom": 1640.0,
+      "centerX": 540
+    }
+  ]
+}

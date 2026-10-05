@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "style": "style-4",
+  "source": "Screenshot_20261003-192122_Gallery.jpg",
+  "blocks": [
+    {
+      "id": "hook",
+      "text": "I'm looking for 5-10 B2B companies that want to send 50,000+ cold emails",
+      "lines": [
+        "I'm looking for 5-10 B2B",
+        "companies that want to send",
+        "50,000+ cold emails"
+      ]
+    },
+    {
+      "id": "step-1",
+      "text": "📌 We find every decision maker in your market",
+      "lines": [
+        "📌 We find every decision maker in",
+        "your market"
+      ]
+    },
+    {
+      "id": "step-2",
+      "text": "📌 We use intent signals to narrow the list to companies actively looking for what you sell",
+      "lines": [
+        "📌 We use intent signals to narrow",
+        "the list to companies actively",
+        "looking for what you sell"
+      ]
+    },
+    {
+      "id": "step-3",
+      "text": "📌 We personalize every outreach email using AI",
+      "lines": [
+        "📌 We personalize every outreach",
+        "email using AI"
+      ]
+    },
+    {
+      "id": "step-4",
+      "text": "📌 We respond to the leads and book the calls",
+      "lines": [
+        "📌 We respond to the leads and",
+        "book the calls"
+      ]
+    },
+    {
+      "id": "cta",
+      "text": "click the button below 👇",
+      "lines": [
+        "click the button below 👇"
+      ]
+    }
+  ]
+}

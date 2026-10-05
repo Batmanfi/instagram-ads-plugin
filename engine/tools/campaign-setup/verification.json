@@ -1,0 +1,189 @@
+{
+  "version": 1,
+  "verifiedAt": "2026-10-04",
+  "status": "passed",
+  "scope": "Production setup integration; QA-only synthetic copy. No production campaign delivered.",
+  "checks": {
+    "setupTests": 8,
+    "existingMusicAndLayoutTests": 11,
+    "typeScript": "passed",
+    "batchSettings": "20 ads; all four styles; music only on selected IDs; three tracks used",
+    "browser": "Actual source count/IDs, per-ad style/music/track overrides, silence, persistence, 320px layout and no console errors passed",
+    "pendingSetupRenderGuard": "rejected before rendering"
+  },
+  "limitations": [
+    "A fresh user chat was not created during verification. Project AGENTS.md now routes new submitted ad copy to this workflow.",
+    "No current Google Doc was provided; source snapshot/URL archiving was tested with fixtures. Live reads require connected Drive access."
+  ],
+  "qaRenderReport": {
+    "status": "QA only \u2014 campaign setup integration",
+    "campaign": "setup-qa-2026-10-04-01",
+    "copySource": "data/campaigns/setup-qa-2026-10-04-01/Original-Ad-Copy.md",
+    "copySha256": "818898ba947132a7df93cc3cf296482a8b1f4bf603b56fb04b4f5bae5fad2eef",
+    "ads": [
+      {
+        "id": "qa-silent",
+        "status": "rendered",
+        "output": "/Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/work/2026-10-04T17-00-57-810Z/IG-setup-qa-2026-10-04-01-qa-silent-2026-10-04T17-00-57-810Z.mp4",
+        "stills": [
+          "/Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/work/2026-10-04T17-00-57-810Z/qa-silent-0.png",
+          "/Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/work/2026-10-04T17-00-57-810Z/qa-silent-150.png",
+          "/Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/work/2026-10-04T17-00-57-810Z/qa-silent-299.png"
+        ],
+        "music": null,
+        "audioTimingNormalization": "not needed",
+        "metadata": {
+          "codec": "h264",
+          "pixelFormat": "yuv420p",
+          "width": 1080,
+          "height": 1920,
+          "fps": "30/1",
+          "frames": "300",
+          "duration": "10.000000",
+          "decode": "passed",
+          "audio": "none"
+        },
+        "outputSha256": "ce1c6b9fe91d158407b20d584238111ef57f4814c9383f751aa2af3fd80394e5"
+      },
+      {
+        "id": "qa-music",
+        "status": "rendered",
+        "output": "/Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/work/2026-10-04T17-00-57-810Z/IG-setup-qa-2026-10-04-01-qa-music-2026-10-04T17-00-57-810Z.mp4",
+        "stills": [
+          "/Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/work/2026-10-04T17-00-57-810Z/qa-music-0.png",
+          "/Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/work/2026-10-04T17-00-57-810Z/qa-music-150.png",
+          "/Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/work/2026-10-04T17-00-57-810Z/qa-music-299.png"
+        ],
+        "music": {
+          "track": "hush",
+          "filename": "hush-Wuc5DWazolU.mp3",
+          "startTime": 0,
+          "volume": 0.25,
+          "fadeInSeconds": 0.26666666666666666,
+          "fadeOutSeconds": 0.5
+        },
+        "audioTimingNormalization": "AAC padding trimmed to exactly 10s; video stream copied unchanged",
+        "metadata": {
+          "codec": "h264",
+          "pixelFormat": "yuv420p",
+          "width": 1080,
+          "height": 1920,
+          "fps": "30/1",
+          "frames": "300",
+          "duration": "10.000000",
+          "decode": "passed",
+          "audio": "aac"
+        },
+        "outputSha256": "3eec7b7dffde7db30b1c3fce5fbf2505f2a54145c99dd53aafa8a72dc0b9be1e"
+      }
+    ],
+    "assets": [
+      {
+        "filename": "01-Mount-Rainier-Road-1080x1920.mp4",
+        "duration": 12.366667,
+        "width": 1080,
+        "height": 1920,
+        "fps": "30/1",
+        "suitableFor10Seconds": true
+      },
+      {
+        "filename": "02-Cactus-Garden-1080x1920.mp4",
+        "duration": 9.033333,
+        "width": 1080,
+        "height": 1920,
+        "fps": "30/1",
+        "suitableFor10Seconds": false
+      },
+      {
+        "filename": "03-Rocky-Coast-1080x1920.mp4",
+        "duration": 16.082733,
+        "width": 1080,
+        "height": 1920,
+        "fps": "60000/1001",
+        "suitableFor10Seconds": true
+      },
+      {
+        "filename": "04-Pine-Mountains-1080x1920.mp4",
+        "duration": 8.4,
+        "width": 1080,
+        "height": 1920,
+        "fps": "30/1",
+        "suitableFor10Seconds": false
+      },
+      {
+        "filename": "05-City-Traffic-Dusk-1920x1080.mp4",
+        "duration": 18.385033,
+        "width": 1920,
+        "height": 1080,
+        "fps": "30000/1001",
+        "suitableFor10Seconds": true
+      },
+      {
+        "filename": "06-Flowering-Cactus-Garden-1080x1920.mp4",
+        "duration": 11.52,
+        "width": 1080,
+        "height": 1920,
+        "fps": "25/1",
+        "suitableFor10Seconds": true
+      },
+      {
+        "filename": "07-Lake-and-Mountains-1080x1920.mp4",
+        "duration": 8.65,
+        "width": 1080,
+        "height": 1920,
+        "fps": "60/1",
+        "suitableFor10Seconds": false
+      },
+      {
+        "filename": "08-Lake-Sunset-1080x1920.mp4",
+        "duration": 5.64,
+        "width": 1080,
+        "height": 1920,
+        "fps": "25/1",
+        "suitableFor10Seconds": false
+      },
+      {
+        "filename": "09-Lake-1080x1920.mp4",
+        "duration": 9.92,
+        "width": 1080,
+        "height": 1920,
+        "fps": "25/1",
+        "suitableFor10Seconds": false
+      },
+      {
+        "filename": "10-Island-Coast-1080x1920.mp4",
+        "duration": 19.085,
+        "width": 1080,
+        "height": 1920,
+        "fps": "30000/1001",
+        "suitableFor10Seconds": true
+      },
+      {
+        "filename": "11-Mountain-Landscape-1080x1920.mp4",
+        "duration": 10.133333,
+        "width": 1080,
+        "height": 1920,
+        "fps": "30/1",
+        "suitableFor10Seconds": true
+      },
+      {
+        "filename": "12-Mountain-Road-2160x3840.mp4",
+        "duration": 103.125,
+        "width": 2160,
+        "height": 3840,
+        "fps": "24/1",
+        "suitableFor10Seconds": true
+      }
+    ],
+    "contactSheet": "/Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/work/campaign-contact-sheet-2026-10-04T17-00-57-810Z.png"
+  },
+  "files": {
+    "AGENTS.md": "aa5171280872ce3e90c7dc7675670fab5505a646ecb03bccf6857471a520f554",
+    "package.json": "71a0606b8cd6a2739cd617879a069cf6592b7f9f61f1918cbc1531b687031074",
+    "scripts/campaign-setup.mjs": "b276acf0e5f2ff064d71fdc3beaf73c5842d73387fef20793b0b72de7dbd4a1b",
+    "scripts/lib/campaign-setup.mjs": "1cd1a723f8ba264ad29ca8d011400c82a70351dd622264f3601045c0dd1e7334",
+    "scripts/render.mjs": "722c3dabb130af610dae0375ab308ecc405e1d09a288347d1b8e9f9252841f98",
+    "tools/campaign-setup/form.template.html": "08c4666efc7419a3befbac69df5063b99ff59dea1ba0d47f2737cb507a712bd6",
+    "tools/campaign-setup/form.js": "46768ef0033395dce0cee63b469e9be8cc0def6ba721187cb9b4626bf9e1edbb"
+  }
+}

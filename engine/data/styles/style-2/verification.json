@@ -1,0 +1,227 @@
+{
+  "style": "style-2",
+  "version": 1,
+  "savedOn": "2026-10-03",
+  "status": "user-approved saved preset",
+  "typeScript": "passed",
+  "geometryTests": {
+    "passed": 7
+  },
+  "sourceCopyAudit": "passed; all seven blocks and all four emoji assets equal the approved reference",
+  "paperTrackingAudit": "passed; every text layer Roboto Bold 700 with -0.01em",
+  "paperVisualReview": "passed; all seven joined outlines, preserved copy/wrapping/emoji layers and unclipped guide reviewed",
+  "safeMargins": "passed; 150/70/280 px, outline limit 940 px",
+  "gaps": "passed; minimum 28 px",
+  "renderChecks": [
+    {
+      "name": "style-2-reference",
+      "result": "render passed",
+      "message": ""
+    },
+    {
+      "name": "style-2-changed-copy",
+      "result": "render passed",
+      "message": ""
+    },
+    {
+      "name": "style-2-copy-fit-guard",
+      "result": "rejected as expected",
+      "message": "style-2-reference/hook: copy exceeds safe area. Request shorter copy or adjust layout."
+    },
+    {
+      "name": "style-1-reference",
+      "result": "render passed",
+      "message": ""
+    },
+    {
+      "name": "style-1-changed-copy",
+      "result": "render passed",
+      "message": ""
+    },
+    {
+      "name": "style-1-exact-copy-guard",
+      "result": "rejected as expected",
+      "message": "hook: explicit lines alter source copy.\n    at layout (http://localhost:3000/bundle.js:6546:11)"
+    },
+    {
+      "name": "style-1-copy-fit-guard",
+      "result": "rejected as expected",
+      "message": "style-1-reference/hook: copy exceeds safe area. Request shorter copy or adjust layout."
+    },
+    {
+      "name": "seven-block-auto-layout",
+      "result": "render passed",
+      "message": ""
+    },
+    {
+      "name": "long-copy-readability",
+      "result": "rejected as expected",
+      "message": "template-qa/long: copy exceeds safe area. Request shorter copy or adjust layout."
+    },
+    {
+      "name": "manual-lines-preserve-copy",
+      "result": "rejected as expected",
+      "message": "altered: explicit lines alter source copy.\n    at layout (http://localhost:3000/bundle.js:6546:11)"
+    },
+    {
+      "name": "bottom-safe-area",
+      "result": "rejected as expected",
+      "message": "template-qa/bottom: copy exceeds safe area. Request shorter copy or adjust layout."
+    }
+  ],
+  "liveEditor": {
+    "blocks": [
+      {
+        "id": "hook",
+        "lineCount": 3,
+        "emojiCount": 0,
+        "width": 930.093125,
+        "height": 272.8
+      },
+      {
+        "id": "intro",
+        "lineCount": 1,
+        "emojiCount": 0,
+        "width": 478.426875,
+        "height": 90.48
+      },
+      {
+        "id": "step-1",
+        "lineCount": 2,
+        "emojiCount": 1,
+        "width": 603.090625,
+        "height": 131.56
+      },
+      {
+        "id": "step-2",
+        "lineCount": 2,
+        "emojiCount": 1,
+        "width": 683.246875,
+        "height": 131.56
+      },
+      {
+        "id": "step-3",
+        "lineCount": 2,
+        "emojiCount": 1,
+        "width": 671.496875,
+        "height": 131.56
+      },
+      {
+        "id": "proof",
+        "lineCount": 3,
+        "emojiCount": 0,
+        "width": 710.198125,
+        "height": 197.8
+      },
+      {
+        "id": "cta",
+        "lineCount": 2,
+        "emojiCount": 1,
+        "width": 830.674375,
+        "height": 157.04000000000002
+      }
+    ],
+    "trackingUpdate": "passed",
+    "copyUpdate": "passed",
+    "fontWeight": 700,
+    "letterSpacingEm": -0.01,
+    "fonts": true
+  },
+  "referenceOutlines": [
+    {
+      "id": "hook",
+      "width": 930.64,
+      "height": 272.8,
+      "sha256": "f3890ec4a30b04874ba64f56bd45ca853010ed4a6ca24ee240f9e8f787274251"
+    },
+    {
+      "id": "intro",
+      "width": 478.88,
+      "height": 90.48,
+      "sha256": "44c941e6afc89d07f25ad8b7a1abf00a6704c5a83fdec8614b4613456a3b591d"
+    },
+    {
+      "id": "step-1",
+      "width": 603.2,
+      "height": 131.56,
+      "sha256": "72da934ebd3e2ccf17716ebe8b7131c4700f1879688d4092e5c32814d19014a5"
+    },
+    {
+      "id": "step-2",
+      "width": 684.2,
+      "height": 131.56,
+      "sha256": "ba5fde822f37c30b1ed6b945712b3b3e2e0a1a27b777040886c5654b7ba7012b"
+    },
+    {
+      "id": "step-3",
+      "width": 672.2,
+      "height": 131.56,
+      "sha256": "aeaa7e6a73f72135636d211d1a4eb90e1d3e75017e26be4112b126146e646894"
+    },
+    {
+      "id": "proof",
+      "width": 711.12,
+      "height": 197.8,
+      "sha256": "401fe0d702470ff16d788eea9d4dfe3243491f695a7c3c30b75531bb4f881619"
+    },
+    {
+      "id": "cta",
+      "width": 831.44,
+      "height": 157.04000000000002,
+      "sha256": "11596b23f8a17e8904ec527b8888fbd4b1a64702ecaebe1ef18bcee4781bb09c"
+    }
+  ],
+  "visualInspection": "Renderer still reviewed: all copy, four emoji images, wrapping, centered text, joined black/white contours, spacing, contrast and safe margins pass.",
+  "preview": "design/styles/style-2/remotion-reference-preview.png",
+  "fontIdentity": "Roboto Bold is the user-approved visual match; exact Instagram Classic identity unverified.",
+  "files": [
+    {
+      "path": "data/styles/style-2/reference-input.json",
+      "sha256": "6aae46e4f33f57e34fa781f72651858a1480e589ce8a7f6fbb45239a70a3dd9d"
+    },
+    {
+      "path": "data/styles/style-2/reference-copy.json",
+      "sha256": "a72bd3f3348c0c8ec81f78c4a410984d9786d0f2184c914811c2d0595688cd8c"
+    },
+    {
+      "path": "data/styles/style-2/reference-manifest.json",
+      "sha256": "e96fb845c058db2fb9470450266eb26893646697e5b5b122f6d0fb422bcab3ce"
+    },
+    {
+      "path": "data/styles/style-2/definition.json",
+      "sha256": "0050e9e58b3cd7c834083f436eb33465bdd01222735afb02c604471efefd26a3"
+    },
+    {
+      "path": "design/styles/style-2/input.json",
+      "sha256": "6aae46e4f33f57e34fa781f72651858a1480e589ce8a7f6fbb45239a70a3dd9d"
+    },
+    {
+      "path": "design/styles/style-2/paper-map.json",
+      "sha256": "ee8fb27bc5347c2ee402b844570ea26e488f9a1d1a41ded4fbb9170cb15def99"
+    },
+    {
+      "path": "design/styles/style-2/paper-approved-snapshot.json",
+      "sha256": "b7c9bf09530b3fc86d5da7219daf35e605902269a8c1daf4140b66440ef5f1cd"
+    },
+    {
+      "path": "design/styles/style-2/generated/highlight-editor.html",
+      "sha256": "10cac3abcec1ab0f27a99cfe8f1e3635f4bae42ce8e8e189abf2086f421fb3e9"
+    },
+    {
+      "path": "public/fonts/Roboto-Bold.ttf",
+      "sha256": "c28d12019603d7b564da4ddefc5f7a47bec3ad2d044cdcd8bda44827bcb72fa5"
+    },
+    {
+      "path": "scripts/lib/highlight-editor.mjs",
+      "sha256": "3d1adc80764765653df7000708a6fe15093e4275137e1e2a59ee4270d1ae5fad"
+    },
+    {
+      "path": "src/styles.ts",
+      "sha256": "e89cf78cef34db45e73cb5d2c6ccd7dd2d23c04d9a552e4c37696d7dff5eb827"
+    },
+    {
+      "path": "src/InstagramAd.tsx",
+      "sha256": "e41a354e4b5f82f419579034f62afbf502f58df69b17f4e18a147bf67bfefc5f"
+    }
+  ]
+}

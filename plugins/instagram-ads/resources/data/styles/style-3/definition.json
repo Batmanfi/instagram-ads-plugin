@@ -1,0 +1,149 @@
+{
+  "id": "style-3",
+  "name": "Style 3 — Coral highlights",
+  "version": 1,
+  "savedOn": "2026-10-03",
+  "status": "user-approved",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "safeMargins": {
+      "top": 150,
+      "side": 70,
+      "bottom": 280
+    }
+  },
+  "fps": 30,
+  "durationInFrames": 300,
+  "minBlockGap": 28,
+  "minFontSize": 44,
+  "maxWidth": 940,
+  "fontFile": "public/fonts/Roboto-Bold.ttf",
+  "fontFamily": "Roboto",
+  "fontWeight": 700,
+  "fontPreset": "wide-bold",
+  "letterSpacingEm": -0.01,
+  "defaultContrast": 0.28,
+  "mergeThresholdEm": 0.1,
+  "highlightPresets": {
+    "hook": {
+      "paddingXEm": 0.36,
+      "paddingYEm": 0.22,
+      "rowHeightEm": 1.1076923076923078,
+      "outerRadiusEm": 0.25,
+      "innerRadiusEm": 0.25
+    },
+    "label": {
+      "paddingXEm": 0.28,
+      "paddingYEm": 0.2,
+      "rowHeightEm": 1.1478260869565218,
+      "outerRadiusEm": 0.25,
+      "innerRadiusEm": 0.25
+    },
+    "white": {
+      "paddingXEm": 0.28,
+      "paddingYEm": 0.23,
+      "rowHeightEm": 1.0775510204081633,
+      "outerRadiusEm": 0.25,
+      "innerRadiusEm": 0.25
+    },
+    "black": {
+      "paddingXEm": 0.28,
+      "paddingYEm": 0.23,
+      "rowHeightEm": 1.0904347826086955,
+      "outerRadiusEm": 0.25,
+      "innerRadiusEm": 0.25
+    }
+  },
+  "roles": {
+    "hook": {
+      "fontSize": 52.0,
+      "highlight": "black",
+      "preset": "hook",
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "letterSpacingEm": -0.01,
+      "geometry": {
+        "paddingXEm": 0.36,
+        "paddingYEm": 0.22,
+        "rowHeightEm": 1.1076923076923078,
+        "outerRadiusEm": 0.25,
+        "innerRadiusEm": 0.25
+      },
+      "textColor": "#FEECEB",
+      "highlightColor": "#ED4957"
+    },
+    "label": {
+      "fontSize": 46.0,
+      "highlight": "black",
+      "preset": "label",
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "letterSpacingEm": -0.01,
+      "geometry": {
+        "paddingXEm": 0.28,
+        "paddingYEm": 0.2,
+        "rowHeightEm": 1.1478260869565218,
+        "outerRadiusEm": 0.25,
+        "innerRadiusEm": 0.25
+      },
+      "textColor": "#FEECEB",
+      "highlightColor": "#000000"
+    },
+    "support": {
+      "fontSize": 46.0,
+      "highlight": "black",
+      "preset": "black",
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "letterSpacingEm": -0.01,
+      "geometry": {
+        "paddingXEm": 0.28,
+        "paddingYEm": 0.23,
+        "rowHeightEm": 1.0904347826086955,
+        "outerRadiusEm": 0.25,
+        "innerRadiusEm": 0.25
+      },
+      "textColor": "#FEECEB",
+      "highlightColor": "#000000"
+    },
+    "proof": {
+      "fontSize": 49.0,
+      "highlight": "white",
+      "preset": "white",
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "letterSpacingEm": -0.01,
+      "geometry": {
+        "paddingXEm": 0.28,
+        "paddingYEm": 0.23,
+        "rowHeightEm": 1.0775510204081633,
+        "outerRadiusEm": 0.25,
+        "innerRadiusEm": 0.25
+      },
+      "textColor": "#ED4957",
+      "highlightColor": "#FEEBED"
+    },
+    "cta": {
+      "fontSize": 49.0,
+      "highlight": "white",
+      "preset": "white",
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "letterSpacingEm": -0.01,
+      "geometry": {
+        "paddingXEm": 0.28,
+        "paddingYEm": 0.23,
+        "rowHeightEm": 1.0775510204081633,
+        "outerRadiusEm": 0.25,
+        "innerRadiusEm": 0.25
+      },
+      "textColor": "#ED4957",
+      "highlightColor": "#FEEBED"
+    }
+  },
+  "paperUrl": "https://app.paper.design/file/01M3VF361K5SV4TAFHF5Q9C09D/p-4-0",
+  "reference": "data/styles/style-3/reference-input.json",
+  "approvalNote": "User approved Style 3 and requested -2% Times New Roman hook tracking for Style 4, with darker backgrounds matching Styles 1/2.",
+  "layoutPolicy": "data/layout/defaults.json"
+}

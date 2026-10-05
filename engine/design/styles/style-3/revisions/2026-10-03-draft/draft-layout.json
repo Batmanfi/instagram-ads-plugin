@@ -1,0 +1,400 @@
+{
+  "id": "style-3",
+  "name": "Style 3 — Coral highlights",
+  "pageId": "p-4-0",
+  "master": "CJ-0",
+  "reference": "IMG_20261003_185525_359.webp",
+  "overlay": 0,
+  "blocks": [
+    {
+      "id": "hook",
+      "lines": [
+        "I'm looking for 5-10 B2B companies",
+        "that want to send 50,000+ cold emails",
+        "a month to their target market."
+      ],
+      "x": 540,
+      "y": 276,
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "fontSize": 52,
+      "letterSpacingEm": -0.01,
+      "rowHeightEm": 1.1076923076923078,
+      "paddingXEm": 0.36,
+      "paddingYEm": 0.22,
+      "outerRadiusEm": 0.25,
+      "innerRadiusEm": 0.25,
+      "fillToken": "--color-style-3-coral",
+      "textToken": "--color-style-3-light",
+      "measuredWidths": [
+        817.40625,
+        867.65625,
+        699.78125
+      ],
+      "rowHeight": 57.6,
+      "geometry": {
+        "width": 905.09625,
+        "height": 195.68,
+        "widths": [
+          854.84625,
+          905.09625,
+          737.22125
+        ],
+        "textWidths": [
+          817.40625,
+          867.65625,
+          699.78125
+        ],
+        "rowHeight": 57.6,
+        "paddingX": 18.72,
+        "paddingY": 11.44,
+        "outerRadius": 13,
+        "innerRadius": 13,
+        "d": "M 25.125 13 L 25.125 13 A 13 13 0 0 1 38.125 0 L 866.9713 0 A 13 13 0 0 1 879.9713 13 L 879.9713 45.0375 A 12.5625 12.5625 0 0 0 892.5338 57.6 L 892.5338 57.6 A 12.5625 12.5625 0 0 1 905.0963 70.1625 L 905.0963 125.08 A 13 13 0 0 1 892.0963 138.08 L 834.1588 138.08 A 13 13 0 0 0 821.1588 151.08 L 821.1588 182.68 A 13 13 0 0 1 808.1588 195.68 L 96.9375 195.68 A 13 13 0 0 1 83.9375 182.68 L 83.9375 151.08 A 13 13 0 0 0 70.9375 138.08 L 13 138.08 A 13 13 0 0 1 0 125.08 L 0 70.1625 A 12.5625 12.5625 0 0 1 12.5625 57.6 L 12.5625 57.6 A 12.5625 12.5625 0 0 0 25.125 45.0375 Z"
+      },
+      "width": 905.09625,
+      "height": 195.68,
+      "html": "<div layer-name=\"hook — Move complete block\" style=\"position:absolute;left:87.45187499999997px;top:276px;width:905.09625px;height:195.68px;display:flex\"><svg layer-name=\"hook — Editable joined highlight\" width=\"905.09625\" height=\"195.68\" viewBox=\"0 0 905.09625 195.68\" style=\"position:absolute;left:0px;top:0px\"><path d=\"M 25.125 13 L 25.125 13 A 13 13 0 0 1 38.125 0 L 866.9713 0 A 13 13 0 0 1 879.9713 13 L 879.9713 45.0375 A 12.5625 12.5625 0 0 0 892.5338 57.6 L 892.5338 57.6 A 12.5625 12.5625 0 0 1 905.0963 70.1625 L 905.0963 125.08 A 13 13 0 0 1 892.0963 138.08 L 834.1588 138.08 A 13 13 0 0 0 821.1588 151.08 L 821.1588 182.68 A 13 13 0 0 1 808.1588 195.68 L 96.9375 195.68 A 13 13 0 0 1 83.9375 182.68 L 83.9375 151.08 A 13 13 0 0 0 70.9375 138.08 L 13 138.08 A 13 13 0 0 1 0 125.08 L 0 70.1625 A 12.5625 12.5625 0 0 1 12.5625 57.6 L 12.5625 57.6 A 12.5625 12.5625 0 0 0 25.125 45.0375 Z\" fill=\"var(--color-style-3-coral)\" /></svg><div layer-name=\"hook — Row 1\" style=\"position:absolute;left:43.84500000000003px;top:11.44px;display:flex;align-items:center;width:max-content;height:57.6px;font-family:Roboto;font-size:52px;font-weight:700;letter-spacing:-0.01em;line-height:57.6px;color:var(--color-style-3-light)\"><span layer-name=\"hook — Text 1\" style=\"white-space:pre\">I'm looking for 5-10 B2B companies</span></div><div layer-name=\"hook — Row 2\" style=\"position:absolute;left:18.720000000000027px;top:69.04px;display:flex;align-items:center;width:max-content;height:57.6px;font-family:Roboto;font-size:52px;font-weight:700;letter-spacing:-0.01em;line-height:57.6px;color:var(--color-style-3-light)\"><span layer-name=\"hook — Text 2\" style=\"white-space:pre\">that want to send 50,000+ cold emails</span></div><div layer-name=\"hook — Row 3\" style=\"position:absolute;left:102.65750000000003px;top:126.64px;display:flex;align-items:center;width:max-content;height:57.6px;font-family:Roboto;font-size:52px;font-weight:700;letter-spacing:-0.01em;line-height:57.6px;color:var(--color-style-3-light)\"><span layer-name=\"hook — Text 3\" style=\"white-space:pre\">a month to their target market.</span></div></div>"
+    },
+    {
+      "id": "intro",
+      "lines": [
+        "Here's how it works:"
+      ],
+      "x": 540,
+      "y": 529,
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "fontSize": 46,
+      "letterSpacingEm": -0.01,
+      "rowHeightEm": 1.1478260869565218,
+      "paddingXEm": 0.28,
+      "paddingYEm": 0.2,
+      "outerRadiusEm": 0.25,
+      "innerRadiusEm": 0.25,
+      "fillToken": "--color-style-3-ink",
+      "textToken": "--color-style-3-light",
+      "measuredWidths": [
+        403.4375
+      ],
+      "rowHeight": 52.800000000000004,
+      "geometry": {
+        "width": 429.1975,
+        "height": 71.2,
+        "widths": [
+          429.1975
+        ],
+        "textWidths": [
+          403.4375
+        ],
+        "rowHeight": 52.800000000000004,
+        "paddingX": 12.88,
+        "paddingY": 9.200000000000001,
+        "outerRadius": 11.5,
+        "innerRadius": 11.5,
+        "d": "M 0 11.5 L 0 11.5 A 11.5 11.5 0 0 1 11.5 0 L 417.6975 0 A 11.5 11.5 0 0 1 429.1975 11.5 L 429.1975 59.7 A 11.5 11.5 0 0 1 417.6975 71.2 L 11.5 71.2 A 11.5 11.5 0 0 1 0 59.7 Z"
+      },
+      "width": 429.1975,
+      "height": 71.2,
+      "html": "<div layer-name=\"intro — Move complete block\" style=\"position:absolute;left:325.40125px;top:529px;width:429.1975px;height:71.2px;display:flex\"><svg layer-name=\"intro — Editable joined highlight\" width=\"429.1975\" height=\"71.2\" viewBox=\"0 0 429.1975 71.2\" style=\"position:absolute;left:0px;top:0px\"><path d=\"M 0 11.5 L 0 11.5 A 11.5 11.5 0 0 1 11.5 0 L 417.6975 0 A 11.5 11.5 0 0 1 429.1975 11.5 L 429.1975 59.7 A 11.5 11.5 0 0 1 417.6975 71.2 L 11.5 71.2 A 11.5 11.5 0 0 1 0 59.7 Z\" fill=\"var(--color-style-3-ink)\" /></svg><div layer-name=\"intro — Row 1\" style=\"position:absolute;left:12.879999999999995px;top:9.200000000000001px;display:flex;align-items:center;width:max-content;height:52.800000000000004px;font-family:Roboto;font-size:46px;font-weight:700;letter-spacing:-0.01em;line-height:52.800000000000004px;color:var(--color-style-3-light)\"><span layer-name=\"intro — Text 1\" style=\"white-space:pre\">Here's how it works:</span></div></div>",
+      "gapBefore": 57.31999999999999
+    },
+    {
+      "id": "step-1",
+      "lines": [
+        "📌 We find every decision maker in",
+        "your market"
+      ],
+      "x": 540,
+      "y": 629,
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "fontSize": 46,
+      "letterSpacingEm": -0.01,
+      "rowHeightEm": 1.0904347826086955,
+      "paddingXEm": 0.28,
+      "paddingYEm": 0.23,
+      "outerRadiusEm": 0.25,
+      "innerRadiusEm": 0.25,
+      "fillToken": "--color-style-3-ink",
+      "textToken": "--color-style-3-light",
+      "measuredWidths": [
+        700.0625,
+        243.609375
+      ],
+      "rowHeight": 50.16,
+      "geometry": {
+        "width": 725.8225,
+        "height": 121.47999999999999,
+        "widths": [
+          725.8225,
+          269.369375
+        ],
+        "textWidths": [
+          700.0625,
+          243.609375
+        ],
+        "rowHeight": 50.16,
+        "paddingX": 12.88,
+        "paddingY": 10.58,
+        "outerRadius": 11.5,
+        "innerRadius": 11.5,
+        "d": "M 0 11.5 L 0 11.5 A 11.5 11.5 0 0 1 11.5 0 L 714.3225 0 A 11.5 11.5 0 0 1 725.8225 11.5 L 725.8225 59.82 A 11.5 11.5 0 0 1 714.3225 71.32 L 509.0959 71.32 A 11.5 11.5 0 0 0 497.5959 82.82 L 497.5959 109.98 A 11.5 11.5 0 0 1 486.0959 121.48 L 239.7266 121.48 A 11.5 11.5 0 0 1 228.2266 109.98 L 228.2266 82.82 A 11.5 11.5 0 0 0 216.7266 71.32 L 11.5 71.32 A 11.5 11.5 0 0 1 0 59.82 Z"
+      },
+      "width": 725.8225,
+      "height": 121.47999999999999,
+      "html": "<div layer-name=\"step-1 — Move complete block\" style=\"position:absolute;left:177.08875px;top:629px;width:725.8225px;height:121.47999999999999px;display:flex\"><svg layer-name=\"step-1 — Editable joined highlight\" width=\"725.8225\" height=\"121.47999999999999\" viewBox=\"0 0 725.8225 121.47999999999999\" style=\"position:absolute;left:0px;top:0px\"><path d=\"M 0 11.5 L 0 11.5 A 11.5 11.5 0 0 1 11.5 0 L 714.3225 0 A 11.5 11.5 0 0 1 725.8225 11.5 L 725.8225 59.82 A 11.5 11.5 0 0 1 714.3225 71.32 L 509.0959 71.32 A 11.5 11.5 0 0 0 497.5959 82.82 L 497.5959 109.98 A 11.5 11.5 0 0 1 486.0959 121.48 L 239.7266 121.48 A 11.5 11.5 0 0 1 228.2266 109.98 L 228.2266 82.82 A 11.5 11.5 0 0 0 216.7266 71.32 L 11.5 71.32 A 11.5 11.5 0 0 1 0 59.82 Z\" fill=\"var(--color-style-3-ink)\" /></svg><div layer-name=\"step-1 — Row 1\" style=\"position:absolute;left:12.879999999999995px;top:10.58px;display:flex;align-items:center;width:max-content;height:50.16px;font-family:Roboto;font-size:46px;font-weight:700;letter-spacing:-0.01em;line-height:50.16px;color:var(--color-style-3-light)\"><img layer-name=\"step-1 — 📌\" src=\"paper-asset:///Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/public/emoji/f09f938c.png\" style=\"width:46px;height:46px;flex-shrink:0\" /><span layer-name=\"step-1 — Text 1\" style=\"white-space:pre\"> We find every decision maker in</span></div><div layer-name=\"step-1 — Row 2\" style=\"position:absolute;left:241.1065625px;top:60.739999999999995px;display:flex;align-items:center;width:max-content;height:50.16px;font-family:Roboto;font-size:46px;font-weight:700;letter-spacing:-0.01em;line-height:50.16px;color:var(--color-style-3-light)\"><span layer-name=\"step-1 — Text 2\" style=\"white-space:pre\">your market</span></div></div>",
+      "gapBefore": 28.799999999999997
+    },
+    {
+      "id": "step-2",
+      "lines": [
+        "📌 We use intent signals to narrow",
+        "the list to companies actively",
+        "looking for what you sell"
+      ],
+      "x": 540,
+      "y": 780,
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "fontSize": 46,
+      "letterSpacingEm": -0.01,
+      "rowHeightEm": 1.0904347826086955,
+      "paddingXEm": 0.28,
+      "paddingYEm": 0.23,
+      "outerRadiusEm": 0.25,
+      "innerRadiusEm": 0.25,
+      "fillToken": "--color-style-3-ink",
+      "textToken": "--color-style-3-light",
+      "measuredWidths": [
+        690.578125,
+        588.765625,
+        493.515625
+      ],
+      "rowHeight": 50.16,
+      "geometry": {
+        "width": 716.338125,
+        "height": 171.64,
+        "widths": [
+          716.338125,
+          614.525625,
+          519.275625
+        ],
+        "textWidths": [
+          690.578125,
+          588.765625,
+          493.515625
+        ],
+        "rowHeight": 50.16,
+        "paddingX": 12.88,
+        "paddingY": 10.58,
+        "outerRadius": 11.5,
+        "innerRadius": 11.5,
+        "d": "M 0 11.5 L 0 11.5 A 11.5 11.5 0 0 1 11.5 0 L 704.8381 0 A 11.5 11.5 0 0 1 716.3381 11.5 L 716.3381 59.82 A 11.5 11.5 0 0 1 704.8381 71.32 L 676.9319 71.32 A 11.5 11.5 0 0 0 665.4319 82.82 L 665.4319 109.98 A 11.5 11.5 0 0 1 653.9319 121.48 L 629.3069 121.48 A 11.5 11.5 0 0 0 617.8069 132.98 L 617.8069 160.14 A 11.5 11.5 0 0 1 606.3069 171.64 L 110.0313 171.64 A 11.5 11.5 0 0 1 98.5313 160.14 L 98.5313 132.98 A 11.5 11.5 0 0 0 87.0313 121.48 L 62.4063 121.48 A 11.5 11.5 0 0 1 50.9063 109.98 L 50.9063 82.82 A 11.5 11.5 0 0 0 39.4063 71.32 L 11.5 71.32 A 11.5 11.5 0 0 1 0 59.82 Z"
+      },
+      "width": 716.338125,
+      "height": 171.64,
+      "html": "<div layer-name=\"step-2 — Move complete block\" style=\"position:absolute;left:181.8309375px;top:780px;width:716.338125px;height:171.64px;display:flex\"><svg layer-name=\"step-2 — Editable joined highlight\" width=\"716.338125\" height=\"171.64\" viewBox=\"0 0 716.338125 171.64\" style=\"position:absolute;left:0px;top:0px\"><path d=\"M 0 11.5 L 0 11.5 A 11.5 11.5 0 0 1 11.5 0 L 704.8381 0 A 11.5 11.5 0 0 1 716.3381 11.5 L 716.3381 59.82 A 11.5 11.5 0 0 1 704.8381 71.32 L 676.9319 71.32 A 11.5 11.5 0 0 0 665.4319 82.82 L 665.4319 109.98 A 11.5 11.5 0 0 1 653.9319 121.48 L 629.3069 121.48 A 11.5 11.5 0 0 0 617.8069 132.98 L 617.8069 160.14 A 11.5 11.5 0 0 1 606.3069 171.64 L 110.0313 171.64 A 11.5 11.5 0 0 1 98.5313 160.14 L 98.5313 132.98 A 11.5 11.5 0 0 0 87.0313 121.48 L 62.4063 121.48 A 11.5 11.5 0 0 1 50.9063 109.98 L 50.9063 82.82 A 11.5 11.5 0 0 0 39.4063 71.32 L 11.5 71.32 A 11.5 11.5 0 0 1 0 59.82 Z\" fill=\"var(--color-style-3-ink)\" /></svg><div layer-name=\"step-2 — Row 1\" style=\"position:absolute;left:12.879999999999995px;top:10.58px;display:flex;align-items:center;width:max-content;height:50.16px;font-family:Roboto;font-size:46px;font-weight:700;letter-spacing:-0.01em;line-height:50.16px;color:var(--color-style-3-light)\"><img layer-name=\"step-2 — 📌\" src=\"paper-asset:///Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/public/emoji/f09f938c.png\" style=\"width:46px;height:46px;flex-shrink:0\" /><span layer-name=\"step-2 — Text 1\" style=\"white-space:pre\"> We use intent signals to narrow</span></div><div layer-name=\"step-2 — Row 2\" style=\"position:absolute;left:63.786249999999995px;top:60.739999999999995px;display:flex;align-items:center;width:max-content;height:50.16px;font-family:Roboto;font-size:46px;font-weight:700;letter-spacing:-0.01em;line-height:50.16px;color:var(--color-style-3-light)\"><span layer-name=\"step-2 — Text 2\" style=\"white-space:pre\">the list to companies actively</span></div><div layer-name=\"step-2 — Row 3\" style=\"position:absolute;left:111.41125px;top:110.89999999999999px;display:flex;align-items:center;width:max-content;height:50.16px;font-family:Roboto;font-size:46px;font-weight:700;letter-spacing:-0.01em;line-height:50.16px;color:var(--color-style-3-light)\"><span layer-name=\"step-2 — Text 3\" style=\"white-space:pre\">looking for what you sell</span></div></div>",
+      "gapBefore": 29.52000000000001
+    },
+    {
+      "id": "step-3",
+      "lines": [
+        "📌 We personalize every outreach",
+        "email using AI"
+      ],
+      "x": 540,
+      "y": 981,
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "fontSize": 46,
+      "letterSpacingEm": -0.01,
+      "rowHeightEm": 1.0904347826086955,
+      "paddingXEm": 0.28,
+      "paddingYEm": 0.23,
+      "outerRadiusEm": 0.25,
+      "innerRadiusEm": 0.25,
+      "fillToken": "--color-style-3-ink",
+      "textToken": "--color-style-3-light",
+      "measuredWidths": [
+        677.828125,
+        288.078125
+      ],
+      "rowHeight": 50.16,
+      "geometry": {
+        "width": 703.588125,
+        "height": 121.47999999999999,
+        "widths": [
+          703.588125,
+          313.838125
+        ],
+        "textWidths": [
+          677.828125,
+          288.078125
+        ],
+        "rowHeight": 50.16,
+        "paddingX": 12.88,
+        "paddingY": 10.58,
+        "outerRadius": 11.5,
+        "innerRadius": 11.5,
+        "d": "M 0 11.5 L 0 11.5 A 11.5 11.5 0 0 1 11.5 0 L 692.0881 0 A 11.5 11.5 0 0 1 703.5881 11.5 L 703.5881 59.82 A 11.5 11.5 0 0 1 692.0881 71.32 L 520.2131 71.32 A 11.5 11.5 0 0 0 508.7131 82.82 L 508.7131 109.98 A 11.5 11.5 0 0 1 497.2131 121.48 L 206.375 121.48 A 11.5 11.5 0 0 1 194.875 109.98 L 194.875 82.82 A 11.5 11.5 0 0 0 183.375 71.32 L 11.5 71.32 A 11.5 11.5 0 0 1 0 59.82 Z"
+      },
+      "width": 703.588125,
+      "height": 121.47999999999999,
+      "html": "<div layer-name=\"step-3 — Move complete block\" style=\"position:absolute;left:188.2059375px;top:981px;width:703.588125px;height:121.47999999999999px;display:flex\"><svg layer-name=\"step-3 — Editable joined highlight\" width=\"703.588125\" height=\"121.47999999999999\" viewBox=\"0 0 703.588125 121.47999999999999\" style=\"position:absolute;left:0px;top:0px\"><path d=\"M 0 11.5 L 0 11.5 A 11.5 11.5 0 0 1 11.5 0 L 692.0881 0 A 11.5 11.5 0 0 1 703.5881 11.5 L 703.5881 59.82 A 11.5 11.5 0 0 1 692.0881 71.32 L 520.2131 71.32 A 11.5 11.5 0 0 0 508.7131 82.82 L 508.7131 109.98 A 11.5 11.5 0 0 1 497.2131 121.48 L 206.375 121.48 A 11.5 11.5 0 0 1 194.875 109.98 L 194.875 82.82 A 11.5 11.5 0 0 0 183.375 71.32 L 11.5 71.32 A 11.5 11.5 0 0 1 0 59.82 Z\" fill=\"var(--color-style-3-ink)\" /></svg><div layer-name=\"step-3 — Row 1\" style=\"position:absolute;left:12.879999999999995px;top:10.58px;display:flex;align-items:center;width:max-content;height:50.16px;font-family:Roboto;font-size:46px;font-weight:700;letter-spacing:-0.01em;line-height:50.16px;color:var(--color-style-3-light)\"><img layer-name=\"step-3 — 📌\" src=\"paper-asset:///Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/public/emoji/f09f938c.png\" style=\"width:46px;height:46px;flex-shrink:0\" /><span layer-name=\"step-3 — Text 1\" style=\"white-space:pre\"> We personalize every outreach</span></div><div layer-name=\"step-3 — Row 2\" style=\"position:absolute;left:207.755px;top:60.739999999999995px;display:flex;align-items:center;width:max-content;height:50.16px;font-family:Roboto;font-size:46px;font-weight:700;letter-spacing:-0.01em;line-height:50.16px;color:var(--color-style-3-light)\"><span layer-name=\"step-3 — Text 2\" style=\"white-space:pre\">email using AI</span></div></div>",
+      "gapBefore": 29.360000000000014
+    },
+    {
+      "id": "step-4",
+      "lines": [
+        "📌 We respond to the leads and",
+        "book the calls"
+      ],
+      "x": 540,
+      "y": 1132,
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "fontSize": 46,
+      "letterSpacingEm": -0.01,
+      "rowHeightEm": 1.0904347826086955,
+      "paddingXEm": 0.28,
+      "paddingYEm": 0.23,
+      "outerRadiusEm": 0.25,
+      "innerRadiusEm": 0.25,
+      "fillToken": "--color-style-3-ink",
+      "textToken": "--color-style-3-light",
+      "measuredWidths": [
+        629.078125,
+        281.546875
+      ],
+      "rowHeight": 50.16,
+      "geometry": {
+        "width": 654.838125,
+        "height": 121.47999999999999,
+        "widths": [
+          654.838125,
+          307.306875
+        ],
+        "textWidths": [
+          629.078125,
+          281.546875
+        ],
+        "rowHeight": 50.16,
+        "paddingX": 12.88,
+        "paddingY": 10.58,
+        "outerRadius": 11.5,
+        "innerRadius": 11.5,
+        "d": "M 0 11.5 L 0 11.5 A 11.5 11.5 0 0 1 11.5 0 L 643.3381 0 A 11.5 11.5 0 0 1 654.8381 11.5 L 654.8381 59.82 A 11.5 11.5 0 0 1 643.3381 71.32 L 492.5725 71.32 A 11.5 11.5 0 0 0 481.0725 82.82 L 481.0725 109.98 A 11.5 11.5 0 0 1 469.5725 121.48 L 185.2656 121.48 A 11.5 11.5 0 0 1 173.7656 109.98 L 173.7656 82.82 A 11.5 11.5 0 0 0 162.2656 71.32 L 11.5 71.32 A 11.5 11.5 0 0 1 0 59.82 Z"
+      },
+      "width": 654.838125,
+      "height": 121.47999999999999,
+      "html": "<div layer-name=\"step-4 — Move complete block\" style=\"position:absolute;left:212.5809375px;top:1132px;width:654.838125px;height:121.47999999999999px;display:flex\"><svg layer-name=\"step-4 — Editable joined highlight\" width=\"654.838125\" height=\"121.47999999999999\" viewBox=\"0 0 654.838125 121.47999999999999\" style=\"position:absolute;left:0px;top:0px\"><path d=\"M 0 11.5 L 0 11.5 A 11.5 11.5 0 0 1 11.5 0 L 643.3381 0 A 11.5 11.5 0 0 1 654.8381 11.5 L 654.8381 59.82 A 11.5 11.5 0 0 1 643.3381 71.32 L 492.5725 71.32 A 11.5 11.5 0 0 0 481.0725 82.82 L 481.0725 109.98 A 11.5 11.5 0 0 1 469.5725 121.48 L 185.2656 121.48 A 11.5 11.5 0 0 1 173.7656 109.98 L 173.7656 82.82 A 11.5 11.5 0 0 0 162.2656 71.32 L 11.5 71.32 A 11.5 11.5 0 0 1 0 59.82 Z\" fill=\"var(--color-style-3-ink)\" /></svg><div layer-name=\"step-4 — Row 1\" style=\"position:absolute;left:12.879999999999995px;top:10.58px;display:flex;align-items:center;width:max-content;height:50.16px;font-family:Roboto;font-size:46px;font-weight:700;letter-spacing:-0.01em;line-height:50.16px;color:var(--color-style-3-light)\"><img layer-name=\"step-4 — 📌\" src=\"paper-asset:///Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/public/emoji/f09f938c.png\" style=\"width:46px;height:46px;flex-shrink:0\" /><span layer-name=\"step-4 — Text 1\" style=\"white-space:pre\"> We respond to the leads and</span></div><div layer-name=\"step-4 — Row 2\" style=\"position:absolute;left:186.645625px;top:60.739999999999995px;display:flex;align-items:center;width:max-content;height:50.16px;font-family:Roboto;font-size:46px;font-weight:700;letter-spacing:-0.01em;line-height:50.16px;color:var(--color-style-3-light)\"><span layer-name=\"step-4 — Text 2\" style=\"white-space:pre\">book the calls</span></div></div>",
+      "gapBefore": 29.52000000000001
+    },
+    {
+      "id": "proof",
+      "lines": [
+        "You only have to take the calls",
+        "and close the deals."
+      ],
+      "x": 540,
+      "y": 1337,
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "fontSize": 49,
+      "letterSpacingEm": -0.01,
+      "rowHeightEm": 1.0775510204081633,
+      "paddingXEm": 0.28,
+      "paddingYEm": 0.23,
+      "outerRadiusEm": 0.25,
+      "innerRadiusEm": 0.25,
+      "fillToken": "--color-style-3-pale",
+      "textToken": "--color-style-3-coral",
+      "measuredWidths": [
+        650.703125,
+        428.90625
+      ],
+      "rowHeight": 52.800000000000004,
+      "geometry": {
+        "width": 678.143125,
+        "height": 128.14000000000001,
+        "widths": [
+          678.143125,
+          456.34625
+        ],
+        "textWidths": [
+          650.703125,
+          428.90625
+        ],
+        "rowHeight": 52.800000000000004,
+        "paddingX": 13.72,
+        "paddingY": 11.270000000000001,
+        "outerRadius": 12.25,
+        "innerRadius": 12.25,
+        "d": "M 0 12.25 L 0 12.25 A 12.25 12.25 0 0 1 12.25 0 L 665.8931 0 A 12.25 12.25 0 0 1 678.1431 12.25 L 678.1431 63.09 A 12.25 12.25 0 0 1 665.8931 75.34 L 579.4947 75.34 A 12.25 12.25 0 0 0 567.2447 87.59 L 567.2447 115.89 A 12.25 12.25 0 0 1 554.9947 128.14 L 123.1484 128.14 A 12.25 12.25 0 0 1 110.8984 115.89 L 110.8984 87.59 A 12.25 12.25 0 0 0 98.6484 75.34 L 12.25 75.34 A 12.25 12.25 0 0 1 0 63.09 Z"
+      },
+      "width": 678.143125,
+      "height": 128.14000000000001,
+      "html": "<div layer-name=\"proof — Move complete block\" style=\"position:absolute;left:200.92843749999997px;top:1337px;width:678.143125px;height:128.14000000000001px;display:flex\"><svg layer-name=\"proof — Editable joined highlight\" width=\"678.143125\" height=\"128.14000000000001\" viewBox=\"0 0 678.143125 128.14000000000001\" style=\"position:absolute;left:0px;top:0px\"><path d=\"M 0 12.25 L 0 12.25 A 12.25 12.25 0 0 1 12.25 0 L 665.8931 0 A 12.25 12.25 0 0 1 678.1431 12.25 L 678.1431 63.09 A 12.25 12.25 0 0 1 665.8931 75.34 L 579.4947 75.34 A 12.25 12.25 0 0 0 567.2447 87.59 L 567.2447 115.89 A 12.25 12.25 0 0 1 554.9947 128.14 L 123.1484 128.14 A 12.25 12.25 0 0 1 110.8984 115.89 L 110.8984 87.59 A 12.25 12.25 0 0 0 98.6484 75.34 L 12.25 75.34 A 12.25 12.25 0 0 1 0 63.09 Z\" fill=\"var(--color-style-3-pale)\" /></svg><div layer-name=\"proof — Row 1\" style=\"position:absolute;left:13.720000000000027px;top:11.270000000000001px;display:flex;align-items:center;width:max-content;height:52.800000000000004px;font-family:Roboto;font-size:49px;font-weight:700;letter-spacing:-0.01em;line-height:52.800000000000004px;color:var(--color-style-3-coral)\"><span layer-name=\"proof — Text 1\" style=\"white-space:pre\">You only have to take the calls</span></div><div layer-name=\"proof — Row 2\" style=\"position:absolute;left:124.61843750000003px;top:64.07000000000001px;display:flex;align-items:center;width:max-content;height:52.800000000000004px;font-family:Roboto;font-size:49px;font-weight:700;letter-spacing:-0.01em;line-height:52.800000000000004px;color:var(--color-style-3-coral)\"><span layer-name=\"proof — Text 2\" style=\"white-space:pre\">and close the deals.</span></div></div>",
+      "gapBefore": 83.52000000000001
+    },
+    {
+      "id": "cta",
+      "lines": [
+        "If you want more info, click the",
+        "button below 👇"
+      ],
+      "x": 540,
+      "y": 1495,
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "fontSize": 49,
+      "letterSpacingEm": -0.01,
+      "rowHeightEm": 1.0775510204081633,
+      "paddingXEm": 0.28,
+      "paddingYEm": 0.23,
+      "outerRadiusEm": 0.25,
+      "innerRadiusEm": 0.25,
+      "fillToken": "--color-style-3-pale",
+      "textToken": "--color-style-3-coral",
+      "measuredWidths": [
+        660.328125,
+        340.28125
+      ],
+      "rowHeight": 52.800000000000004,
+      "geometry": {
+        "width": 687.768125,
+        "height": 128.14000000000001,
+        "widths": [
+          687.768125,
+          367.72125
+        ],
+        "textWidths": [
+          660.328125,
+          340.28125
+        ],
+        "rowHeight": 52.800000000000004,
+        "paddingX": 13.72,
+        "paddingY": 11.270000000000001,
+        "outerRadius": 12.25,
+        "innerRadius": 12.25,
+        "d": "M 0 12.25 L 0 12.25 A 12.25 12.25 0 0 1 12.25 0 L 675.5181 0 A 12.25 12.25 0 0 1 687.7681 12.25 L 687.7681 63.09 A 12.25 12.25 0 0 1 675.5181 75.34 L 539.9947 75.34 A 12.25 12.25 0 0 0 527.7447 87.59 L 527.7447 115.89 A 12.25 12.25 0 0 1 515.4947 128.14 L 172.2734 128.14 A 12.25 12.25 0 0 1 160.0234 115.89 L 160.0234 87.59 A 12.25 12.25 0 0 0 147.7734 75.34 L 12.25 75.34 A 12.25 12.25 0 0 1 0 63.09 Z"
+      },
+      "width": 687.768125,
+      "height": 128.14000000000001,
+      "html": "<div layer-name=\"cta — Move complete block\" style=\"position:absolute;left:196.11593749999997px;top:1495px;width:687.768125px;height:128.14000000000001px;display:flex\"><svg layer-name=\"cta — Editable joined highlight\" width=\"687.768125\" height=\"128.14000000000001\" viewBox=\"0 0 687.768125 128.14000000000001\" style=\"position:absolute;left:0px;top:0px\"><path d=\"M 0 12.25 L 0 12.25 A 12.25 12.25 0 0 1 12.25 0 L 675.5181 0 A 12.25 12.25 0 0 1 687.7681 12.25 L 687.7681 63.09 A 12.25 12.25 0 0 1 675.5181 75.34 L 539.9947 75.34 A 12.25 12.25 0 0 0 527.7447 87.59 L 527.7447 115.89 A 12.25 12.25 0 0 1 515.4947 128.14 L 172.2734 128.14 A 12.25 12.25 0 0 1 160.0234 115.89 L 160.0234 87.59 A 12.25 12.25 0 0 0 147.7734 75.34 L 12.25 75.34 A 12.25 12.25 0 0 1 0 63.09 Z\" fill=\"var(--color-style-3-pale)\" /></svg><div layer-name=\"cta — Row 1\" style=\"position:absolute;left:13.720000000000027px;top:11.270000000000001px;display:flex;align-items:center;width:max-content;height:52.800000000000004px;font-family:Roboto;font-size:49px;font-weight:700;letter-spacing:-0.01em;line-height:52.800000000000004px;color:var(--color-style-3-coral)\"><span layer-name=\"cta — Text 1\" style=\"white-space:pre\">If you want more info, click the</span></div><div layer-name=\"cta — Row 2\" style=\"position:absolute;left:173.74343750000003px;top:64.07000000000001px;display:flex;align-items:center;width:max-content;height:52.800000000000004px;font-family:Roboto;font-size:49px;font-weight:700;letter-spacing:-0.01em;line-height:52.800000000000004px;color:var(--color-style-3-coral)\"><span layer-name=\"cta — Text 2\" style=\"white-space:pre\">button below </span><img layer-name=\"cta — 👇\" src=\"paper-asset:///Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/public/emoji/f09f9187.png\" style=\"width:49px;height:49px;flex-shrink:0\" /></div></div>",
+      "gapBefore": 29.859999999999985
+    }
+  ],
+  "status": "draft-awaiting-user-tuning",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "safeMargins": {
+      "top": 150,
+      "side": 70,
+      "bottom": 280
+    }
+  },
+  "measurement": "Bundled local Roboto Bold and platform Times New Roman; Paper measurements to be read after user tuning"
+}

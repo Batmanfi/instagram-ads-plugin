@@ -1,0 +1,43 @@
+{
+  "mode": "compact",
+  "tops": [
+    150,
+    486.8,
+    741.24,
+    885.28
+  ],
+  "gap": 64,
+  "totalHeight": 633.76,
+  "groupBottom": 975.76,
+  "spareBelow": 664.24,
+  "blocks": [
+    {
+      "id": "hook",
+      "top": 150,
+      "bottom": 422.8,
+      "width": 832.8275,
+      "height": 272.8
+    },
+    {
+      "id": "body-01",
+      "top": 486.8,
+      "bottom": 677.24,
+      "width": 556.85625,
+      "height": 190.44000000000003
+    },
+    {
+      "id": "body-02",
+      "top": 741.24,
+      "bottom": 821.28,
+      "width": 675.385625,
+      "height": 80.04
+    },
+    {
+      "id": "cta",
+      "top": 885.28,
+      "bottom": 975.76,
+      "width": 778.19,
+      "height": 90.48
+    }
+  ]
+}

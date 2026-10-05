@@ -1,0 +1,86 @@
+{
+  "id": "style-1",
+  "name": "Style 1",
+  "version": 1,
+  "savedOn": "2026-10-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "safeMargins": {
+      "top": 150,
+      "side": 90,
+      "bottom": 280
+    }
+  },
+  "fps": 30,
+  "durationInFrames": 300,
+  "minBlockGap": 28,
+  "minFontSize": 44,
+  "maxWidth": 900,
+  "fontFile": "public/fonts/RobotoCondensed-Regular.ttf",
+  "fontFamily": "Roboto Condensed",
+  "fontWeight": 400,
+  "fontPreset": "condensed-regular",
+  "letterSpacingEm": -0.03,
+  "defaultContrast": 0.28,
+  "mergeThresholdEm": 0.1,
+  "highlightPresets": {
+    "hook": {
+      "paddingXEm": 0.36,
+      "paddingYEm": 0.28,
+      "rowHeightEm": 1.28,
+      "outerRadiusEm": 0.24,
+      "innerRadiusEm": 0.24
+    },
+    "label": {
+      "paddingXEm": 0.22,
+      "paddingYEm": 0.23,
+      "rowHeightEm": 1.28,
+      "outerRadiusEm": 0.2,
+      "innerRadiusEm": 0.2
+    },
+    "white": {
+      "paddingXEm": 0.35,
+      "paddingYEm": 0.15,
+      "rowHeightEm": 1.28,
+      "outerRadiusEm": 0.18,
+      "innerRadiusEm": 0.22
+    },
+    "black": {
+      "paddingXEm": 0.36,
+      "paddingYEm": 0.23,
+      "rowHeightEm": 1.28,
+      "outerRadiusEm": 0.22,
+      "innerRadiusEm": 0.24
+    }
+  },
+  "roles": {
+    "hook": {
+      "fontSize": 62,
+      "highlight": "black",
+      "preset": "hook"
+    },
+    "label": {
+      "fontSize": 52,
+      "highlight": "black",
+      "preset": "label"
+    },
+    "support": {
+      "fontSize": 46,
+      "highlight": "white",
+      "preset": "white"
+    },
+    "proof": {
+      "fontSize": 46,
+      "highlight": "black",
+      "preset": "black"
+    },
+    "cta": {
+      "fontSize": 52,
+      "highlight": "black",
+      "preset": "black"
+    }
+  },
+  "paperUrl": "https://app.paper.design/file/01M3VF361K5SV4TAFHF5Q9C09D/p-1-0",
+  "reference": "data/styles/style-1/reference-input.json"
+}

@@ -1,0 +1,235 @@
+{
+  "savedOn": "2026-10-03",
+  "status": "passed",
+  "policy": "data/layout/defaults.json",
+  "paperUrl": "https://app.paper.design/file/01M3VF361K5SV4TAFHF5Q9C09D/p-3-0",
+  "copyAudit": "Exact match to archived ad-06; all four blocks, original wraps and three emoji images preserved.",
+  "paperTextAudit": "All eight editable text nodes exactly match source line text with the three separate emoji image layers restored.",
+  "paperVisualReview": "Before/after and complete guide reviewed: spacing, typography, contrast, alignment and artboard fit pass.",
+  "typeScript": "passed",
+  "layoutTests": {
+    "passed": 6,
+    "cases": [
+      "four-block reference",
+      "single/two blocks",
+      "dense and exact minimum fit",
+      "overflow without font shrink",
+      "explicit old spacing",
+      "invalid input"
+    ]
+  },
+  "rendererChecks": [
+    {
+      "name": "short-ad-compact",
+      "result": "render passed",
+      "message": ""
+    },
+    {
+      "name": "short-ad-distributed",
+      "result": "render passed",
+      "message": ""
+    },
+    {
+      "name": "single-block-compact",
+      "result": "render passed",
+      "message": ""
+    },
+    {
+      "name": "mixed-manual-positions",
+      "result": "rejected as expected",
+      "message": "ad-06: provide y for every block or omit all y values for automatic layout."
+    },
+    {
+      "name": "style-2-reference",
+      "result": "render passed",
+      "message": ""
+    },
+    {
+      "name": "style-2-changed-copy",
+      "result": "render passed",
+      "message": ""
+    },
+    {
+      "name": "style-2-copy-fit-guard",
+      "result": "rejected as expected",
+      "message": "Copy cannot fit legibly with 28px block gaps. Request shorter copy."
+    },
+    {
+      "name": "style-1-reference",
+      "result": "render passed",
+      "message": ""
+    },
+    {
+      "name": "style-1-changed-copy",
+      "result": "render passed",
+      "message": ""
+    },
+    {
+      "name": "style-1-exact-copy-guard",
+      "result": "rejected as expected",
+      "message": "hook: explicit lines alter source copy.\n    at layout (http://localhost:3000/bundle.js:6575:11)"
+    },
+    {
+      "name": "style-1-copy-fit-guard",
+      "result": "rejected as expected",
+      "message": "Copy cannot fit legibly with 28px block gaps. Request shorter copy."
+    },
+    {
+      "name": "seven-block-auto-layout",
+      "result": "render passed",
+      "message": ""
+    },
+    {
+      "name": "long-copy-readability",
+      "result": "rejected as expected",
+      "message": "Copy cannot fit legibly with 28px block gaps. Request shorter copy."
+    },
+    {
+      "name": "manual-lines-preserve-copy",
+      "result": "rejected as expected",
+      "message": "altered: explicit lines alter source copy.\n    at layout (http://localhost:3000/bundle.js:6575:11)"
+    },
+    {
+      "name": "bottom-safe-area",
+      "result": "rejected as expected",
+      "message": "template-qa/bottom: copy exceeds safe area. Request shorter copy or adjust layout."
+    }
+  ],
+  "cliValidation": "passed; ad-06 through scripts/render.mjs inherited compact mode and produced three safe-area stills",
+  "liveEditor": {
+    "blocks": [
+      {
+        "id": "hook",
+        "lineCount": 3,
+        "emojiCount": 0,
+        "width": 832.8275,
+        "height": 272.8
+      },
+      {
+        "id": "body-01",
+        "lineCount": 3,
+        "emojiCount": 1,
+        "width": 556.85625,
+        "height": 190.44000000000003
+      },
+      {
+        "id": "body-02",
+        "lineCount": 1,
+        "emojiCount": 1,
+        "width": 675.385625,
+        "height": 80.04
+      },
+      {
+        "id": "cta",
+        "lineCount": 1,
+        "emojiCount": 1,
+        "width": 778.19,
+        "height": 90.48
+      }
+    ],
+    "trackingUpdate": "passed",
+    "copyUpdate": "passed",
+    "fontWeight": 400,
+    "letterSpacingEm": -0.03,
+    "fonts": true
+  },
+  "previousCampaignMeasuredFit": {
+    "validAds": 15,
+    "archivedMeasurementsOverwritten": false
+  },
+  "before": {
+    "gap": 285.41333333333336,
+    "groupBottom": 1640
+  },
+  "after": {
+    "mode": "compact",
+    "tops": [
+      150,
+      486.8,
+      741.24,
+      885.28
+    ],
+    "gap": 64,
+    "totalHeight": 633.76,
+    "groupBottom": 975.76,
+    "spareBelow": 664.24,
+    "blocks": [
+      {
+        "id": "hook",
+        "top": 150,
+        "bottom": 422.8,
+        "width": 832.8275,
+        "height": 272.8
+      },
+      {
+        "id": "body-01",
+        "top": 486.8,
+        "bottom": 677.24,
+        "width": 556.85625,
+        "height": 190.44000000000003
+      },
+      {
+        "id": "body-02",
+        "top": 741.24,
+        "bottom": 821.28,
+        "width": 675.385625,
+        "height": 80.04
+      },
+      {
+        "id": "cta",
+        "top": 885.28,
+        "bottom": 975.76,
+        "width": 778.19,
+        "height": 90.48
+      }
+    ]
+  },
+  "visualInspection": "Renderer frames 0, 150 and 299 reviewed: exact copy, all emojis, wraps, joined contours, 64px gaps, same font sizes, contrast, safe margins and city crop pass. Matches the Paper compact layout.",
+  "productionMp4Exported": false,
+  "files": [
+    {
+      "path": "data/layout/defaults.json",
+      "sha256": "b188c77987f2c4079cbdb2f46f48027b6a7f2658000ab48bc459f6394a7f0732"
+    },
+    {
+      "path": "scripts/lib/block-layout.mjs",
+      "sha256": "044c40f19f4406ad6b496ed4dca69e021ed0cee18ac3ef2cd3ba75fffa663adb"
+    },
+    {
+      "path": "scripts/lib/block-layout.d.mts",
+      "sha256": "92ec72cd49ff3e57343cbee7e7a7ab1ac126708deec790899e8908feb8b30ea0"
+    },
+    {
+      "path": "src/InstagramAd.tsx",
+      "sha256": "dde410901e4a43df30f31654d22baa6be09ae3c5d6eb80c6eac306c1090c22a7"
+    },
+    {
+      "path": "src/types.ts",
+      "sha256": "9b8c651ac36dac7f7b72df9ab1ccf5ef10439f8c53216696096d84bd433a271f"
+    },
+    {
+      "path": "scripts/render.mjs",
+      "sha256": "24276d9bf236db06cfdd6c33e31761777a6fc89b36ceb66fe4a1bc4d9ec9b1c9"
+    },
+    {
+      "path": "scripts/measure-style1-campaign.mjs",
+      "sha256": "ad1b25b3316862b8ef5e15c9296fc17847e985905d84af4f28ec6a2525950abb"
+    },
+    {
+      "path": "design/layout/compact-spacing-2026-10-03/source-screenshot.png",
+      "sha256": "72017356a07fb73a0fe7b8172e468748e60669d2b273f3fe4985b383f46bd876"
+    },
+    {
+      "path": "design/layout/compact-spacing-2026-10-03/copy.json",
+      "sha256": "a0f96c8020cf3bade36e538df1c617b778d48a63dc2833c84c94bc3b60acade8"
+    },
+    {
+      "path": "design/layout/compact-spacing-2026-10-03/paper-snapshot.json",
+      "sha256": "59fcd66cf94efe45346f61360fe587a20a34857265947ae0c7132fd248673bbe"
+    },
+    {
+      "path": "design/layout/compact-spacing-2026-10-03/paper-after.png",
+      "sha256": "b22a30b9936b1b8888d4c36602dab3eaa1ec8347bcc8d56eef60880efb37e1e7"
+    }
+  ]
+}

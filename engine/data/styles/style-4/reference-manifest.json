@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "style": "style-4",
+  "safeMargins": {
+    "top": 150,
+    "side": 70,
+    "bottom": 280
+  },
+  "defaultContrast": 0.28,
+  "ads": [
+    {
+      "id": "style-4-reference",
+      "outputName": "style-4-reference",
+      "style": "style-4",
+      "fontPreset": "wide-bold",
+      "layoutMode": "compact",
+      "contrast": 0.28,
+      "background": {
+        "filename": "01-Mount-Rainier-Road-1080x1920.mp4",
+        "startTime": 0,
+        "cropPosition": [
+          50,
+          50
+        ]
+      },
+      "blocks": [
+        {
+          "id": "hook",
+          "styleRole": "hook",
+          "fontSize": 76.0,
+          "highlight": "plain",
+          "x": 540.0005,
+          "y": 276.0,
+          "lines": [
+            "I'm looking for 5-10 B2B",
+            "companies that want to send",
+            "50,000+ cold emails"
+          ],
+          "maxWidth": 940
+        },
+        {
+          "id": "step-1",
+          "styleRole": "support",
+          "fontSize": 48.0,
+          "highlight": "plain",
+          "x": 540.0,
+          "y": 634.0,
+          "lines": [
+            "📌 We find every decision maker in",
+            "your market"
+          ],
+          "maxWidth": 940
+        },
+        {
+          "id": "step-2",
+          "styleRole": "support",
+          "fontSize": 48.0,
+          "highlight": "plain",
+          "x": 540.0005,
+          "y": 800.0,
+          "lines": [
+            "📌 We use intent signals to narrow",
+            "the list to companies actively",
+            "looking for what you sell"
+          ],
+          "maxWidth": 940
+        },
+        {
+          "id": "step-3",
+          "styleRole": "support",
+          "fontSize": 48.0,
+          "highlight": "plain",
+          "x": 540.0,
+          "y": 1024.0,
+          "lines": [
+            "📌 We personalize every outreach",
+            "email using AI"
+          ],
+          "maxWidth": 940
+        },
+        {
+          "id": "step-4",
+          "styleRole": "support",
+          "fontSize": 48.0,
+          "highlight": "plain",
+          "x": 539.9995,
+          "y": 1188.0,
+          "lines": [
+            "📌 We respond to the leads and",
+            "book the calls"
+          ],
+          "maxWidth": 940
+        },
+        {
+          "id": "cta",
+          "styleRole": "cta",
+          "fontSize": 48.0,
+          "highlight": "white",
+          "x": 539.9995,
+          "y": 1406.0,
+          "lines": [
+            "click the button below 👇"
+          ],
+          "maxWidth": 940
+        }
+      ]
+    }
+  ]
+}

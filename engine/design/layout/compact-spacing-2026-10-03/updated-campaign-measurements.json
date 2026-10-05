@@ -1,0 +1,1640 @@
+{
+  "font": "local Roboto Condensed Regular 400",
+  "trackingEm": -0.03,
+  "safeMargins": {
+    "top": 150,
+    "side": 90,
+    "bottom": 280
+  },
+  "ads": [
+    {
+      "id": "ad-01",
+      "totalHeight": 1217.96,
+      "placementMode": "compact",
+      "gap": 38.86285714285714,
+      "valid": true,
+      "blocks": [
+        {
+          "id": "hook",
+          "fontSize": 56,
+          "lines": [
+            "I'm looking for 5-10 B2B companies",
+            "that want to send 50,000+ cold emails",
+            "a month to their target market."
+          ],
+          "textWidths": [
+            725.296875,
+            777.875,
+            622.640625
+          ],
+          "width": 818.195,
+          "height": 246.40000000000003,
+          "top": 150,
+          "bottom": 396.40000000000003,
+          "centerX": 540
+        },
+        {
+          "id": "body-01",
+          "fontSize": 52,
+          "lines": [
+            "Here's how it works:"
+          ],
+          "textWidths": [
+            378.734375
+          ],
+          "width": 401.614375,
+          "height": 90.48,
+          "top": 435.2628571428572,
+          "bottom": 525.7428571428571,
+          "centerX": 540
+        },
+        {
+          "id": "body-02",
+          "fontSize": 46,
+          "lines": [
+            "📌 We find every decision maker",
+            "in your market"
+          ],
+          "textWidths": [
+            546.3125,
+            238.9375
+          ],
+          "width": 578.5125,
+          "height": 131.56,
+          "top": 564.6057142857144,
+          "bottom": 696.1657142857143,
+          "centerX": 540
+        },
+        {
+          "id": "body-03",
+          "fontSize": 46,
+          "lines": [
+            "📌 We use intent signals to narrow the list",
+            "to companies actively looking",
+            "for what you sell"
+          ],
+          "textWidths": [
+            702.765625,
+            498.078125,
+            275.4375
+          ],
+          "width": 734.965625,
+          "height": 190.44000000000003,
+          "top": 735.0285714285715,
+          "bottom": 925.4685714285715,
+          "centerX": 540
+        },
+        {
+          "id": "body-04",
+          "fontSize": 46,
+          "lines": [
+            "📌 We personalize every outreach email",
+            "using AI"
+          ],
+          "textWidths": [
+            668.90625,
+            136.296875
+          ],
+          "width": 701.10625,
+          "height": 131.56,
+          "top": 964.3314285714287,
+          "bottom": 1095.8914285714286,
+          "centerX": 540
+        },
+        {
+          "id": "body-05",
+          "fontSize": 46,
+          "lines": [
+            "📌 We respond to the leads",
+            "and book the calls"
+          ],
+          "textWidths": [
+            460.171875,
+            306.328125
+          ],
+          "width": 492.371875,
+          "height": 131.56,
+          "top": 1134.7542857142857,
+          "bottom": 1266.3142857142857,
+          "centerX": 540
+        },
+        {
+          "id": "body-06",
+          "fontSize": 46,
+          "lines": [
+            "You only have to take the calls",
+            "and close the deals."
+          ],
+          "textWidths": [
+            505.03125,
+            336.125
+          ],
+          "width": 538.15125,
+          "height": 138.92000000000002,
+          "top": 1305.1771428571428,
+          "bottom": 1444.097142857143,
+          "centerX": 540
+        },
+        {
+          "id": "cta",
+          "fontSize": 52,
+          "lines": [
+            "If you want more info,",
+            "click the button below 👇"
+          ],
+          "textWidths": [
+            409.5625,
+            478.265625
+          ],
+          "width": 515.705625,
+          "height": 157.04000000000002,
+          "top": 1482.96,
+          "bottom": 1640,
+          "centerX": 540
+        }
+      ]
+    },
+    {
+      "id": "ad-02",
+      "totalHeight": 1217.96,
+      "placementMode": "compact",
+      "gap": 38.86285714285714,
+      "valid": true,
+      "blocks": [
+        {
+          "id": "hook",
+          "fontSize": 56,
+          "lines": [
+            "I'm looking for 10 B2B businesses",
+            "that want to book 50 new sales calls",
+            "every month using cold email."
+          ],
+          "textWidths": [
+            692.421875,
+            742.609375,
+            610.84375
+          ],
+          "width": 782.929375,
+          "height": 246.40000000000003,
+          "top": 150,
+          "bottom": 396.40000000000003,
+          "centerX": 540
+        },
+        {
+          "id": "body-01",
+          "fontSize": 52,
+          "lines": [
+            "Here's how it works:"
+          ],
+          "textWidths": [
+            378.734375
+          ],
+          "width": 401.614375,
+          "height": 90.48,
+          "top": 435.2628571428572,
+          "bottom": 525.7428571428571,
+          "centerX": 540
+        },
+        {
+          "id": "body-02",
+          "fontSize": 46,
+          "lines": [
+            "📌 We find every decision maker",
+            "in your market"
+          ],
+          "textWidths": [
+            546.3125,
+            238.9375
+          ],
+          "width": 578.5125,
+          "height": 131.56,
+          "top": 564.6057142857144,
+          "bottom": 696.1657142857143,
+          "centerX": 540
+        },
+        {
+          "id": "body-03",
+          "fontSize": 46,
+          "lines": [
+            "📌 We use intent signals to narrow the list",
+            "to companies actively looking",
+            "for what you sell"
+          ],
+          "textWidths": [
+            702.765625,
+            498.078125,
+            275.4375
+          ],
+          "width": 734.965625,
+          "height": 190.44000000000003,
+          "top": 735.0285714285715,
+          "bottom": 925.4685714285715,
+          "centerX": 540
+        },
+        {
+          "id": "body-04",
+          "fontSize": 46,
+          "lines": [
+            "📌 We personalize every outreach email",
+            "using AI"
+          ],
+          "textWidths": [
+            668.90625,
+            136.296875
+          ],
+          "width": 701.10625,
+          "height": 131.56,
+          "top": 964.3314285714287,
+          "bottom": 1095.8914285714286,
+          "centerX": 540
+        },
+        {
+          "id": "body-05",
+          "fontSize": 46,
+          "lines": [
+            "📌 We respond to the leads",
+            "and book the calls"
+          ],
+          "textWidths": [
+            460.171875,
+            306.328125
+          ],
+          "width": 492.371875,
+          "height": 131.56,
+          "top": 1134.7542857142857,
+          "bottom": 1266.3142857142857,
+          "centerX": 540
+        },
+        {
+          "id": "body-06",
+          "fontSize": 46,
+          "lines": [
+            "You only have to take the sales calls",
+            "and close the deals."
+          ],
+          "textWidths": [
+            603.421875,
+            336.125
+          ],
+          "width": 636.541875,
+          "height": 138.92000000000002,
+          "top": 1305.1771428571428,
+          "bottom": 1444.097142857143,
+          "centerX": 540
+        },
+        {
+          "id": "cta",
+          "fontSize": 52,
+          "lines": [
+            "If you want more info,",
+            "click the button below 👇"
+          ],
+          "textWidths": [
+            409.5625,
+            478.265625
+          ],
+          "width": 515.705625,
+          "height": 157.04000000000002,
+          "top": 1482.96,
+          "bottom": 1640,
+          "centerX": 540
+        }
+      ]
+    },
+    {
+      "id": "ad-03",
+      "totalHeight": 1053.92,
+      "placementMode": "compact",
+      "gap": 64,
+      "valid": true,
+      "blocks": [
+        {
+          "id": "hook",
+          "fontSize": 62,
+          "lines": [
+            "I'm looking for 5-10 B2B SaaS",
+            "companies that want to book",
+            "50+ new sales calls a month."
+          ],
+          "textWidths": [
+            667.703125,
+            659.34375,
+            657.265625
+          ],
+          "width": 712.343125,
+          "height": 272.8,
+          "top": 150,
+          "bottom": 422.8,
+          "centerX": 540
+        },
+        {
+          "id": "body-01",
+          "fontSize": 52,
+          "lines": [
+            "Here's how it works:"
+          ],
+          "textWidths": [
+            378.734375
+          ],
+          "width": 401.614375,
+          "height": 90.48,
+          "top": 486.8,
+          "bottom": 577.28,
+          "centerX": 540
+        },
+        {
+          "id": "body-02",
+          "fontSize": 46,
+          "lines": [
+            "📌 We find every decision maker",
+            "who fits your ideal customer profile"
+          ],
+          "textWidths": [
+            546.3125,
+            591.203125
+          ],
+          "width": 623.403125,
+          "height": 131.56,
+          "top": 641.28,
+          "bottom": 772.8399999999999,
+          "centerX": 540
+        },
+        {
+          "id": "body-03",
+          "fontSize": 46,
+          "lines": [
+            "📌 We send AI-personalized cold emails",
+            "relevant to their business"
+          ],
+          "textWidths": [
+            672.109375,
+            420.515625
+          ],
+          "width": 704.309375,
+          "height": 131.56,
+          "top": 836.8399999999999,
+          "bottom": 968.3999999999999,
+          "centerX": 540
+        },
+        {
+          "id": "body-04",
+          "fontSize": 46,
+          "lines": [
+            "📌 We handle replies and book",
+            "qualified calls onto your calendar"
+          ],
+          "textWidths": [
+            517.125,
+            554.921875
+          ],
+          "width": 587.121875,
+          "height": 131.56,
+          "top": 1032.3999999999999,
+          "bottom": 1163.9599999999998,
+          "centerX": 540
+        },
+        {
+          "id": "body-05",
+          "fontSize": 46,
+          "lines": [
+            "One of our B2B SaaS clients generated",
+            "$432,000 in pipeline from 18,300 emails"
+          ],
+          "textWidths": [
+            647.5,
+            671.03125
+          ],
+          "width": 704.15125,
+          "height": 138.92000000000002,
+          "top": 1227.9599999999998,
+          "bottom": 1366.8799999999999,
+          "centerX": 540
+        },
+        {
+          "id": "cta",
+          "fontSize": 52,
+          "lines": [
+            "If you want more information,",
+            "click the button below 👇"
+          ],
+          "textWidths": [
+            557.15625,
+            478.265625
+          ],
+          "width": 594.59625,
+          "height": 157.04000000000002,
+          "top": 1430.8799999999999,
+          "bottom": 1587.9199999999998,
+          "centerX": 540
+        }
+      ]
+    },
+    {
+      "id": "ad-04",
+      "totalHeight": 1157.6399999999999,
+      "placementMode": "compact",
+      "gap": 47.48000000000002,
+      "valid": true,
+      "blocks": [
+        {
+          "id": "hook",
+          "fontSize": 62,
+          "lines": [
+            "99% of cold emails",
+            "are failing in 2026."
+          ],
+          "textWidths": [
+            427.3125,
+            418.21875
+          ],
+          "width": 471.9525,
+          "height": 193.44,
+          "top": 150,
+          "bottom": 343.44,
+          "centerX": 540
+        },
+        {
+          "id": "body-01",
+          "fontSize": 46,
+          "lines": [
+            "Why? Most people do the same thing",
+            "as everyone else:"
+          ],
+          "textWidths": [
+            620.6875,
+            288.46875
+          ],
+          "width": 652.8875,
+          "height": 131.56,
+          "top": 390.92,
+          "bottom": 522.48,
+          "centerX": 540
+        },
+        {
+          "id": "body-02",
+          "fontSize": 46,
+          "lines": [
+            "the same lists, generic messaging,",
+            "and outdated systems."
+          ],
+          "textWidths": [
+            579,
+            385.09375
+          ],
+          "width": 611.2,
+          "height": 131.56,
+          "top": 569.96,
+          "bottom": 701.52,
+          "centerX": 540
+        },
+        {
+          "id": "body-03",
+          "fontSize": 52,
+          "lines": [
+            "We do the exact opposite."
+          ],
+          "textWidths": [
+            492.84375
+          ],
+          "width": 515.72375,
+          "height": 90.48,
+          "top": 749,
+          "bottom": 839.48,
+          "centerX": 540
+        },
+        {
+          "id": "body-04",
+          "fontSize": 46,
+          "lines": [
+            "- We have a list of",
+            "160M+ VERIFIED B2B contacts"
+          ],
+          "textWidths": [
+            294.125,
+            518.5
+          ],
+          "width": 550.7,
+          "height": 131.56,
+          "top": 886.96,
+          "bottom": 1018.52,
+          "centerX": 540
+        },
+        {
+          "id": "body-05",
+          "fontSize": 46,
+          "lines": [
+            "- We use intent based signals to identify",
+            "people who are looking for",
+            "the exact thing you sell"
+          ],
+          "textWidths": [
+            664.828125,
+            445.53125,
+            384.296875
+          ],
+          "width": 697.028125,
+          "height": 190.44000000000003,
+          "top": 1066,
+          "bottom": 1256.44,
+          "centerX": 540
+        },
+        {
+          "id": "body-06",
+          "fontSize": 46,
+          "lines": [
+            "- We hyper-personalized every message",
+            "using AI"
+          ],
+          "textWidths": [
+            661.75,
+            136.296875
+          ],
+          "width": 693.95,
+          "height": 131.56,
+          "top": 1303.92,
+          "bottom": 1435.48,
+          "centerX": 540
+        },
+        {
+          "id": "cta",
+          "fontSize": 52,
+          "lines": [
+            "If you want to know how it works,",
+            "click the button below 👇"
+          ],
+          "textWidths": [
+            628.265625,
+            478.265625
+          ],
+          "width": 665.705625,
+          "height": 157.04000000000002,
+          "top": 1482.96,
+          "bottom": 1640,
+          "centerX": 540
+        }
+      ]
+    },
+    {
+      "id": "ad-05",
+      "totalHeight": 1192.1599999999999,
+      "placementMode": "compact",
+      "gap": 49.639999999999986,
+      "valid": true,
+      "blocks": [
+        {
+          "id": "hook",
+          "fontSize": 62,
+          "lines": [
+            "I'm looking for 5-10",
+            "business lending firms that want",
+            "more sales calls with",
+            "qualified business owners."
+          ],
+          "textWidths": [
+            433.984375,
+            737.40625,
+            476.234375,
+            605.640625
+          ],
+          "width": 782.04625,
+          "height": 352.16,
+          "top": 150,
+          "bottom": 502.16,
+          "centerX": 540
+        },
+        {
+          "id": "body-01",
+          "fontSize": 52,
+          "lines": [
+            "Here's how it works:"
+          ],
+          "textWidths": [
+            378.734375
+          ],
+          "width": 401.614375,
+          "height": 90.48,
+          "top": 551.8000000000001,
+          "bottom": 642.2800000000001,
+          "centerX": 540
+        },
+        {
+          "id": "body-02",
+          "fontSize": 46,
+          "lines": [
+            "📌 We build verified lists of decision makers",
+            "who match your ideal customer profile"
+          ],
+          "textWidths": [
+            741.265625,
+            643.859375
+          ],
+          "width": 773.465625,
+          "height": 131.56,
+          "top": 691.9200000000001,
+          "bottom": 823.48,
+          "centerX": 540
+        },
+        {
+          "id": "body-03",
+          "fontSize": 46,
+          "lines": [
+            "📌 We send personalized cold emails",
+            "tailored to their business"
+          ],
+          "textWidths": [
+            626.8125,
+            414.09375
+          ],
+          "width": 659.0125,
+          "height": 131.56,
+          "top": 873.1200000000001,
+          "bottom": 1004.6800000000001,
+          "centerX": 540
+        },
+        {
+          "id": "body-04",
+          "fontSize": 46,
+          "lines": [
+            "📌 We handle replies and book",
+            "qualified calls onto your calendar"
+          ],
+          "textWidths": [
+            517.125,
+            554.921875
+          ],
+          "width": 587.121875,
+          "height": 131.56,
+          "top": 1054.3200000000002,
+          "bottom": 1185.88,
+          "centerX": 540
+        },
+        {
+          "id": "body-05",
+          "fontSize": 46,
+          "lines": [
+            "Using this exact system, we booked",
+            "47 qualified meetings in just 6 weeks",
+            "for a B2B finance company."
+          ],
+          "textWidths": [
+            599.171875,
+            620.890625,
+            462.359375
+          ],
+          "width": 654.010625,
+          "height": 197.8,
+          "top": 1235.5200000000002,
+          "bottom": 1433.3200000000002,
+          "centerX": 540
+        },
+        {
+          "id": "cta",
+          "fontSize": 52,
+          "lines": [
+            "If you want more information,",
+            "click the button below 👇"
+          ],
+          "textWidths": [
+            557.15625,
+            478.265625
+          ],
+          "width": 594.59625,
+          "height": 157.04000000000002,
+          "top": 1482.9600000000003,
+          "bottom": 1640.0000000000002,
+          "centerX": 540
+        }
+      ]
+    },
+    {
+      "id": "ad-06",
+      "totalHeight": 633.76,
+      "placementMode": "compact",
+      "gap": 64,
+      "valid": true,
+      "blocks": [
+        {
+          "id": "hook",
+          "fontSize": 62,
+          "lines": [
+            "In the last 75 days, we sent",
+            "over 18,300 cold emails and added",
+            "$432K in revenue for a B2B client."
+          ],
+          "textWidths": [
+            609.3125,
+            788.1875,
+            762.390625
+          ],
+          "width": 832.8275,
+          "height": 272.8,
+          "top": 395.86,
+          "bottom": 668.6600000000001,
+          "centerX": 540
+        },
+        {
+          "id": "body-01",
+          "fontSize": 46,
+          "lines": [
+            "📌 Want to make more revenue",
+            "with cold email? We can run",
+            "this same system for you."
+          ],
+          "textWidths": [
+            524.65625,
+            468.296875,
+            433.171875
+          ],
+          "width": 556.85625,
+          "height": 190.44000000000003,
+          "top": 732.6600000000001,
+          "bottom": 923.1000000000001,
+          "centerX": 540
+        },
+        {
+          "id": "body-02",
+          "fontSize": 46,
+          "lines": [
+            "If we don't book calls, you don't pay 💰"
+          ],
+          "textWidths": [
+            642.265625
+          ],
+          "width": 675.385625,
+          "height": 80.04,
+          "top": 987.1000000000001,
+          "bottom": 1067.14,
+          "centerX": 540
+        },
+        {
+          "id": "cta",
+          "fontSize": 52,
+          "lines": [
+            "Click the button below for more info 👇"
+          ],
+          "textWidths": [
+            740.75
+          ],
+          "width": 778.19,
+          "height": 90.48,
+          "top": 1131.14,
+          "bottom": 1221.6200000000001,
+          "centerX": 540
+        }
+      ]
+    },
+    {
+      "id": "ad-07",
+      "totalHeight": 713.12,
+      "placementMode": "compact",
+      "gap": 63.999999999999886,
+      "valid": true,
+      "blocks": [
+        {
+          "id": "hook",
+          "fontSize": 62,
+          "lines": [
+            "Using personalized cold email,",
+            "we booked a B2B company",
+            "50 qualified meetings and added",
+            "$736,600 in pipeline in 3 months."
+          ],
+          "textWidths": [
+            688.328125,
+            614.046875,
+            741.078125,
+            748.078125
+          ],
+          "width": 792.718125,
+          "height": 352.16,
+          "top": 356.18,
+          "bottom": 708.34,
+          "centerX": 540
+        },
+        {
+          "id": "body-01",
+          "fontSize": 46,
+          "lines": [
+            "📌 If you're a B2B business that wants",
+            "more meetings with qualified prospects,",
+            "we'll run this same system for you."
+          ],
+          "textWidths": [
+            641.109375,
+            672.796875,
+            579.3125
+          ],
+          "width": 704.996875,
+          "height": 190.44000000000003,
+          "top": 772.34,
+          "bottom": 962.7800000000001,
+          "centerX": 540
+        },
+        {
+          "id": "body-02",
+          "fontSize": 46,
+          "lines": [
+            "If we don't book calls, you don't pay 💰"
+          ],
+          "textWidths": [
+            642.265625
+          ],
+          "width": 675.385625,
+          "height": 80.04,
+          "top": 1026.78,
+          "bottom": 1106.82,
+          "centerX": 540
+        },
+        {
+          "id": "cta",
+          "fontSize": 52,
+          "lines": [
+            "Click the button below for more info 👇"
+          ],
+          "textWidths": [
+            740.75
+          ],
+          "width": 778.19,
+          "height": 90.48,
+          "top": 1170.82,
+          "bottom": 1261.3,
+          "centerX": 540
+        }
+      ]
+    },
+    {
+      "id": "ad-08",
+      "totalHeight": 692.64,
+      "placementMode": "compact",
+      "gap": 64,
+      "valid": true,
+      "blocks": [
+        {
+          "id": "hook",
+          "fontSize": 62,
+          "lines": [
+            "Using personalized cold emails,",
+            "we added $263,200 in pipeline",
+            "for a consulting firm within 90 days."
+          ],
+          "textWidths": [
+            714.75,
+            686.078125,
+            809.484375
+          ],
+          "width": 854.124375,
+          "height": 272.8,
+          "top": 366.42,
+          "bottom": 639.22,
+          "centerX": 540
+        },
+        {
+          "id": "body-01",
+          "fontSize": 46,
+          "lines": [
+            "📌 If you want to generate more revenue",
+            "by booking meetings with qualified prospects",
+            "who are ACTUALLY interested in your service,",
+            "we'll run this same system for you."
+          ],
+          "textWidths": [
+            676.296875,
+            761.25,
+            757.25,
+            579.3125
+          ],
+          "width": 793.45,
+          "height": 249.32000000000002,
+          "top": 703.22,
+          "bottom": 952.5400000000001,
+          "centerX": 540
+        },
+        {
+          "id": "body-02",
+          "fontSize": 46,
+          "lines": [
+            "If we don't book calls, you don't pay 💰"
+          ],
+          "textWidths": [
+            642.265625
+          ],
+          "width": 675.385625,
+          "height": 80.04,
+          "top": 1016.5400000000001,
+          "bottom": 1096.5800000000002,
+          "centerX": 540
+        },
+        {
+          "id": "cta",
+          "fontSize": 52,
+          "lines": [
+            "Click the button below for more info 👇"
+          ],
+          "textWidths": [
+            740.75
+          ],
+          "width": 778.19,
+          "height": 90.48,
+          "top": 1160.5800000000002,
+          "bottom": 1251.0600000000002,
+          "centerX": 540
+        }
+      ]
+    },
+    {
+      "id": "ad-09",
+      "totalHeight": 915.8800000000001,
+      "placementMode": "compact",
+      "gap": 64,
+      "valid": true,
+      "blocks": [
+        {
+          "id": "hook",
+          "fontSize": 56,
+          "lines": [
+            "Do you want to keep your sales team's",
+            "calendar busy by booking 50 qualified",
+            "sales calls every month using cold email?"
+          ],
+          "textWidths": [
+            776.09375,
+            771.0625,
+            846.21875
+          ],
+          "width": 886.53875,
+          "height": 246.40000000000003,
+          "top": 222.79999999999995,
+          "bottom": 469.2,
+          "centerX": 540
+        },
+        {
+          "id": "body-01",
+          "fontSize": 46,
+          "lines": [
+            "✅ We find EVERY SINGLE decision maker",
+            "in your market and send them hyper-personalized",
+            "cold emails every month"
+          ],
+          "textWidths": [
+            706.1875,
+            825.453125,
+            409.609375
+          ],
+          "width": 857.653125,
+          "height": 190.44000000000003,
+          "top": 533.2,
+          "bottom": 723.6400000000001,
+          "centerX": 540
+        },
+        {
+          "id": "body-02",
+          "fontSize": 46,
+          "lines": [
+            "✅ We handle the full tech setup and fill",
+            "your team's calendar with ready-to-close leads"
+          ],
+          "textWidths": [
+            662.375,
+            770.65625
+          ],
+          "width": 802.85625,
+          "height": 131.56,
+          "top": 787.6400000000001,
+          "bottom": 919.2,
+          "centerX": 540
+        },
+        {
+          "id": "body-03",
+          "fontSize": 46,
+          "lines": [
+            "✅ We use this exact approach to book",
+            "hundreds of qualified sales calls every month",
+            "for multiple B2B companies"
+          ],
+          "textWidths": [
+            653.703125,
+            758.40625,
+            465.859375
+          ],
+          "width": 790.60625,
+          "height": 190.44000000000003,
+          "top": 983.2,
+          "bottom": 1173.64,
+          "centerX": 540
+        },
+        {
+          "id": "cta",
+          "fontSize": 52,
+          "lines": [
+            "If you want more information,",
+            "click the button below 👇"
+          ],
+          "textWidths": [
+            557.15625,
+            478.265625
+          ],
+          "width": 594.59625,
+          "height": 157.04000000000002,
+          "top": 1237.64,
+          "bottom": 1394.68,
+          "centerX": 540
+        }
+      ]
+    },
+    {
+      "id": "ad-10",
+      "totalHeight": 859.04,
+      "placementMode": "compact",
+      "gap": 64,
+      "valid": true,
+      "blocks": [
+        {
+          "id": "hook",
+          "fontSize": 62,
+          "lines": [
+            "Do you want to reach",
+            "every single decision maker",
+            "in your target market and send",
+            "100,000+ hyper-personalized",
+            "cold emails every month?"
+          ],
+          "textWidths": [
+            475.578125,
+            626,
+            687.9375,
+            653.015625,
+            576.390625
+          ],
+          "width": 732.5775,
+          "height": 431.52000000000004,
+          "top": 283.22,
+          "bottom": 714.74,
+          "centerX": 540
+        },
+        {
+          "id": "body-01",
+          "fontSize": 46,
+          "lines": [
+            "📌 We've used this approach to book",
+            "tens of thousands of qualified sales calls",
+            "for more than 2,000 B2B companies."
+          ],
+          "textWidths": [
+            618.75,
+            688.734375,
+            614.5625
+          ],
+          "width": 720.934375,
+          "height": 190.44000000000003,
+          "top": 778.74,
+          "bottom": 969.1800000000001,
+          "centerX": 540
+        },
+        {
+          "id": "body-02",
+          "fontSize": 46,
+          "lines": [
+            "If we don't book sales calls, you don't pay."
+          ],
+          "textWidths": [
+            693.8125
+          ],
+          "width": 726.9325,
+          "height": 80.04,
+          "top": 1033.18,
+          "bottom": 1113.22,
+          "centerX": 540
+        },
+        {
+          "id": "cta",
+          "fontSize": 52,
+          "lines": [
+            "If you want more information,",
+            "click the button below 👇"
+          ],
+          "textWidths": [
+            557.15625,
+            478.265625
+          ],
+          "width": 594.59625,
+          "height": 157.04000000000002,
+          "top": 1177.22,
+          "bottom": 1334.26,
+          "centerX": 540
+        }
+      ]
+    },
+    {
+      "id": "ad-11",
+      "totalHeight": 1014.6399999999999,
+      "placementMode": "compact",
+      "gap": 64,
+      "valid": true,
+      "blocks": [
+        {
+          "id": "hook",
+          "fontSize": 62,
+          "lines": [
+            "Do you want to use cold email",
+            "to reach every single decision maker",
+            "in your target market?"
+          ],
+          "textWidths": [
+            677.59375,
+            822.234375,
+            491.9375
+          ],
+          "width": 866.874375,
+          "height": 272.8,
+          "top": 150,
+          "bottom": 422.8,
+          "centerX": 540
+        },
+        {
+          "id": "body-01",
+          "fontSize": 46,
+          "lines": [
+            "1. We use our database of over",
+            "160 million verified contacts",
+            "to build your targeted lists,"
+          ],
+          "textWidths": [
+            519.921875,
+            475.125,
+            442.703125
+          ],
+          "width": 552.121875,
+          "height": 190.44000000000003,
+          "top": 486.8,
+          "bottom": 677.24,
+          "centerX": 540
+        },
+        {
+          "id": "body-02",
+          "fontSize": 46,
+          "lines": [
+            "2. we personalize outreach around each",
+            "prospect's company, role, and situation."
+          ],
+          "textWidths": [
+            668.46875,
+            661.515625
+          ],
+          "width": 700.66875,
+          "height": 131.56,
+          "top": 741.24,
+          "bottom": 872.8,
+          "centerX": 540
+        },
+        {
+          "id": "body-03",
+          "fontSize": 46,
+          "lines": [
+            "3. We book the sales calls",
+            "directly onto your calendar."
+          ],
+          "textWidths": [
+            436.125,
+            451.84375
+          ],
+          "width": 484.04375,
+          "height": 131.56,
+          "top": 936.8,
+          "bottom": 1068.36,
+          "centerX": 540
+        },
+        {
+          "id": "body-04",
+          "fontSize": 46,
+          "lines": [
+            "📌 This exact system generated",
+            "$432,000 in pipeline from 18,300 emails",
+            "in 75 days for one of our clients."
+          ],
+          "textWidths": [
+            537.203125,
+            671.03125,
+            538.390625
+          ],
+          "width": 704.15125,
+          "height": 197.8,
+          "top": 1132.36,
+          "bottom": 1330.1599999999999,
+          "centerX": 540
+        },
+        {
+          "id": "cta",
+          "fontSize": 52,
+          "lines": [
+            "Click Learn More for more info 👇"
+          ],
+          "textWidths": [
+            639.28125
+          ],
+          "width": 676.72125,
+          "height": 90.48,
+          "top": 1394.1599999999999,
+          "bottom": 1484.6399999999999,
+          "centerX": 540
+        }
+      ]
+    },
+    {
+      "id": "ad-12",
+      "totalHeight": 955.0799999999999,
+      "placementMode": "compact",
+      "gap": 64,
+      "valid": true,
+      "blocks": [
+        {
+          "id": "hook",
+          "fontSize": 62,
+          "lines": [
+            "How many qualified sales calls",
+            "could you book if you cold emailed",
+            "100,000 perfect fit contacts",
+            "every month?"
+          ],
+          "textWidths": [
+            700.65625,
+            782.84375,
+            625.65625,
+            303.34375
+          ],
+          "width": 827.48375,
+          "height": 352.16,
+          "top": 203.20000000000005,
+          "bottom": 555.3600000000001,
+          "centerX": 540
+        },
+        {
+          "id": "body-01",
+          "fontSize": 46,
+          "lines": [
+            "✅ One of our B2B clients generated",
+            "47 qualified sales meetings in just 6 weeks",
+            "with the AI-powered cold email system",
+            "we built for them."
+          ],
+          "textWidths": [
+            607.25,
+            719.28125,
+            648.015625,
+            293.75
+          ],
+          "width": 751.48125,
+          "height": 249.32000000000002,
+          "top": 619.3600000000001,
+          "bottom": 868.6800000000002,
+          "centerX": 540
+        },
+        {
+          "id": "body-02",
+          "fontSize": 46,
+          "lines": [
+            "✅ We can install the same system",
+            "in your business, 100% done for you."
+          ],
+          "textWidths": [
+            586.140625,
+            610.90625
+          ],
+          "width": 643.10625,
+          "height": 131.56,
+          "top": 932.6800000000002,
+          "bottom": 1064.2400000000002,
+          "centerX": 540
+        },
+        {
+          "id": "body-03",
+          "fontSize": 46,
+          "lines": [
+            "✅ No technical expertise required.",
+            "We handle everything."
+          ],
+          "textWidths": [
+            588.515625,
+            368.78125
+          ],
+          "width": 620.715625,
+          "height": 131.56,
+          "top": 1128.2400000000002,
+          "bottom": 1259.8000000000002,
+          "centerX": 540
+        },
+        {
+          "id": "cta",
+          "fontSize": 52,
+          "lines": [
+            "👉 Click to learn more"
+          ],
+          "textWidths": [
+            417.5625
+          ],
+          "width": 455.0025,
+          "height": 90.48,
+          "top": 1323.8000000000002,
+          "bottom": 1414.2800000000002,
+          "centerX": 540
+        }
+      ]
+    },
+    {
+      "id": "ad-13",
+      "totalHeight": 679.2800000000001,
+      "placementMode": "compact",
+      "gap": 64,
+      "valid": true,
+      "blocks": [
+        {
+          "id": "hook",
+          "fontSize": 62,
+          "lines": [
+            "🚨 Attention B2B firms 🚨"
+          ],
+          "textWidths": [
+            592.609375
+          ],
+          "width": 637.249375,
+          "height": 114.08000000000001,
+          "top": 309.09999999999997,
+          "bottom": 423.17999999999995,
+          "centerX": 540
+        },
+        {
+          "id": "body-01",
+          "fontSize": 46,
+          "lines": [
+            "✅ We send highly personalized cold emails",
+            "to every decision maker in your market"
+          ],
+          "textWidths": [
+            735.09375,
+            645.71875
+          ],
+          "width": 767.29375,
+          "height": 131.56,
+          "top": 487.17999999999995,
+          "bottom": 618.74,
+          "centerX": 540
+        },
+        {
+          "id": "body-02",
+          "fontSize": 46,
+          "lines": [
+            "⚙️ No technical expertise required:",
+            "we handle everything"
+          ],
+          "textWidths": [
+            587.125,
+            353.59375
+          ],
+          "width": 619.325,
+          "height": 131.56,
+          "top": 682.74,
+          "bottom": 814.3,
+          "centerX": 540
+        },
+        {
+          "id": "body-03",
+          "fontSize": 46,
+          "lines": [
+            "🤝 Your team focuses on closing deals"
+          ],
+          "textWidths": [
+            654.28125
+          ],
+          "width": 686.48125,
+          "height": 72.68,
+          "top": 878.3,
+          "bottom": 950.98,
+          "centerX": 540
+        },
+        {
+          "id": "body-04",
+          "fontSize": 46,
+          "lines": [
+            "📅 This system booked 47 qualified meetings",
+            "in 6 weeks for a client"
+          ],
+          "textWidths": [
+            765.203125,
+            364.84375
+          ],
+          "width": 798.323125,
+          "height": 138.92000000000002,
+          "top": 1014.98,
+          "bottom": 1153.9,
+          "centerX": 540
+        },
+        {
+          "id": "cta",
+          "fontSize": 52,
+          "lines": [
+            "👉 Click to learn more"
+          ],
+          "textWidths": [
+            417.5625
+          ],
+          "width": 455.0025,
+          "height": 90.48,
+          "top": 1217.9,
+          "bottom": 1308.38,
+          "centerX": 540
+        }
+      ]
+    },
+    {
+      "id": "ad-14",
+      "totalHeight": 797.0400000000001,
+      "placementMode": "compact",
+      "gap": 64,
+      "valid": true,
+      "blocks": [
+        {
+          "id": "hook",
+          "fontSize": 62,
+          "lines": [
+            "B2B Founders:"
+          ],
+          "textWidths": [
+            330.125
+          ],
+          "width": 374.765,
+          "height": 114.08000000000001,
+          "top": 250.22000000000003,
+          "bottom": 364.30000000000007,
+          "centerX": 540
+        },
+        {
+          "id": "body-01",
+          "fontSize": 46,
+          "lines": [
+            "✅ We build and manage a cold email system",
+            "for you"
+          ],
+          "textWidths": [
+            762.40625,
+            116.71875
+          ],
+          "width": 794.60625,
+          "height": 131.56,
+          "top": 428.30000000000007,
+          "bottom": 559.8600000000001,
+          "centerX": 540
+        },
+        {
+          "id": "body-02",
+          "fontSize": 46,
+          "lines": [
+            "🤖 AI sends highly personalized messages",
+            "to leads"
+          ],
+          "textWidths": [
+            717.78125,
+            133.734375
+          ],
+          "width": 749.98125,
+          "height": 131.56,
+          "top": 623.8600000000001,
+          "bottom": 755.4200000000001,
+          "centerX": 540
+        },
+        {
+          "id": "body-03",
+          "fontSize": 46,
+          "lines": [
+            "🤝 Qualified sales calls get booked",
+            "onto your calendar"
+          ],
+          "textWidths": [
+            588.65625,
+            312.625
+          ],
+          "width": 620.85625,
+          "height": 131.56,
+          "top": 819.4200000000001,
+          "bottom": 950.98,
+          "centerX": 540
+        },
+        {
+          "id": "body-04",
+          "fontSize": 46,
+          "lines": [
+            "📈 This exact system generated",
+            "$432,000 in pipeline in 75 days",
+            "for a B2B company"
+          ],
+          "textWidths": [
+            537.203125,
+            516.21875,
+            319.96875
+          ],
+          "width": 570.323125,
+          "height": 197.8,
+          "top": 1014.98,
+          "bottom": 1212.78,
+          "centerX": 540
+        },
+        {
+          "id": "cta",
+          "fontSize": 52,
+          "lines": [
+            "👉 Click to learn more"
+          ],
+          "textWidths": [
+            417.5625
+          ],
+          "width": 455.0025,
+          "height": 90.48,
+          "top": 1276.78,
+          "bottom": 1367.26,
+          "centerX": 540
+        }
+      ]
+    },
+    {
+      "id": "ad-15",
+      "totalHeight": 803.04,
+      "placementMode": "compact",
+      "gap": 64,
+      "valid": true,
+      "blocks": [
+        {
+          "id": "hook",
+          "fontSize": 62,
+          "lines": [
+            "Can your B2B sales team handle",
+            "50+ additional qualified sales calls",
+            "every month?"
+          ],
+          "textWidths": [
+            730.921875,
+            782.515625,
+            303.34375
+          ],
+          "width": 827.155625,
+          "height": 272.8,
+          "top": 311.22,
+          "bottom": 584.02,
+          "centerX": 540
+        },
+        {
+          "id": "body-01",
+          "fontSize": 46,
+          "lines": [
+            "📌 We build and manage a cold email system",
+            "that puts your offer in front of every",
+            "decision maker in your market and books",
+            "qualified calls directly onto",
+            "your team's calendar."
+          ],
+          "textWidths": [
+            762.40625,
+            591.234375,
+            690,
+            449.65625,
+            352.953125
+          ],
+          "width": 794.60625,
+          "height": 308.20000000000005,
+          "top": 648.02,
+          "bottom": 956.22,
+          "centerX": 540
+        },
+        {
+          "id": "body-02",
+          "fontSize": 46,
+          "lines": [
+            "Infrastructure, copywriting, sending,",
+            "and follow-up are all handled by us."
+          ],
+          "textWidths": [
+            596.5,
+            590.4375
+          ],
+          "width": 628.7,
+          "height": 131.56,
+          "top": 1020.22,
+          "bottom": 1151.78,
+          "centerX": 540
+        },
+        {
+          "id": "cta",
+          "fontSize": 52,
+          "lines": [
+            "Click Learn More to see how it works 👇"
+          ],
+          "textWidths": [
+            759.390625
+          ],
+          "width": 796.830625,
+          "height": 90.48,
+          "top": 1215.78,
+          "bottom": 1306.26,
+          "centerX": 540
+        }
+      ]
+    }
+  ]
+}

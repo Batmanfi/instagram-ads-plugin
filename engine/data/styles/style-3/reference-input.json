@@ -1,0 +1,213 @@
+{
+  "version": 1,
+  "style": "style-3",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "safeMargins": {
+      "top": 150,
+      "side": 70,
+      "bottom": 280
+    }
+  },
+  "fontFile": "public/fonts/Roboto-Bold.ttf",
+  "fontFamily": "Roboto",
+  "fontWeight": 700,
+  "letterSpacingEm": -0.01,
+  "blocks": [
+    {
+      "id": "hook",
+      "preset": "hook",
+      "x": 539.9999,
+      "y": 276.0,
+      "fontSize": 52.0,
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "letterSpacingEm": -0.01,
+      "geometry": {
+        "paddingXEm": 0.36,
+        "paddingYEm": 0.22,
+        "rowHeightEm": 1.1076923076923078,
+        "outerRadiusEm": 0.25,
+        "innerRadiusEm": 0.25
+      },
+      "fill": "#ED4957",
+      "textColor": "#FEECEB",
+      "lines": [
+        "I'm looking for 5-10 B2B companies",
+        "that want to send 50,000+ cold emails",
+        "a month to their target market."
+      ],
+      "highlight": "black"
+    },
+    {
+      "id": "intro",
+      "preset": "label",
+      "x": 539.9995,
+      "y": 529.0,
+      "fontSize": 46.0,
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "letterSpacingEm": -0.01,
+      "geometry": {
+        "paddingXEm": 0.28,
+        "paddingYEm": 0.2,
+        "rowHeightEm": 1.1478260869565218,
+        "outerRadiusEm": 0.25,
+        "innerRadiusEm": 0.25
+      },
+      "fill": "#000000",
+      "textColor": "#FEECEB",
+      "lines": [
+        "Here's how it works:"
+      ],
+      "highlight": "black"
+    },
+    {
+      "id": "step-1",
+      "preset": "black",
+      "x": 540.0,
+      "y": 629.0,
+      "fontSize": 46.0,
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "letterSpacingEm": -0.01,
+      "geometry": {
+        "paddingXEm": 0.28,
+        "paddingYEm": 0.23,
+        "rowHeightEm": 1.0904347826086955,
+        "outerRadiusEm": 0.25,
+        "innerRadiusEm": 0.25
+      },
+      "fill": "#000000",
+      "textColor": "#FEECEB",
+      "lines": [
+        "📌 We find every decision maker in",
+        "your market"
+      ],
+      "highlight": "black"
+    },
+    {
+      "id": "step-2",
+      "preset": "black",
+      "x": 540.0,
+      "y": 780.0,
+      "fontSize": 46.0,
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "letterSpacingEm": -0.01,
+      "geometry": {
+        "paddingXEm": 0.28,
+        "paddingYEm": 0.23,
+        "rowHeightEm": 1.0904347826086955,
+        "outerRadiusEm": 0.25,
+        "innerRadiusEm": 0.25
+      },
+      "fill": "#000000",
+      "textColor": "#FEECEB",
+      "lines": [
+        "📌 We use intent signals to narrow",
+        "the list to companies actively",
+        "looking for what you sell"
+      ],
+      "highlight": "black"
+    },
+    {
+      "id": "step-3",
+      "preset": "black",
+      "x": 540.0,
+      "y": 981.0,
+      "fontSize": 46.0,
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "letterSpacingEm": -0.01,
+      "geometry": {
+        "paddingXEm": 0.28,
+        "paddingYEm": 0.23,
+        "rowHeightEm": 1.0904347826086955,
+        "outerRadiusEm": 0.25,
+        "innerRadiusEm": 0.25
+      },
+      "fill": "#000000",
+      "textColor": "#FEECEB",
+      "lines": [
+        "📌 We personalize every outreach",
+        "email using AI"
+      ],
+      "highlight": "black"
+    },
+    {
+      "id": "step-4",
+      "preset": "black",
+      "x": 540.0,
+      "y": 1132.0,
+      "fontSize": 46.0,
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "letterSpacingEm": -0.01,
+      "geometry": {
+        "paddingXEm": 0.28,
+        "paddingYEm": 0.23,
+        "rowHeightEm": 1.0904347826086955,
+        "outerRadiusEm": 0.25,
+        "innerRadiusEm": 0.25
+      },
+      "fill": "#000000",
+      "textColor": "#FEECEB",
+      "lines": [
+        "📌 We respond to the leads and",
+        "book the calls"
+      ],
+      "highlight": "black"
+    },
+    {
+      "id": "proof",
+      "preset": "white",
+      "x": 539.9995,
+      "y": 1337.0,
+      "fontSize": 49.0,
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "letterSpacingEm": -0.01,
+      "geometry": {
+        "paddingXEm": 0.28,
+        "paddingYEm": 0.23,
+        "rowHeightEm": 1.0775510204081633,
+        "outerRadiusEm": 0.25,
+        "innerRadiusEm": 0.25
+      },
+      "fill": "#FEEBED",
+      "textColor": "#ED4957",
+      "lines": [
+        "You only have to take the calls",
+        "and close the deals."
+      ],
+      "highlight": "white"
+    },
+    {
+      "id": "cta",
+      "preset": "white",
+      "x": 540.0,
+      "y": 1495.0,
+      "fontSize": 49.0,
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "letterSpacingEm": -0.01,
+      "geometry": {
+        "paddingXEm": 0.28,
+        "paddingYEm": 0.23,
+        "rowHeightEm": 1.0775510204081633,
+        "outerRadiusEm": 0.25,
+        "innerRadiusEm": 0.25
+      },
+      "fill": "#FEEBED",
+      "textColor": "#ED4957",
+      "lines": [
+        "If you want more info, click the",
+        "button below 👇"
+      ],
+      "highlight": "white"
+    }
+  ],
+  "note": "Read current Paper widths or measure after font loading. Do not reuse these widths for new copy."
+}

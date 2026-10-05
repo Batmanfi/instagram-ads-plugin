@@ -1,0 +1,106 @@
+{
+  "fileId": "01M3VF361K5SV4TAFHF5Q9C09D",
+  "pageId": "p-5-0",
+  "master": "CK-0",
+  "reference": "G3-0",
+  "guide": "G6-0",
+  "status": "draft-awaiting-user-tuning",
+  "blocks": [
+    {
+      "id": "hook",
+      "paperNode": "DG-0",
+      "backgroundNode": null,
+      "rowNodes": [
+        "DH-0",
+        "DJ-0",
+        "DL-0"
+      ],
+      "textNodes": [
+        "DI-0",
+        "DK-0",
+        "DM-0"
+      ],
+      "emojiNodes": []
+    },
+    {
+      "id": "step-1",
+      "paperNode": "DO-0",
+      "backgroundNode": null,
+      "rowNodes": [
+        "DP-0",
+        "DS-0"
+      ],
+      "textNodes": [
+        "DR-0",
+        "DT-0"
+      ],
+      "emojiNodes": [
+        "DQ-0"
+      ]
+    },
+    {
+      "id": "step-2",
+      "paperNode": "DV-0",
+      "backgroundNode": null,
+      "rowNodes": [
+        "DW-0",
+        "DZ-0",
+        "E1-0"
+      ],
+      "textNodes": [
+        "DY-0",
+        "E0-0",
+        "E2-0"
+      ],
+      "emojiNodes": [
+        "DX-0"
+      ]
+    },
+    {
+      "id": "step-3",
+      "paperNode": "FE-0",
+      "backgroundNode": null,
+      "rowNodes": [
+        "FF-0",
+        "FI-0"
+      ],
+      "textNodes": [
+        "FH-0",
+        "FJ-0"
+      ],
+      "emojiNodes": [
+        "FG-0"
+      ]
+    },
+    {
+      "id": "step-4",
+      "paperNode": "FL-0",
+      "backgroundNode": null,
+      "rowNodes": [
+        "FM-0",
+        "FP-0"
+      ],
+      "textNodes": [
+        "FO-0",
+        "FQ-0"
+      ],
+      "emojiNodes": [
+        "FN-0"
+      ]
+    },
+    {
+      "id": "cta",
+      "paperNode": "FS-0",
+      "backgroundNode": "FT-0",
+      "rowNodes": [
+        "FV-0"
+      ],
+      "textNodes": [
+        "FW-0"
+      ],
+      "emojiNodes": [
+        "FX-0"
+      ]
+    }
+  ]
+}

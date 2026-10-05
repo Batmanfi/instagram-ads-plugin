@@ -1,0 +1,22 @@
+{
+  "condensed-regular": {
+    "family": "Roboto Condensed",
+    "weight": 400
+  },
+  "condensed-medium": {
+    "family": "Roboto Condensed",
+    "weight": 500
+  },
+  "wide-regular": {
+    "family": "Roboto",
+    "weight": 400
+  },
+  "wide-medium": {
+    "family": "Roboto",
+    "weight": 500
+  },
+  "wide-bold": {
+    "family": "Roboto",
+    "weight": 700
+  }
+}

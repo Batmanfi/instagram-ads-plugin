@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "savedOn": "2026-10-03",
+  "defaultMode": "compact",
+  "preferredGap": 64,
+  "minGap": 28,
+  "anchor": "safe-top",
+  "description": "Measure complete highlight boxes and stack from the safe top. Leave spare canvas below instead of distributing short copy across the full height.",
+  "paperUrl": "https://app.paper.design/file/01M3VF361K5SV4TAFHF5Q9C09D/p-3-0"
+}

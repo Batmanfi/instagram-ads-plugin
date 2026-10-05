@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "source": "Approved Paper Style 2 reference only; not copy authority for future ads.",
+  "ads": [
+    {
+      "id": "style-2-reference",
+      "blocks": [
+        {
+          "id": "hook",
+          "text": "I’m looking for 5-10 B2B businesses who want to book 20-40 new sales calls per month"
+        },
+        {
+          "id": "intro",
+          "text": "Here’s how it works:"
+        },
+        {
+          "id": "step-1",
+          "text": "📌 We scrape every decision maker in your market"
+        },
+        {
+          "id": "step-2",
+          "text": "📌 We send 5,000+ personalized cold emails to them every day"
+        },
+        {
+          "id": "step-3",
+          "text": "📌 We respond to the interested leads and book the calls"
+        },
+        {
+          "id": "proof",
+          "text": "We’ve used this approach to book 5,000+ sales calls across 30+ industries"
+        },
+        {
+          "id": "cta",
+          "text": "If you want more information, click the button below 👇"
+        }
+      ]
+    }
+  ]
+}

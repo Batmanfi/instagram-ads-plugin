@@ -1,0 +1,10 @@
+{
+  "style": "style-3",
+  "input": "IMG_20261003_185525_359.webp",
+  "generatedSource": "/Users/kanishqbansal/.codex/generated_images/01a0f6ec-4150-70d3-beb7-d62301e6d730/exec-7714d0c9-2f20-4da7-9ed4-cb4704763a9a.png",
+  "prompt": "Use case: precise-object-edit. Edit target: the attached portrait rocket-launch advertisement. Create a clean background plate for rebuilding this ad with separately editable text. Remove ALL overlaid advertising text, pin and pointing-hand emojis, and all colored red/coral, pink, white and black text-highlight shapes. Inpaint those regions with natural continuation of the original background. Preserve the rocket, launch gantry, smoke clouds, diagonal camera angle, original colors, composition and portrait 9:16 crop. Do not add new objects, lettering, borders or graphics. Output only the cleaned scene, with no text anywhere.",
+  "tool": "built-in image_gen.imagegen",
+  "savedOn": "2026-10-03",
+  "savedAsset": "background-cleaned.png",
+  "note": "Erased regions are AI reconstructed; original reference remains unchanged. Reference still only, not production footage."
+}

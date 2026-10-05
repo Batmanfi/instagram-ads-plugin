@@ -1,0 +1,150 @@
+{
+  "id": "style-4",
+  "name": "Style 4 — Serif hook",
+  "version": 1,
+  "savedOn": "2026-10-03",
+  "status": "user-approved",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "safeMargins": {
+      "top": 150,
+      "side": 70,
+      "bottom": 280
+    }
+  },
+  "fps": 30,
+  "durationInFrames": 300,
+  "minBlockGap": 28,
+  "minFontSize": 44,
+  "maxWidth": 940,
+  "fontFile": "public/fonts/Roboto-Bold.ttf",
+  "fontFamily": "Roboto",
+  "fontWeight": 700,
+  "fontPreset": "wide-bold",
+  "letterSpacingEm": 0,
+  "defaultContrast": 0.28,
+  "mergeThresholdEm": 0.1,
+  "highlightPresets": {
+    "hook": {
+      "paddingXEm": 0,
+      "paddingYEm": 0,
+      "rowHeightEm": 1.105263157894737,
+      "outerRadiusEm": 0.25,
+      "innerRadiusEm": 0.25
+    },
+    "label": {
+      "paddingXEm": 0,
+      "paddingYEm": 0,
+      "rowHeightEm": 1.1500000000000001,
+      "outerRadiusEm": 0.25,
+      "innerRadiusEm": 0.25
+    },
+    "white": {
+      "paddingXEm": 0.3,
+      "paddingYEm": 0.25,
+      "rowHeightEm": 1.1500000000000001,
+      "outerRadiusEm": 0.2,
+      "innerRadiusEm": 0.25
+    },
+    "black": {
+      "paddingXEm": 0,
+      "paddingYEm": 0,
+      "rowHeightEm": 1.1500000000000001,
+      "outerRadiusEm": 0.25,
+      "innerRadiusEm": 0.25
+    }
+  },
+  "roles": {
+    "hook": {
+      "fontSize": 76.0,
+      "highlight": "plain",
+      "preset": "hook",
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "letterSpacingEm": -0.02,
+      "geometry": {
+        "paddingXEm": 0,
+        "paddingYEm": 0,
+        "rowHeightEm": 1.105263157894737,
+        "outerRadiusEm": 0.25,
+        "innerRadiusEm": 0.25
+      },
+      "textColor": "#FFFFFF",
+      "highlightColor": null,
+      "fontSource": "local(\"Times New Roman\"), local(\"TimesNewRomanPSMT\")"
+    },
+    "support": {
+      "fontSize": 48.0,
+      "highlight": "plain",
+      "preset": "black",
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "letterSpacingEm": 0.0,
+      "geometry": {
+        "paddingXEm": 0,
+        "paddingYEm": 0,
+        "rowHeightEm": 1.1500000000000001,
+        "outerRadiusEm": 0.25,
+        "innerRadiusEm": 0.25
+      },
+      "textColor": "#FFFFFF",
+      "highlightColor": null
+    },
+    "cta": {
+      "fontSize": 48.0,
+      "highlight": "white",
+      "preset": "white",
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "letterSpacingEm": 0.0,
+      "geometry": {
+        "paddingXEm": 0.3,
+        "paddingYEm": 0.25,
+        "rowHeightEm": 1.1500000000000001,
+        "outerRadiusEm": 0.2,
+        "innerRadiusEm": 0.25
+      },
+      "textColor": "#000000",
+      "highlightColor": "#FFFFFF"
+    },
+    "label": {
+      "fontSize": 48.0,
+      "highlight": "plain",
+      "preset": "black",
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "letterSpacingEm": 0.0,
+      "geometry": {
+        "paddingXEm": 0,
+        "paddingYEm": 0,
+        "rowHeightEm": 1.1500000000000001,
+        "outerRadiusEm": 0.25,
+        "innerRadiusEm": 0.25
+      },
+      "textColor": "#FFFFFF",
+      "highlightColor": null
+    },
+    "proof": {
+      "fontSize": 48.0,
+      "highlight": "plain",
+      "preset": "black",
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "letterSpacingEm": 0.0,
+      "geometry": {
+        "paddingXEm": 0,
+        "paddingYEm": 0,
+        "rowHeightEm": 1.1500000000000001,
+        "outerRadiusEm": 0.25,
+        "innerRadiusEm": 0.25
+      },
+      "textColor": "#FFFFFF",
+      "highlightColor": null
+    }
+  },
+  "paperUrl": "https://app.paper.design/file/01M3VF361K5SV4TAFHF5Q9C09D/p-5-0",
+  "reference": "data/styles/style-4/reference-input.json",
+  "approvalNote": "User requested -2% Times New Roman hook tracking for Style 4 with dark backgrounds matching Styles 1/2.",
+  "layoutPolicy": "data/layout/defaults.json"
+}

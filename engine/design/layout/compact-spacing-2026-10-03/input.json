@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "description": "Ad 06: user’s above-center Paper placement, preserving approximately 64px gaps, copy and Style 1 typography.",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "safeMargins": {
+      "top": 150,
+      "side": 90,
+      "bottom": 280
+    }
+  },
+  "fontFile": "public/fonts/RobotoCondensed-Regular.ttf",
+  "fontFamily": "Roboto Condensed",
+  "fontWeight": 400,
+  "letterSpacingEm": -0.03,
+  "tokenPrefix": "--color-compact-ad06-",
+  "blocks": [
+    {
+      "id": "hook",
+      "preset": "hook",
+      "fontSize": 62,
+      "x": 540.4137499999999,
+      "y": 396,
+      "fill": "#000000",
+      "lines": [
+        "In the last 75 days, we sent",
+        "over 18,300 cold emails and added",
+        "$432K in revenue for a B2B client."
+      ],
+      "geometry": {
+        "paddingXEm": 0.36,
+        "paddingYEm": 0.28,
+        "rowHeightEm": 1.28,
+        "outerRadiusEm": 0.24,
+        "innerRadiusEm": 0.24
+      }
+    },
+    {
+      "id": "body-01",
+      "preset": "white",
+      "fontSize": 46,
+      "x": 540.428125,
+      "y": 733,
+      "fill": "#FFFFFF",
+      "lines": [
+        "📌 Want to make more revenue",
+        "with cold email? We can run",
+        "this same system for you."
+      ],
+      "geometry": {
+        "paddingXEm": 0.35,
+        "paddingYEm": 0.15,
+        "rowHeightEm": 1.28,
+        "outerRadiusEm": 0.18,
+        "innerRadiusEm": 0.22
+      }
+    },
+    {
+      "id": "body-02",
+      "preset": "black",
+      "fontSize": 46,
+      "x": 540.6928125,
+      "y": 987,
+      "fill": "#000000",
+      "lines": [
+        "If we don't book calls, you don't pay 💰"
+      ],
+      "geometry": {
+        "paddingXEm": 0.36,
+        "paddingYEm": 0.23,
+        "rowHeightEm": 1.28,
+        "outerRadiusEm": 0.22,
+        "innerRadiusEm": 0.24
+      }
+    },
+    {
+      "id": "cta",
+      "preset": "black",
+      "fontSize": 52,
+      "x": 540.095,
+      "y": 1131,
+      "fill": "#000000",
+      "lines": [
+        "Click the button below for more info 👇"
+      ],
+      "geometry": {
+        "paddingXEm": 0.36,
+        "paddingYEm": 0.23,
+        "rowHeightEm": 1.28,
+        "outerRadiusEm": 0.22,
+        "innerRadiusEm": 0.24
+      }
+    }
+  ]
+}

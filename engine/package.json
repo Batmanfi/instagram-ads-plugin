@@ -1,0 +1,34 @@
+{
+  "name": "instagram-native-ads",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio --no-open",
+    "check": "tsc --noEmit",
+    "validate": "node scripts/render.mjs --validate",
+    "render": "node scripts/render.mjs",
+    "render:all": "node scripts/render.mjs --all",
+    "qa:demo": "node scripts/render.mjs --demo",
+    "qa:checks": "node scripts/smoke-checks.mjs",
+    "campaign:prepare": "node scripts/campaign-setup.mjs prepare",
+    "campaign:form": "node scripts/campaign-setup.mjs form",
+    "campaign:apply": "node scripts/campaign-setup.mjs apply",
+    "campaign:test": "node --test scripts/lib/campaign-setup.test.mjs",
+    "format": "prettier --write src scripts data remotion.config.ts"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.506",
+    "@remotion/cli": "4.0.506",
+    "@remotion/fonts": "4.0.506",
+    "@remotion/media": "4.0.506",
+    "@remotion/renderer": "4.0.506",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.506"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "prettier": "^3.6.2",
+    "typescript": "5.9.3"
+  }
+}

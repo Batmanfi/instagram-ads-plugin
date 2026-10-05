@@ -1,0 +1,89 @@
+{
+  "id": "style-2",
+  "name": "Style 2 — Classic",
+  "version": 1,
+  "savedOn": "2026-10-03",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "safeMargins": {
+      "top": 150,
+      "side": 70,
+      "bottom": 280
+    }
+  },
+  "fps": 30,
+  "durationInFrames": 300,
+  "minBlockGap": 28,
+  "minFontSize": 44,
+  "maxWidth": 940,
+  "fontFile": "public/fonts/Roboto-Bold.ttf",
+  "fontFamily": "Roboto",
+  "fontWeight": 700,
+  "fontPreset": "wide-bold",
+  "letterSpacingEm": -0.01,
+  "defaultContrast": 0.28,
+  "mergeThresholdEm": 0.1,
+  "highlightPresets": {
+    "hook": {
+      "paddingXEm": 0.36,
+      "paddingYEm": 0.28,
+      "rowHeightEm": 1.28,
+      "outerRadiusEm": 0.24,
+      "innerRadiusEm": 0.24
+    },
+    "label": {
+      "paddingXEm": 0.22,
+      "paddingYEm": 0.23,
+      "rowHeightEm": 1.28,
+      "outerRadiusEm": 0.2,
+      "innerRadiusEm": 0.2
+    },
+    "white": {
+      "paddingXEm": 0.35,
+      "paddingYEm": 0.15,
+      "rowHeightEm": 1.28,
+      "outerRadiusEm": 0.18,
+      "innerRadiusEm": 0.22
+    },
+    "black": {
+      "paddingXEm": 0.36,
+      "paddingYEm": 0.23,
+      "rowHeightEm": 1.28,
+      "outerRadiusEm": 0.22,
+      "innerRadiusEm": 0.24
+    }
+  },
+  "roles": {
+    "hook": {
+      "fontSize": 62,
+      "highlight": "black",
+      "preset": "hook"
+    },
+    "label": {
+      "fontSize": 52,
+      "highlight": "black",
+      "preset": "label"
+    },
+    "support": {
+      "fontSize": 46,
+      "highlight": "white",
+      "preset": "white"
+    },
+    "proof": {
+      "fontSize": 46,
+      "highlight": "black",
+      "preset": "black"
+    },
+    "cta": {
+      "fontSize": 52,
+      "highlight": "black",
+      "preset": "black"
+    }
+  },
+  "paperUrl": "https://app.paper.design/file/01M3VF361K5SV4TAFHF5Q9C09D/p-2-0",
+  "reference": "data/styles/style-2/reference-input.json",
+  "status": "user-approved",
+  "approvalNote": "User confirmed -1% tracking matches the reference; preserve the observed Roboto Bold family and layout.",
+  "fitNote": "70px side margins / 940px max outline preserve 62px hook and its approved explicit lines; exact Paper hook is 930.64px wide."
+}

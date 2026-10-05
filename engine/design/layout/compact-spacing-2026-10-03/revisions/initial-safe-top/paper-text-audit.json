@@ -1,0 +1,130 @@
+[
+  {
+    "block": "hook",
+    "id": "AC-0",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\n  \"file\": {\n    \"id\": \"01M3VF361K5SV4TAFHF5Q9C09D\",\n    \"name\": \"Eager cloud\"\n  },\n  \"contentHash\": {\n    \"tokens\": \"e11aac16\"\n  }\n}"
+        },
+        {
+          "type": "text",
+          "text": "{\n  \"id\": \"AC-0\",\n  \"name\": \"hook — line 1 — Editable text\",\n  \"component\": \"Text\",\n  \"width\": 610,\n  \"height\": 62,\n  \"worldX\": 1394.992,\n  \"worldY\": 176.039,\n  \"x\": 89.09394335937509,\n  \"y\": 8.680001464843741,\n  \"isVisible\": true,\n  \"isLocked\": false,\n  \"parentId\": \"AB-0\",\n  \"childIds\": [],\n  \"childCount\": 0,\n  \"artboardId\": \"A1-0\",\n  \"textContent\": \"In the last 75 days, we sent\"\n}"
+        }
+      ]
+    }
+  },
+  {
+    "block": "hook",
+    "id": "AE-0",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\n  \"file\": {\n    \"id\": \"01M3VF361K5SV4TAFHF5Q9C09D\",\n    \"name\": \"Eager cloud\"\n  },\n  \"contentHash\": {\n    \"tokens\": \"e11aac16\"\n  }\n}"
+        },
+        {
+          "type": "text",
+          "text": "{\n  \"id\": \"AE-0\",\n  \"name\": \"hook — line 2 — Editable text\",\n  \"component\": \"Text\",\n  \"width\": 789,\n  \"height\": 62,\n  \"worldX\": 1305.492,\n  \"worldY\": 255.398,\n  \"x\": -0.40605664062491087,\n  \"y\": 8.678994995117193,\n  \"isVisible\": true,\n  \"isLocked\": false,\n  \"parentId\": \"AD-0\",\n  \"childIds\": [],\n  \"childCount\": 0,\n  \"artboardId\": \"A1-0\",\n  \"textContent\": \"over 18,300 cold emails and added\"\n}"
+        }
+      ]
+    }
+  },
+  {
+    "block": "hook",
+    "id": "AG-0",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\n  \"file\": {\n    \"id\": \"01M3VF361K5SV4TAFHF5Q9C09D\",\n    \"name\": \"Eager cloud\"\n  },\n  \"contentHash\": {\n    \"tokens\": \"e11aac16\"\n  }\n}"
+        },
+        {
+          "type": "text",
+          "text": "{\n  \"id\": \"AG-0\",\n  \"name\": \"hook — line 3 — Editable text\",\n  \"component\": \"Text\",\n  \"width\": 763,\n  \"height\": 62,\n  \"worldX\": 1318.492,\n  \"worldY\": 334.758,\n  \"x\": 12.59394335937509,\n  \"y\": 8.679995605468775,\n  \"isVisible\": true,\n  \"isLocked\": false,\n  \"parentId\": \"AF-0\",\n  \"childIds\": [],\n  \"childCount\": 0,\n  \"artboardId\": \"A1-0\",\n  \"textContent\": \"$432K in revenue for a B2B client.\"\n}"
+        }
+      ]
+    }
+  },
+  {
+    "block": "body-01",
+    "id": "AN-0",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\n  \"file\": {\n    \"id\": \"01M3VF361K5SV4TAFHF5Q9C09D\",\n    \"name\": \"Eager cloud\"\n  },\n  \"contentHash\": {\n    \"tokens\": \"e11aac16\"\n  }\n}"
+        },
+        {
+          "type": "text",
+          "text": "{\n  \"id\": \"AN-0\",\n  \"name\": \"body-01 — line 1 — Editable text\",\n  \"component\": \"Text\",\n  \"width\": 479,\n  \"height\": 46,\n  \"worldX\": 1483.492,\n  \"worldY\": 500.133,\n  \"x\": 45.82794335937501,\n  \"y\": 6.437995605468757,\n  \"isVisible\": true,\n  \"isLocked\": false,\n  \"parentId\": \"AL-0\",\n  \"childIds\": [],\n  \"childCount\": 0,\n  \"artboardId\": \"A1-0\",\n  \"textContent\": \" Want to make more revenue\"\n}"
+        }
+      ]
+    }
+  },
+  {
+    "block": "body-01",
+    "id": "AP-0",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\n  \"file\": {\n    \"id\": \"01M3VF361K5SV4TAFHF5Q9C09D\",\n    \"name\": \"Eager cloud\"\n  },\n  \"contentHash\": {\n    \"tokens\": \"e11aac16\"\n  }\n}"
+        },
+        {
+          "type": "text",
+          "text": "{\n  \"id\": \"AP-0\",\n  \"name\": \"body-01 — line 2 — Editable text\",\n  \"component\": \"Text\",\n  \"width\": 469,\n  \"height\": 46,\n  \"worldX\": 1465.484,\n  \"worldY\": 559.008,\n  \"x\": 27.820008789062513,\n  \"y\": 6.4379956054687,\n  \"isVisible\": true,\n  \"isLocked\": false,\n  \"parentId\": \"AO-0\",\n  \"childIds\": [],\n  \"childCount\": 0,\n  \"artboardId\": \"A1-0\",\n  \"textContent\": \"with cold email? We can run\"\n}"
+        }
+      ]
+    }
+  },
+  {
+    "block": "body-01",
+    "id": "AR-0",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\n  \"file\": {\n    \"id\": \"01M3VF361K5SV4TAFHF5Q9C09D\",\n    \"name\": \"Eager cloud\"\n  },\n  \"contentHash\": {\n    \"tokens\": \"e11aac16\"\n  }\n}"
+        },
+        {
+          "type": "text",
+          "text": "{\n  \"id\": \"AR-0\",\n  \"name\": \"body-01 — line 3 — Editable text\",\n  \"component\": \"Text\",\n  \"width\": 434,\n  \"height\": 46,\n  \"worldX\": 1482.984,\n  \"worldY\": 617.891,\n  \"x\": 45.32000878906251,\n  \"y\": 6.4379912109375255,\n  \"isVisible\": true,\n  \"isLocked\": false,\n  \"parentId\": \"AQ-0\",\n  \"childIds\": [],\n  \"childCount\": 0,\n  \"artboardId\": \"A1-0\",\n  \"textContent\": \"this same system for you.\"\n}"
+        }
+      ]
+    }
+  },
+  {
+    "block": "body-02",
+    "id": "AX-0",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\n  \"file\": {\n    \"id\": \"01M3VF361K5SV4TAFHF5Q9C09D\",\n    \"name\": \"Eager cloud\"\n  },\n  \"contentHash\": {\n    \"tokens\": \"e11aac16\"\n  }\n}"
+        },
+        {
+          "type": "text",
+          "text": "{\n  \"id\": \"AX-0\",\n  \"name\": \"body-02 — line 1 — Editable text\",\n  \"component\": \"Text\",\n  \"width\": 597,\n  \"height\": 46,\n  \"worldX\": 1378.492,\n  \"worldY\": 758.25,\n  \"x\": -0.3670566406249236,\n  \"y\": 6.437999999999988,\n  \"isVisible\": true,\n  \"isLocked\": false,\n  \"parentId\": \"AW-0\",\n  \"childIds\": [],\n  \"childCount\": 0,\n  \"artboardId\": \"A1-0\",\n  \"textContent\": \"If we don't book calls, you don't pay \"\n}"
+        }
+      ]
+    }
+  },
+  {
+    "block": "cta",
+    "id": "B4-0",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\n  \"file\": {\n    \"id\": \"01M3VF361K5SV4TAFHF5Q9C09D\",\n    \"name\": \"Eager cloud\"\n  },\n  \"contentHash\": {\n    \"tokens\": \"e11aac16\"\n  }\n}"
+        },
+        {
+          "type": "text",
+          "text": "{\n  \"id\": \"B4-0\",\n  \"name\": \"cta — line 1 — Editable text\",\n  \"component\": \"Text\",\n  \"width\": 689,\n  \"height\": 52,\n  \"worldX\": 1329.492,\n  \"worldY\": 904.5,\n  \"x\": -0.1250566406249618,\n  \"y\": 7.273000000000025,\n  \"isVisible\": true,\n  \"isLocked\": false,\n  \"parentId\": \"B3-0\",\n  \"childIds\": [],\n  \"childCount\": 0,\n  \"artboardId\": \"A1-0\",\n  \"textContent\": \"Click the button below for more info \"\n}"
+        }
+      ]
+    }
+  }
+]

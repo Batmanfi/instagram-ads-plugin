@@ -1,0 +1,133 @@
+{
+  "style": "style-1",
+  "version": 1,
+  "savedOn": "2026-10-01",
+  "typeScript": "passed",
+  "geometryTests": {
+    "passed": 7
+  },
+  "renderChecks": [
+    {
+      "name": "style-1-reference",
+      "result": "render passed",
+      "message": ""
+    },
+    {
+      "name": "style-1-changed-copy",
+      "result": "render passed",
+      "message": ""
+    },
+    {
+      "name": "style-1-exact-copy-guard",
+      "result": "rejected as expected",
+      "message": "hook: explicit lines alter source copy.\n    at layout (http://localhost:3000/bundle.js:6536:11)"
+    },
+    {
+      "name": "style-1-copy-fit-guard",
+      "result": "rejected as expected",
+      "message": "style-1-reference/hook: copy exceeds safe area. Request shorter copy or adjust layout."
+    },
+    {
+      "name": "seven-block-auto-layout",
+      "result": "render passed",
+      "message": ""
+    },
+    {
+      "name": "long-copy-readability",
+      "result": "rejected as expected",
+      "message": "template-qa/long: copy exceeds safe area. Request shorter copy or adjust layout."
+    },
+    {
+      "name": "manual-lines-preserve-copy",
+      "result": "rejected as expected",
+      "message": "altered: explicit lines alter source copy.\n    at layout (http://localhost:3000/bundle.js:6536:11)"
+    },
+    {
+      "name": "bottom-safe-area",
+      "result": "rejected as expected",
+      "message": "template-qa/bottom: copy exceeds safe area. Request shorter copy or adjust layout."
+    }
+  ],
+  "referenceOutlines": [
+    {
+      "id": "hook",
+      "sha256": "267a4b3364531e32b0a616cd1336c96a39b50214ce40d5dafc17a342c97a0287",
+      "regeneration": "identical"
+    },
+    {
+      "id": "intro",
+      "sha256": "114629a3d1cf3aa35b3df69645e4c1983c4cc78c4a061b42288f452fe69d1750",
+      "regeneration": "identical"
+    },
+    {
+      "id": "step-1",
+      "sha256": "5c46923157f249613f09d93cf1af0cf9e44b9b000438ab61ffeebb81acfba4ce",
+      "regeneration": "identical"
+    },
+    {
+      "id": "step-2",
+      "sha256": "e54474c0575c29d243da2ce0bc765f06dfe301777157aa9280e7536e0bc8eb11",
+      "regeneration": "identical"
+    },
+    {
+      "id": "step-3",
+      "sha256": "6ce4f3433ca08d2279dc476a56154b7277992dc3613526648f3442a55a6d23e4",
+      "regeneration": "identical"
+    },
+    {
+      "id": "proof",
+      "sha256": "e358be452c461fce7a3dd42913d70a30c7bd8a72bdaf5a45e4926a11ee287468",
+      "regeneration": "identical"
+    },
+    {
+      "id": "cta",
+      "sha256": "fe0543e712e5eab26c22e5948ce6fe0c9e72602d16ac7b4a2b8877fb0eaa641f",
+      "regeneration": "identical"
+    }
+  ],
+  "visualInspection": "Reference still reviewed: exact copy/wrapping, centered text, joined black/white contours, emoji assets, spacing, contrast and safe margins pass.",
+  "preview": "design/styles/style-1/remotion-reference-preview.png",
+  "files": [
+    {
+      "path": "data/styles/style-1/definition.json",
+      "sha256": "68386c7daf74c5d5fa08f209497433a87bc9ecfedea1b614f88a6e63cbd0c91f"
+    },
+    {
+      "path": "data/styles/style-1/reference-copy.json",
+      "sha256": "9ac9591f20d7739da271bb29e54f77ec70bb77a31d9738865bcd8050cde8871c"
+    },
+    {
+      "path": "data/styles/style-1/reference-manifest.json",
+      "sha256": "87eb983e237841122ca03f884b45ab2dc1d14dcdf4749968530c2dfc8d88b909"
+    },
+    {
+      "path": "data/styles/style-1/reference-input.json",
+      "sha256": "11bc58a653c3885184311c49d253f199bdf7235240df81ee101648a761157d45"
+    },
+    {
+      "path": "design/styles/style-1/source-screenshot.png",
+      "sha256": "85d694a6aad1bc265ed5c4e3e837f870b58767deaf4c6422cb5744852b5cefaa"
+    },
+    {
+      "path": "design/styles/style-1/highlight-editor.html",
+      "sha256": "571b99d011973a57220790ff8c24a623378f4d24c3d11dcec4d718acce4a4ecd"
+    },
+    {
+      "path": "scripts/lib/instagram-highlight.mjs",
+      "sha256": "325ed2fc649906e102bbc883948942d604f404174ac19077bbf0c758bd41917a"
+    },
+    {
+      "path": "src/InstagramAd.tsx",
+      "sha256": "d65af27d57730d581e2db660a587aaa65a85cb420887be5877b198e56b30191d"
+    },
+    {
+      "path": "public/fonts/RobotoCondensed-Regular.ttf",
+      "sha256": "8d7fd2698784c88cf6aafcc27e329c6f432cd0ae5fed3db62c629d2665f209fc"
+    },
+    {
+      "path": "src/Root.tsx",
+      "sha256": "6dcd525fcddd3ca11b4e92a4654882885c64a0458e6112da69335214099bdf8f"
+    }
+  ],
+  "reactReview": "Passed: style config is static; measurement occurs once after fonts load in the existing effect; direct module imports, stable component boundaries, existing cancellation/error handling and serializable style props preserved."
+}

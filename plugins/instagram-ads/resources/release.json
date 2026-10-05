@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "pluginVersion": "0.3.0-alpha.1",
+  "workflowId": "f2a65398de9a6fbcfb19d8fccb4147b6c02f069c05c0c066260578649dd7afcd",
+  "engineBaseline": "Remotion 4.0.506",
+  "capabilities": {
+    "prepare": true,
+    "form": true,
+    "apply": true,
+    "compatibility": true,
+    "render": true,
+    "delivery": true,
+    "updater": true
+  },
+  "files": [
+    {
+      "path": "scripts/lib/campaign-setup.mjs",
+      "sha256": "1cd1a723f8ba264ad29ca8d011400c82a70351dd622264f3601045c0dd1e7334"
+    },
+    {
+      "path": "scripts/lib/music.mjs",
+      "sha256": "547c8632601350ea64554f657dd9749d6c1f6a88dd2c69837f0d1743692f37d4"
+    },
+    {
+      "path": "data/backgrounds.json",
+      "sha256": "09c7a679f45c45a5a6d6f6448e57ce6845a4a5655e26765fd7e9a2c8a0d36134"
+    },
+    {
+      "path": "data/music.json",
+      "sha256": "e571b1e92c7dfa7236ed57c374352161decc9a5f5ec3302f85a38915c8e92a9c"
+    },
+    {
+      "path": "data/layout/defaults.json",
+      "sha256": "31113cbddab6df882728d35722236d06c90f0ee08ec1b0b2298d3c2c5ef6df98"
+    },
+    {
+      "path": "tools/campaign-setup/form.template.html",
+      "sha256": "9e25bbb49b76c56f40642884b6f682699d4060d6df78c5e0fd702892d8851343"
+    },
+    {
+      "path": "tools/campaign-setup/form.js",
+      "sha256": "3ad5b22babf70f2b1adaf0f5569716fe6d05f1d9ea83693885bab5831a2547c9"
+    },
+    {
+      "path": "data/styles/style-1/definition.json",
+      "sha256": "68386c7daf74c5d5fa08f209497433a87bc9ecfedea1b614f88a6e63cbd0c91f"
+    },
+    {
+      "path": "data/styles/style-2/definition.json",
+      "sha256": "0050e9e58b3cd7c834083f436eb33465bdd01222735afb02c604471efefd26a3"
+    },
+    {
+      "path": "data/styles/style-3/definition.json",
+      "sha256": "ffb5a131d6c247d3d8f9db52b44af89b6774cac09bc09e68d85eb2e1ab88d9b4"
+    },
+    {
+      "path": "data/styles/style-4/definition.json",
+      "sha256": "91c1d08e416ecfcefe955c4150cfe9a06c6d106465ad5483ef7a2a094b33cbdd"
+    },
+    {
+      "path": "execution/storage.mjs",
+      "sha256": "0a64b4bb4ff83c9ffe49464a3b66e68a4e66006d96b3b7c8c6b9fcf0153deea6"
+    },
+    {
+      "path": "execution/job-runtime.mjs",
+      "sha256": "3116119a8da3a2ffcb9b93d205e0c13f8baeb4443c7dc9970aedccc4620bb2d4"
+    },
+    {
+      "path": "execution/job-worker.mjs",
+      "sha256": "b0eb8c0faf8bc36e1b5bd2a2236ee4a6509e4d74a347c25f8fa054ea55af207e"
+    },
+    {
+      "path": "execution/delivery.py",
+      "sha256": "1528f9310374a024cacc7042a849c221b2125c4c49be20dfd4dade49f20fc7bb"
+    },
+    {
+      "path": "distribution/instructions/AGENTS.md",
+      "sha256": "e35c663243eb92ad71463e3c06f7cc13534c00b5dbefae431593c8afeb031064"
+    },
+    {
+      "path": "distribution/lib/campaign-service.mjs",
+      "sha256": "863006be917afc0ea88fb35b43022c6905a720a0fdc8de2a50da5a799f52d696"
+    },
+    {
+      "path": "distribution/lib/delivery.py",
+      "sha256": "1528f9310374a024cacc7042a849c221b2125c4c49be20dfd4dade49f20fc7bb"
+    },
+    {
+      "path": "distribution/lib/job-runtime.mjs",
+      "sha256": "3116119a8da3a2ffcb9b93d205e0c13f8baeb4443c7dc9970aedccc4620bb2d4"
+    },
+    {
+      "path": "distribution/lib/job-service.mjs",
+      "sha256": "bcce4ec045e4f3a2472909ca7cf415b5287ca53253b53a8b56f98e5f27eb2404"
+    },
+    {
+      "path": "distribution/lib/job-worker.mjs",
+      "sha256": "b0eb8c0faf8bc36e1b5bd2a2236ee4a6509e4d74a347c25f8fa054ea55af207e"
+    },
+    {
+      "path": "distribution/lib/release-extract.py",
+      "sha256": "01ad6430f37873da7d38776f976952208643722fa106501cf564cce9cc97b48b"
+    },
+    {
+      "path": "distribution/lib/release-service.mjs",
+      "sha256": "30496994c6b2df81ac6211b682eb93ee915842ebcae026b01eada049118e2136"
+    },
+    {
+      "path": "distribution/lib/storage.mjs",
+      "sha256": "0a64b4bb4ff83c9ffe49464a3b66e68a4e66006d96b3b7c8c6b9fcf0153deea6"
+    },
+    {
+      "path": "distribution/plugin.json",
+      "sha256": "a8509827e5b4c92ffdec182ce9b399b146c9b580054f1556bfcac4a13ac9f4c6"
+    },
+    {
+      "path": "distribution/scripts/cli.mjs",
+      "sha256": "46d5e15cad1403db03696e45ef6b3a96514603c1e1bb9edcd3124d0e3a94eba9"
+    },
+    {
+      "path": "distribution/skills/prepare-instagram-ads/SKILL.md",
+      "sha256": "c6cc2a26e00c341c2044276b4dfef4f8c8ceb1c3067ce24c7cf739522150361d"
+    },
+    {
+      "path": "distribution/skills/prepare-instagram-ads/references/compatibility.md",
+      "sha256": "f50deefe45bd413a1e291bcaf8fe9ac8f2423283e48df4a16499368df33acc3e"
+    },
+    {
+      "path": "distribution/skills/prepare-instagram-ads/references/production.md",
+      "sha256": "c18b97e6db283b32e83971c0857b3a31992da4165a115b7851109f33ef64073d"
+    },
+    {
+      "path": "distribution/skills/prepare-instagram-ads/references/workflow.md",
+      "sha256": "5e76e2e84422fb972909980101ed23941594db3521f0d368a5c752d85e70d3f6"
+    },
+    {
+      "path": "distribution/skills/setup-instagram-ads/SKILL.md",
+      "sha256": "03b44a8cf212ae66b5f62a5becfd8d42c9637b5c55f87e29bb097820dc242576"
+    },
+    {
+      "path": "distribution/skills/setup-instagram-ads/references/portable-engine.md",
+      "sha256": "35196fdbbb33128ab1f740680dbae670616dff7ce2425040885596ed3d830db3"
+    },
+    {
+      "path": "distribution/skills/setup-instagram-ads/references/release-updates.md",
+      "sha256": "6bfb250f4b872e6ae7e511da2e0f3486d999f172e51ef0f5d5962229568e8776"
+    }
+  ]
+}

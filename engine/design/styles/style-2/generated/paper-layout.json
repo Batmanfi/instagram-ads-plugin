@@ -1,0 +1,299 @@
+{
+  "version": 1,
+  "description": "Style 2 — user-approved Roboto Bold with -1% letter spacing, saved 2026-10-03.",
+  "sourceScreenshot": "design/styles/style-1/source-screenshot.png",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "safeMargins": {
+      "top": 150,
+      "side": 70,
+      "bottom": 280
+    }
+  },
+  "fontFile": "public/fonts/Roboto-Bold.ttf",
+  "fontFamily": "Roboto",
+  "fontWeight": 700,
+  "letterSpacingEm": -0.01,
+  "blocks": [
+    {
+      "id": "hook",
+      "preset": "hook",
+      "fontSize": 62,
+      "x": 539.9925125,
+      "y": 150,
+      "fill": "#000000",
+      "lines": [
+        "I’m looking for 5-10 B2B",
+        "businesses who want to book",
+        "20-40 new sales calls per month"
+      ],
+      "measuredWidths": [
+        665,
+        804,
+        886
+      ],
+      "measurement": "Direct Paper MCP text and emoji widths at -0.01em, 2026-10-03.",
+      "geometry": {
+        "width": 930.64,
+        "height": 272.8,
+        "widths": [
+          709.64,
+          848.64,
+          930.64
+        ],
+        "textWidths": [
+          665,
+          804,
+          886
+        ],
+        "rowHeight": 79.36,
+        "paddingX": 22.32,
+        "paddingY": 17.360000000000003,
+        "outerRadius": 14.879999999999999,
+        "innerRadius": 14.879999999999999,
+        "d": "M 110.5 14.88 L 110.5 14.88 A 14.88 14.88 0 0 1 125.38 0 L 805.26 0 A 14.88 14.88 0 0 1 820.14 14.88 L 820.14 64.48 A 14.88 14.88 0 0 0 835.02 79.36 L 874.76 79.36 A 14.88 14.88 0 0 1 889.64 94.24 L 889.64 143.84 A 14.88 14.88 0 0 0 904.52 158.72 L 915.76 158.72 A 14.88 14.88 0 0 1 930.64 173.6 L 930.64 257.92 A 14.88 14.88 0 0 1 915.76 272.8 L 14.88 272.8 A 14.88 14.88 0 0 1 0 257.92 L 0 173.6 A 14.88 14.88 0 0 1 14.88 158.72 L 26.12 158.72 A 14.88 14.88 0 0 0 41 143.84 L 41 94.24 A 14.88 14.88 0 0 1 55.88 79.36 L 95.62 79.36 A 14.88 14.88 0 0 0 110.5 64.48 Z"
+      },
+      "tokenName": "--color-style-2-hook",
+      "measurementMode": "supplied exact Paper widths",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"930.64\" height=\"272.8\" viewBox=\"0 0 930.64 272.8\"><path d=\"M 110.5 14.88 L 110.5 14.88 A 14.88 14.88 0 0 1 125.38 0 L 805.26 0 A 14.88 14.88 0 0 1 820.14 14.88 L 820.14 64.48 A 14.88 14.88 0 0 0 835.02 79.36 L 874.76 79.36 A 14.88 14.88 0 0 1 889.64 94.24 L 889.64 143.84 A 14.88 14.88 0 0 0 904.52 158.72 L 915.76 158.72 A 14.88 14.88 0 0 1 930.64 173.6 L 930.64 257.92 A 14.88 14.88 0 0 1 915.76 272.8 L 14.88 272.8 A 14.88 14.88 0 0 1 0 257.92 L 0 173.6 A 14.88 14.88 0 0 1 14.88 158.72 L 26.12 158.72 A 14.88 14.88 0 0 0 41 143.84 L 41 94.24 A 14.88 14.88 0 0 1 55.88 79.36 L 95.62 79.36 A 14.88 14.88 0 0 0 110.5 64.48 Z\" fill=\"#000000\"/></svg>",
+      "paperHtml": "<svg layer-name=\"hook — Generated joined highlight — color token\" width=\"930.64\" height=\"272.8\" viewBox=\"0 0 930.64 272.8\" style=\"position:absolute;left:0px;top:0px\"><path d=\"M 110.5 14.88 L 110.5 14.88 A 14.88 14.88 0 0 1 125.38 0 L 805.26 0 A 14.88 14.88 0 0 1 820.14 14.88 L 820.14 64.48 A 14.88 14.88 0 0 0 835.02 79.36 L 874.76 79.36 A 14.88 14.88 0 0 1 889.64 94.24 L 889.64 143.84 A 14.88 14.88 0 0 0 904.52 158.72 L 915.76 158.72 A 14.88 14.88 0 0 1 930.64 173.6 L 930.64 257.92 A 14.88 14.88 0 0 1 915.76 272.8 L 14.88 272.8 A 14.88 14.88 0 0 1 0 257.92 L 0 173.6 A 14.88 14.88 0 0 1 14.88 158.72 L 26.12 158.72 A 14.88 14.88 0 0 0 41 143.84 L 41 94.24 A 14.88 14.88 0 0 1 55.88 79.36 L 95.62 79.36 A 14.88 14.88 0 0 0 110.5 64.48 Z\" fill=\"var(--color-style-2-hook)\" /></svg>"
+    },
+    {
+      "id": "intro",
+      "preset": "label",
+      "fontSize": 52,
+      "x": 539.9975,
+      "y": 470,
+      "fill": "#000000",
+      "lines": [
+        "Here’s how it works:"
+      ],
+      "measuredWidths": [
+        456
+      ],
+      "measurement": "Direct Paper MCP text and emoji widths at -0.01em, 2026-10-03.",
+      "geometry": {
+        "width": 478.88,
+        "height": 90.48,
+        "widths": [
+          478.88
+        ],
+        "textWidths": [
+          456
+        ],
+        "rowHeight": 66.56,
+        "paddingX": 11.44,
+        "paddingY": 11.96,
+        "outerRadius": 10.4,
+        "innerRadius": 10.4,
+        "d": "M 0 10.4 L 0 10.4 A 10.4 10.4 0 0 1 10.4 0 L 468.48 0 A 10.4 10.4 0 0 1 478.88 10.4 L 478.88 80.08 A 10.4 10.4 0 0 1 468.48 90.48 L 10.4 90.48 A 10.4 10.4 0 0 1 0 80.08 Z"
+      },
+      "tokenName": "--color-style-2-intro",
+      "measurementMode": "supplied exact Paper widths",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"478.88\" height=\"90.48\" viewBox=\"0 0 478.88 90.48\"><path d=\"M 0 10.4 L 0 10.4 A 10.4 10.4 0 0 1 10.4 0 L 468.48 0 A 10.4 10.4 0 0 1 478.88 10.4 L 478.88 80.08 A 10.4 10.4 0 0 1 468.48 90.48 L 10.4 90.48 A 10.4 10.4 0 0 1 0 80.08 Z\" fill=\"#000000\"/></svg>",
+      "paperHtml": "<svg layer-name=\"intro — Generated joined highlight — color token\" width=\"478.88\" height=\"90.48\" viewBox=\"0 0 478.88 90.48\" style=\"position:absolute;left:0px;top:0px\"><path d=\"M 0 10.4 L 0 10.4 A 10.4 10.4 0 0 1 10.4 0 L 468.48 0 A 10.4 10.4 0 0 1 478.88 10.4 L 478.88 80.08 A 10.4 10.4 0 0 1 468.48 90.48 L 10.4 90.48 A 10.4 10.4 0 0 1 0 80.08 Z\" fill=\"var(--color-style-2-intro)\" /></svg>"
+    },
+    {
+      "id": "step-1",
+      "preset": "white",
+      "fontSize": 46,
+      "x": 539.9940625,
+      "y": 620,
+      "fill": "#FFFFFF",
+      "lines": [
+        "📌 We scrape every decision",
+        "maker in your market"
+      ],
+      "measuredWidths": [
+        571,
+        431
+      ],
+      "measurement": "Direct Paper MCP text and emoji widths at -0.01em, 2026-10-03.",
+      "geometry": {
+        "width": 603.2,
+        "height": 131.56,
+        "widths": [
+          603.2,
+          463.2
+        ],
+        "textWidths": [
+          571,
+          431
+        ],
+        "rowHeight": 58.88,
+        "paddingX": 16.099999999999998,
+        "paddingY": 6.8999999999999995,
+        "outerRadius": 8.28,
+        "innerRadius": 10.12,
+        "d": "M 0 8.28 L 0 8.28 A 8.28 8.28 0 0 1 8.28 0 L 594.92 0 A 8.28 8.28 0 0 1 603.2 8.28 L 603.2 64.4 A 8.28 8.28 0 0 1 594.92 72.68 L 543.32 72.68 A 10.12 10.12 0 0 0 533.2 82.8 L 533.2 123.28 A 8.28 8.28 0 0 1 524.92 131.56 L 78.28 131.56 A 8.28 8.28 0 0 1 70 123.28 L 70 82.8 A 10.12 10.12 0 0 0 59.88 72.68 L 8.28 72.68 A 8.28 8.28 0 0 1 0 64.4 Z"
+      },
+      "tokenName": "--color-style-2-step-1",
+      "measurementMode": "supplied exact Paper widths",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"603.2\" height=\"131.56\" viewBox=\"0 0 603.2 131.56\"><path d=\"M 0 8.28 L 0 8.28 A 8.28 8.28 0 0 1 8.28 0 L 594.92 0 A 8.28 8.28 0 0 1 603.2 8.28 L 603.2 64.4 A 8.28 8.28 0 0 1 594.92 72.68 L 543.32 72.68 A 10.12 10.12 0 0 0 533.2 82.8 L 533.2 123.28 A 8.28 8.28 0 0 1 524.92 131.56 L 78.28 131.56 A 8.28 8.28 0 0 1 70 123.28 L 70 82.8 A 10.12 10.12 0 0 0 59.88 72.68 L 8.28 72.68 A 8.28 8.28 0 0 1 0 64.4 Z\" fill=\"#FFFFFF\"/></svg>",
+      "paperHtml": "<svg layer-name=\"step-1 — Generated joined highlight — color token\" width=\"603.2\" height=\"131.56\" viewBox=\"0 0 603.2 131.56\" style=\"position:absolute;left:0px;top:0px\"><path d=\"M 0 8.28 L 0 8.28 A 8.28 8.28 0 0 1 8.28 0 L 594.92 0 A 8.28 8.28 0 0 1 603.2 8.28 L 603.2 64.4 A 8.28 8.28 0 0 1 594.92 72.68 L 543.32 72.68 A 10.12 10.12 0 0 0 533.2 82.8 L 533.2 123.28 A 8.28 8.28 0 0 1 524.92 131.56 L 78.28 131.56 A 8.28 8.28 0 0 1 70 123.28 L 70 82.8 A 10.12 10.12 0 0 0 59.88 72.68 L 8.28 72.68 A 8.28 8.28 0 0 1 0 64.4 Z\" fill=\"var(--color-style-2-step-1)\" /></svg>"
+    },
+    {
+      "id": "step-2",
+      "preset": "white",
+      "fontSize": 46,
+      "x": 539.9941875,
+      "y": 790,
+      "fill": "#FFFFFF",
+      "lines": [
+        "📌 We send 5,000+ personalized",
+        "cold emails to them every day"
+      ],
+      "measuredWidths": [
+        652,
+        603
+      ],
+      "measurement": "Direct Paper MCP text and emoji widths at -0.01em, 2026-10-03.",
+      "geometry": {
+        "width": 684.2,
+        "height": 131.56,
+        "widths": [
+          684.2,
+          635.2
+        ],
+        "textWidths": [
+          652,
+          603
+        ],
+        "rowHeight": 58.88,
+        "paddingX": 16.099999999999998,
+        "paddingY": 6.8999999999999995,
+        "outerRadius": 8.28,
+        "innerRadius": 10.12,
+        "d": "M 0 8.28 L 0 8.28 A 8.28 8.28 0 0 1 8.28 0 L 675.92 0 A 8.28 8.28 0 0 1 684.2 8.28 L 684.2 64.4 A 8.28 8.28 0 0 1 675.92 72.68 L 669.82 72.68 A 10.12 10.12 0 0 0 659.7 82.8 L 659.7 123.28 A 8.28 8.28 0 0 1 651.42 131.56 L 32.78 131.56 A 8.28 8.28 0 0 1 24.5 123.28 L 24.5 82.8 A 10.12 10.12 0 0 0 14.38 72.68 L 8.28 72.68 A 8.28 8.28 0 0 1 0 64.4 Z"
+      },
+      "tokenName": "--color-style-2-step-2",
+      "measurementMode": "supplied exact Paper widths",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"684.2\" height=\"131.56\" viewBox=\"0 0 684.2 131.56\"><path d=\"M 0 8.28 L 0 8.28 A 8.28 8.28 0 0 1 8.28 0 L 675.92 0 A 8.28 8.28 0 0 1 684.2 8.28 L 684.2 64.4 A 8.28 8.28 0 0 1 675.92 72.68 L 669.82 72.68 A 10.12 10.12 0 0 0 659.7 82.8 L 659.7 123.28 A 8.28 8.28 0 0 1 651.42 131.56 L 32.78 131.56 A 8.28 8.28 0 0 1 24.5 123.28 L 24.5 82.8 A 10.12 10.12 0 0 0 14.38 72.68 L 8.28 72.68 A 8.28 8.28 0 0 1 0 64.4 Z\" fill=\"#FFFFFF\"/></svg>",
+      "paperHtml": "<svg layer-name=\"step-2 — Generated joined highlight — color token\" width=\"684.2\" height=\"131.56\" viewBox=\"0 0 684.2 131.56\" style=\"position:absolute;left:0px;top:0px\"><path d=\"M 0 8.28 L 0 8.28 A 8.28 8.28 0 0 1 8.28 0 L 675.92 0 A 8.28 8.28 0 0 1 684.2 8.28 L 684.2 64.4 A 8.28 8.28 0 0 1 675.92 72.68 L 669.82 72.68 A 10.12 10.12 0 0 0 659.7 82.8 L 659.7 123.28 A 8.28 8.28 0 0 1 651.42 131.56 L 32.78 131.56 A 8.28 8.28 0 0 1 24.5 123.28 L 24.5 82.8 A 10.12 10.12 0 0 0 14.38 72.68 L 8.28 72.68 A 8.28 8.28 0 0 1 0 64.4 Z\" fill=\"var(--color-style-2-step-2)\" /></svg>"
+    },
+    {
+      "id": "step-3",
+      "preset": "white",
+      "fontSize": 46,
+      "x": 539.9934375,
+      "y": 960,
+      "fill": "#FFFFFF",
+      "lines": [
+        "📌 We respond to the interested",
+        "leads and book the calls"
+      ],
+      "measuredWidths": [
+        640,
+        488
+      ],
+      "measurement": "Direct Paper MCP text and emoji widths at -0.01em, 2026-10-03.",
+      "geometry": {
+        "width": 672.2,
+        "height": 131.56,
+        "widths": [
+          672.2,
+          520.2
+        ],
+        "textWidths": [
+          640,
+          488
+        ],
+        "rowHeight": 58.88,
+        "paddingX": 16.099999999999998,
+        "paddingY": 6.8999999999999995,
+        "outerRadius": 8.28,
+        "innerRadius": 10.12,
+        "d": "M 0 8.28 L 0 8.28 A 8.28 8.28 0 0 1 8.28 0 L 663.92 0 A 8.28 8.28 0 0 1 672.2 8.28 L 672.2 64.4 A 8.28 8.28 0 0 1 663.92 72.68 L 606.32 72.68 A 10.12 10.12 0 0 0 596.2 82.8 L 596.2 123.28 A 8.28 8.28 0 0 1 587.92 131.56 L 84.28 131.56 A 8.28 8.28 0 0 1 76 123.28 L 76 82.8 A 10.12 10.12 0 0 0 65.88 72.68 L 8.28 72.68 A 8.28 8.28 0 0 1 0 64.4 Z"
+      },
+      "tokenName": "--color-style-2-step-3",
+      "measurementMode": "supplied exact Paper widths",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"672.2\" height=\"131.56\" viewBox=\"0 0 672.2 131.56\"><path d=\"M 0 8.28 L 0 8.28 A 8.28 8.28 0 0 1 8.28 0 L 663.92 0 A 8.28 8.28 0 0 1 672.2 8.28 L 672.2 64.4 A 8.28 8.28 0 0 1 663.92 72.68 L 606.32 72.68 A 10.12 10.12 0 0 0 596.2 82.8 L 596.2 123.28 A 8.28 8.28 0 0 1 587.92 131.56 L 84.28 131.56 A 8.28 8.28 0 0 1 76 123.28 L 76 82.8 A 10.12 10.12 0 0 0 65.88 72.68 L 8.28 72.68 A 8.28 8.28 0 0 1 0 64.4 Z\" fill=\"#FFFFFF\"/></svg>",
+      "paperHtml": "<svg layer-name=\"step-3 — Generated joined highlight — color token\" width=\"672.2\" height=\"131.56\" viewBox=\"0 0 672.2 131.56\" style=\"position:absolute;left:0px;top:0px\"><path d=\"M 0 8.28 L 0 8.28 A 8.28 8.28 0 0 1 8.28 0 L 663.92 0 A 8.28 8.28 0 0 1 672.2 8.28 L 672.2 64.4 A 8.28 8.28 0 0 1 663.92 72.68 L 606.32 72.68 A 10.12 10.12 0 0 0 596.2 82.8 L 596.2 123.28 A 8.28 8.28 0 0 1 587.92 131.56 L 84.28 131.56 A 8.28 8.28 0 0 1 76 123.28 L 76 82.8 A 10.12 10.12 0 0 0 65.88 72.68 L 8.28 72.68 A 8.28 8.28 0 0 1 0 64.4 Z\" fill=\"var(--color-style-2-step-3)\" /></svg>"
+    },
+    {
+      "id": "proof",
+      "preset": "black",
+      "fontSize": 46,
+      "x": 539.995,
+      "y": 1170,
+      "fill": "#000000",
+      "lines": [
+        "We’ve used this approach to book",
+        "5,000+ sales calls across 30+",
+        "industries"
+      ],
+      "measuredWidths": [
+        678,
+        596,
+        202
+      ],
+      "measurement": "Direct Paper MCP text and emoji widths at -0.01em, 2026-10-03.",
+      "geometry": {
+        "width": 711.12,
+        "height": 197.8,
+        "widths": [
+          711.12,
+          629.12,
+          235.12
+        ],
+        "textWidths": [
+          678,
+          596,
+          202
+        ],
+        "rowHeight": 58.88,
+        "paddingX": 16.56,
+        "paddingY": 10.58,
+        "outerRadius": 10.12,
+        "innerRadius": 11.04,
+        "d": "M 0 10.12 L 0 10.12 A 10.12 10.12 0 0 1 10.12 0 L 701 0 A 10.12 10.12 0 0 1 711.12 10.12 L 711.12 69.92 A 10.12 10.12 0 0 1 701 80.04 L 681.16 80.04 A 11.04 11.04 0 0 0 670.12 91.08 L 670.12 128.8 A 10.12 10.12 0 0 1 660 138.92 L 484.16 138.92 A 11.04 11.04 0 0 0 473.12 149.96 L 473.12 187.68 A 10.12 10.12 0 0 1 463 197.8 L 248.12 197.8 A 10.12 10.12 0 0 1 238 187.68 L 238 149.96 A 11.04 11.04 0 0 0 226.96 138.92 L 51.12 138.92 A 10.12 10.12 0 0 1 41 128.8 L 41 91.08 A 11.04 11.04 0 0 0 29.96 80.04 L 10.12 80.04 A 10.12 10.12 0 0 1 0 69.92 Z"
+      },
+      "tokenName": "--color-style-2-proof",
+      "measurementMode": "supplied exact Paper widths",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"711.12\" height=\"197.8\" viewBox=\"0 0 711.12 197.8\"><path d=\"M 0 10.12 L 0 10.12 A 10.12 10.12 0 0 1 10.12 0 L 701 0 A 10.12 10.12 0 0 1 711.12 10.12 L 711.12 69.92 A 10.12 10.12 0 0 1 701 80.04 L 681.16 80.04 A 11.04 11.04 0 0 0 670.12 91.08 L 670.12 128.8 A 10.12 10.12 0 0 1 660 138.92 L 484.16 138.92 A 11.04 11.04 0 0 0 473.12 149.96 L 473.12 187.68 A 10.12 10.12 0 0 1 463 197.8 L 248.12 197.8 A 10.12 10.12 0 0 1 238 187.68 L 238 149.96 A 11.04 11.04 0 0 0 226.96 138.92 L 51.12 138.92 A 10.12 10.12 0 0 1 41 128.8 L 41 91.08 A 11.04 11.04 0 0 0 29.96 80.04 L 10.12 80.04 A 10.12 10.12 0 0 1 0 69.92 Z\" fill=\"#000000\"/></svg>",
+      "paperHtml": "<svg layer-name=\"proof — Generated joined highlight — color token\" width=\"711.12\" height=\"197.8\" viewBox=\"0 0 711.12 197.8\" style=\"position:absolute;left:0px;top:0px\"><path d=\"M 0 10.12 L 0 10.12 A 10.12 10.12 0 0 1 10.12 0 L 701 0 A 10.12 10.12 0 0 1 711.12 10.12 L 711.12 69.92 A 10.12 10.12 0 0 1 701 80.04 L 681.16 80.04 A 11.04 11.04 0 0 0 670.12 91.08 L 670.12 128.8 A 10.12 10.12 0 0 1 660 138.92 L 484.16 138.92 A 11.04 11.04 0 0 0 473.12 149.96 L 473.12 187.68 A 10.12 10.12 0 0 1 463 197.8 L 248.12 197.8 A 10.12 10.12 0 0 1 238 187.68 L 238 149.96 A 11.04 11.04 0 0 0 226.96 138.92 L 51.12 138.92 A 10.12 10.12 0 0 1 41 128.8 L 41 91.08 A 11.04 11.04 0 0 0 29.96 80.04 L 10.12 80.04 A 10.12 10.12 0 0 1 0 69.92 Z\" fill=\"var(--color-style-2-proof)\" /></svg>"
+    },
+    {
+      "id": "cta",
+      "preset": "black",
+      "fontSize": 52,
+      "x": 539.998625,
+      "y": 1480,
+      "fill": "#000000",
+      "lines": [
+        "If you want more information, click",
+        "the button below 👇"
+      ],
+      "measuredWidths": [
+        794,
+        447
+      ],
+      "measurement": "Direct Paper MCP text and emoji widths at -0.01em, 2026-10-03.",
+      "geometry": {
+        "width": 831.44,
+        "height": 157.04000000000002,
+        "widths": [
+          831.44,
+          484.44
+        ],
+        "textWidths": [
+          794,
+          447
+        ],
+        "rowHeight": 66.56,
+        "paddingX": 18.72,
+        "paddingY": 11.96,
+        "outerRadius": 11.44,
+        "innerRadius": 12.48,
+        "d": "M 0 11.44 L 0 11.44 A 11.44 11.44 0 0 1 11.44 0 L 820 0 A 11.44 11.44 0 0 1 831.44 11.44 L 831.44 79.04 A 11.44 11.44 0 0 1 820 90.48 L 670.42 90.48 A 12.48 12.48 0 0 0 657.94 102.96 L 657.94 145.6 A 11.44 11.44 0 0 1 646.5 157.04 L 184.94 157.04 A 11.44 11.44 0 0 1 173.5 145.6 L 173.5 102.96 A 12.48 12.48 0 0 0 161.02 90.48 L 11.44 90.48 A 11.44 11.44 0 0 1 0 79.04 Z"
+      },
+      "tokenName": "--color-style-2-cta",
+      "measurementMode": "supplied exact Paper widths",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"831.44\" height=\"157.04000000000002\" viewBox=\"0 0 831.44 157.04000000000002\"><path d=\"M 0 11.44 L 0 11.44 A 11.44 11.44 0 0 1 11.44 0 L 820 0 A 11.44 11.44 0 0 1 831.44 11.44 L 831.44 79.04 A 11.44 11.44 0 0 1 820 90.48 L 670.42 90.48 A 12.48 12.48 0 0 0 657.94 102.96 L 657.94 145.6 A 11.44 11.44 0 0 1 646.5 157.04 L 184.94 157.04 A 11.44 11.44 0 0 1 173.5 145.6 L 173.5 102.96 A 12.48 12.48 0 0 0 161.02 90.48 L 11.44 90.48 A 11.44 11.44 0 0 1 0 79.04 Z\" fill=\"#000000\"/></svg>",
+      "paperHtml": "<svg layer-name=\"cta — Generated joined highlight — color token\" width=\"831.44\" height=\"157.04000000000002\" viewBox=\"0 0 831.44 157.04000000000002\" style=\"position:absolute;left:0px;top:0px\"><path d=\"M 0 11.44 L 0 11.44 A 11.44 11.44 0 0 1 11.44 0 L 820 0 A 11.44 11.44 0 0 1 831.44 11.44 L 831.44 79.04 A 11.44 11.44 0 0 1 820 90.48 L 670.42 90.48 A 12.48 12.48 0 0 0 657.94 102.96 L 657.94 145.6 A 11.44 11.44 0 0 1 646.5 157.04 L 184.94 157.04 A 11.44 11.44 0 0 1 173.5 145.6 L 173.5 102.96 A 12.48 12.48 0 0 0 161.02 90.48 L 11.44 90.48 A 11.44 11.44 0 0 1 0 79.04 Z\" fill=\"var(--color-style-2-cta)\" /></svg>"
+    }
+  ],
+  "tokenPrefix": "--color-style-2-",
+  "generatedAt": "2026-10-03T07:46:42.989Z"
+}

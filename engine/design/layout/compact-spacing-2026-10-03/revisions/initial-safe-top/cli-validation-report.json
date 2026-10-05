@@ -1,0 +1,115 @@
+{
+  "status": "production",
+  "campaign": "outboundpilot-style1-2026-10-01-01",
+  "copySource": "data/campaigns/outboundpilot-style1-2026-10-01-01/Original-Ad-Copy.md",
+  "copySha256": "cda7e00b464dd86ced9fca0daecde525af1fc878b37911423bb88ec358a433e8",
+  "ads": [
+    {
+      "id": "ad-06",
+      "status": "validated",
+      "stills": [
+        "/Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/work/2026-10-03T13-33-24-921Z/ad-06-0.png",
+        "/Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/work/2026-10-03T13-33-24-921Z/ad-06-150.png",
+        "/Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/work/2026-10-03T13-33-24-921Z/ad-06-299.png"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "filename": "01-Mount-Rainier-Road-1080x1920.mp4",
+      "duration": 12.366667,
+      "width": 1080,
+      "height": 1920,
+      "fps": "30/1",
+      "suitableFor10Seconds": true
+    },
+    {
+      "filename": "02-Cactus-Garden-1080x1920.mp4",
+      "duration": 9.033333,
+      "width": 1080,
+      "height": 1920,
+      "fps": "30/1",
+      "suitableFor10Seconds": false
+    },
+    {
+      "filename": "03-Rocky-Coast-1080x1920.mp4",
+      "duration": 16.082733,
+      "width": 1080,
+      "height": 1920,
+      "fps": "60000/1001",
+      "suitableFor10Seconds": true
+    },
+    {
+      "filename": "04-Pine-Mountains-1080x1920.mp4",
+      "duration": 8.4,
+      "width": 1080,
+      "height": 1920,
+      "fps": "30/1",
+      "suitableFor10Seconds": false
+    },
+    {
+      "filename": "05-City-Traffic-Dusk-1920x1080.mp4",
+      "duration": 18.385033,
+      "width": 1920,
+      "height": 1080,
+      "fps": "30000/1001",
+      "suitableFor10Seconds": true
+    },
+    {
+      "filename": "06-Flowering-Cactus-Garden-1080x1920.mp4",
+      "duration": 11.52,
+      "width": 1080,
+      "height": 1920,
+      "fps": "25/1",
+      "suitableFor10Seconds": true
+    },
+    {
+      "filename": "07-Lake-and-Mountains-1080x1920.mp4",
+      "duration": 8.65,
+      "width": 1080,
+      "height": 1920,
+      "fps": "60/1",
+      "suitableFor10Seconds": false
+    },
+    {
+      "filename": "08-Lake-Sunset-1080x1920.mp4",
+      "duration": 5.64,
+      "width": 1080,
+      "height": 1920,
+      "fps": "25/1",
+      "suitableFor10Seconds": false
+    },
+    {
+      "filename": "09-Lake-1080x1920.mp4",
+      "duration": 9.92,
+      "width": 1080,
+      "height": 1920,
+      "fps": "25/1",
+      "suitableFor10Seconds": false
+    },
+    {
+      "filename": "10-Island-Coast-1080x1920.mp4",
+      "duration": 19.085,
+      "width": 1080,
+      "height": 1920,
+      "fps": "30000/1001",
+      "suitableFor10Seconds": true
+    },
+    {
+      "filename": "11-Mountain-Landscape-1080x1920.mp4",
+      "duration": 10.133333,
+      "width": 1080,
+      "height": 1920,
+      "fps": "30/1",
+      "suitableFor10Seconds": true
+    },
+    {
+      "filename": "12-Mountain-Road-2160x3840.mp4",
+      "duration": 103.125,
+      "width": 2160,
+      "height": 3840,
+      "fps": "24/1",
+      "suitableFor10Seconds": true
+    }
+  ]
+}

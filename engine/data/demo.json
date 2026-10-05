@@ -1,0 +1,48 @@
+{
+  "id": "template-qa",
+  "outputName": "template-qa-NOT-A-CAMPAIGN-AD",
+  "fontPreset": "condensed-regular",
+  "background": {
+    "filename": "01-Mount-Rainier-Road-1080x1920.mp4",
+    "startTime": 0,
+    "cropPosition": [50, 50]
+  },
+  "blocks": [
+    {
+      "id": "hook",
+      "text": "Reusable template preview\nCopy file pending\n10-second layout test",
+      "x": 540,
+      "y": 155,
+      "fontSize": 62,
+      "highlight": "black",
+      "maxWidth": 850
+    },
+    {
+      "id": "middle",
+      "text": "📌 Your exact wording belongs here.\nThis is a template test.\nThese lines test the white highlight.",
+      "x": 540,
+      "y": 645,
+      "fontSize": 52,
+      "highlight": "white",
+      "maxWidth": 850
+    },
+    {
+      "id": "plain",
+      "text": "All text stays visible for 10 seconds.\nOne continuous scenic clip.",
+      "x": 540,
+      "y": 1080,
+      "fontSize": 50,
+      "highlight": "plain",
+      "maxWidth": 850
+    },
+    {
+      "id": "cta",
+      "text": "Production copy pending 👇",
+      "x": 540,
+      "y": 1510,
+      "fontSize": 52,
+      "highlight": "black",
+      "maxWidth": 850
+    }
+  ]
+}

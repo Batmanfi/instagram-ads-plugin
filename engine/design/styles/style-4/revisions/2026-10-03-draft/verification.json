@@ -1,0 +1,27 @@
+{
+  "status": "draft-awaiting-user-tuning",
+  "copyAudit": "passed",
+  "blocks": 6,
+  "textLayers": 13,
+  "emojiLayers": 5,
+  "canvas": [
+    1080,
+    1920
+  ],
+  "fontFloor": 44,
+  "minimumGap": 28,
+  "safeBounds": "passed",
+  "visualReview": "passed: all copy, joined highlights, emojis, contrast, alignment and fit reviewed in Paper; guides unclipped",
+  "productionPresetImplemented": false,
+  "sha256": {
+    "paper-draft.png": "b55dd58c6c2b3b83b80c2e00010e6fcc79708ed8dcf47223dd1971010795c330",
+    "Screenshot_20261003-192122_Gallery.jpg": "be0c458d5e756a096f4a55ce9cdabf7867368343b51b0a0a2b5a85ed30996dfa",
+    "background-cleaned.png": "462cfd005b7ead289766e1d4e54b897dd3fa01c89540f2da069601c40633b043",
+    "README.md": "737c53295a4474f513cd282a25a35079976539399365059977e62dc90387d071",
+    "paper-map.json": "51fe35cd86cdb07f323bbf75d4feb2a6efcae47097a0c07aec83371e6d694bbd",
+    "reference-copy.json": "3d46a8954f1f16ddd21fc4343837b7416c45f6fd1904bab1ac671534f688872c",
+    "draft-layout.json": "255bd8d845b592674a96188abcf8689e6d98a70e9aadde3e66767ec7c1d2ec9f",
+    "background-edit.json": "270ac04df2df22712d4dbec9fb6757b4d863f38c766658ea6c9e752252c350e3",
+    "paper-draft-snapshot.json": "ff90f34b74ae42b966050017cb56b15bc5f085c92f0d3316b782bc231dcc1d61"
+  }
+}

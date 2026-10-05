@@ -1,0 +1,222 @@
+{
+  "id": "style-4",
+  "name": "Style 4 — Serif hook",
+  "pageId": "p-5-0",
+  "master": "CK-0",
+  "reference": "Screenshot_20261003-192122_Gallery.jpg",
+  "referenceCrop": {
+    "top": 210,
+    "height": 1920,
+    "width": 1080
+  },
+  "overlay": 0.25,
+  "blocks": [
+    {
+      "id": "hook",
+      "lines": [
+        "I'm looking for 5-10 B2B",
+        "companies that want to send",
+        "50,000+ cold emails"
+      ],
+      "x": 540,
+      "y": 276,
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 76,
+      "letterSpacingEm": 0,
+      "rowHeightEm": 1.105263157894737,
+      "paddingXEm": 0.28,
+      "paddingYEm": 0.23,
+      "outerRadiusEm": 0.25,
+      "innerRadiusEm": 0.25,
+      "fillToken": null,
+      "textToken": "--color-style-4-white",
+      "measuredWidths": [
+        773.65625,
+        861.125,
+        619.109375
+      ],
+      "rowHeight": 84.00000000000001,
+      "geometry": null,
+      "width": 861.125,
+      "height": 252.00000000000006,
+      "html": "<div layer-name=\"hook — Move complete block\" style=\"position:absolute;left:109.4375px;top:276px;width:861.125px;height:252.00000000000006px;display:flex\"><div layer-name=\"hook — Row 1\" style=\"position:absolute;left:43.734375px;top:0px;display:flex;align-items:center;width:max-content;height:84.00000000000001px;font-family:Times New Roman;font-size:76px;font-weight:400;letter-spacing:0em;line-height:84.00000000000001px;color:var(--color-style-4-white)\"><span layer-name=\"hook — Text 1\" style=\"white-space:pre\">I'm looking for 5-10 B2B</span></div><div layer-name=\"hook — Row 2\" style=\"position:absolute;left:0px;top:84.00000000000001px;display:flex;align-items:center;width:max-content;height:84.00000000000001px;font-family:Times New Roman;font-size:76px;font-weight:400;letter-spacing:0em;line-height:84.00000000000001px;color:var(--color-style-4-white)\"><span layer-name=\"hook — Text 2\" style=\"white-space:pre\">companies that want to send</span></div><div layer-name=\"hook — Row 3\" style=\"position:absolute;left:121.0078125px;top:168.00000000000003px;display:flex;align-items:center;width:max-content;height:84.00000000000001px;font-family:Times New Roman;font-size:76px;font-weight:400;letter-spacing:0em;line-height:84.00000000000001px;color:var(--color-style-4-white)\"><span layer-name=\"hook — Text 3\" style=\"white-space:pre\">50,000+ cold emails</span></div></div>"
+    },
+    {
+      "id": "step-1",
+      "lines": [
+        "📌 We find every decision maker in",
+        "your market"
+      ],
+      "x": 540,
+      "y": 634,
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "fontSize": 48,
+      "letterSpacingEm": 0,
+      "rowHeightEm": 1.15,
+      "paddingXEm": 0.28,
+      "paddingYEm": 0.23,
+      "outerRadiusEm": 0.25,
+      "innerRadiusEm": 0.25,
+      "fillToken": null,
+      "textToken": "--color-style-4-white",
+      "measuredWidths": [
+        745.25,
+        259.484375
+      ],
+      "rowHeight": 55.199999999999996,
+      "geometry": null,
+      "width": 745.25,
+      "height": 110.39999999999999,
+      "html": "<div layer-name=\"step-1 — Move complete block\" style=\"position:absolute;left:167.375px;top:634px;width:745.25px;height:110.39999999999999px;display:flex\"><div layer-name=\"step-1 — Row 1\" style=\"position:absolute;left:0px;top:0px;display:flex;align-items:center;width:max-content;height:55.199999999999996px;font-family:Roboto;font-size:48px;font-weight:700;letter-spacing:0em;line-height:55.199999999999996px;color:var(--color-style-4-white)\"><img layer-name=\"step-1 — 📌\" src=\"paper-asset:///Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/public/emoji/f09f938c.png\" style=\"width:48px;height:48px;flex-shrink:0\" /><span layer-name=\"step-1 — Text 1\" style=\"white-space:pre\"> We find every decision maker in</span></div><div layer-name=\"step-1 — Row 2\" style=\"position:absolute;left:242.8828125px;top:55.199999999999996px;display:flex;align-items:center;width:max-content;height:55.199999999999996px;font-family:Roboto;font-size:48px;font-weight:700;letter-spacing:0em;line-height:55.199999999999996px;color:var(--color-style-4-white)\"><span layer-name=\"step-1 — Text 2\" style=\"white-space:pre\">your market</span></div></div>",
+      "gapBefore": 105.99999999999994
+    },
+    {
+      "id": "step-2",
+      "lines": [
+        "📌 We use intent signals to narrow",
+        "the list to companies actively",
+        "looking for what you sell"
+      ],
+      "x": 540,
+      "y": 800,
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "fontSize": 48,
+      "letterSpacingEm": 0,
+      "rowHeightEm": 1.15,
+      "paddingXEm": 0.28,
+      "paddingYEm": 0.23,
+      "outerRadiusEm": 0.25,
+      "innerRadiusEm": 0.25,
+      "fillToken": null,
+      "textToken": "--color-style-4-white",
+      "measuredWidths": [
+        735.96875,
+        628.765625,
+        526.96875
+      ],
+      "rowHeight": 55.199999999999996,
+      "geometry": null,
+      "width": 735.96875,
+      "height": 165.6,
+      "html": "<div layer-name=\"step-2 — Move complete block\" style=\"position:absolute;left:172.015625px;top:800px;width:735.96875px;height:165.6px;display:flex\"><div layer-name=\"step-2 — Row 1\" style=\"position:absolute;left:0px;top:0px;display:flex;align-items:center;width:max-content;height:55.199999999999996px;font-family:Roboto;font-size:48px;font-weight:700;letter-spacing:0em;line-height:55.199999999999996px;color:var(--color-style-4-white)\"><img layer-name=\"step-2 — 📌\" src=\"paper-asset:///Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/public/emoji/f09f938c.png\" style=\"width:48px;height:48px;flex-shrink:0\" /><span layer-name=\"step-2 — Text 1\" style=\"white-space:pre\"> We use intent signals to narrow</span></div><div layer-name=\"step-2 — Row 2\" style=\"position:absolute;left:53.6015625px;top:55.199999999999996px;display:flex;align-items:center;width:max-content;height:55.199999999999996px;font-family:Roboto;font-size:48px;font-weight:700;letter-spacing:0em;line-height:55.199999999999996px;color:var(--color-style-4-white)\"><span layer-name=\"step-2 — Text 2\" style=\"white-space:pre\">the list to companies actively</span></div><div layer-name=\"step-2 — Row 3\" style=\"position:absolute;left:104.5px;top:110.39999999999999px;display:flex;align-items:center;width:max-content;height:55.199999999999996px;font-family:Roboto;font-size:48px;font-weight:700;letter-spacing:0em;line-height:55.199999999999996px;color:var(--color-style-4-white)\"><span layer-name=\"step-2 — Text 3\" style=\"white-space:pre\">looking for what you sell</span></div></div>",
+      "gapBefore": 55.60000000000001
+    },
+    {
+      "id": "step-3",
+      "lines": [
+        "📌 We personalize every outreach",
+        "email using AI"
+      ],
+      "x": 540,
+      "y": 1024,
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "fontSize": 48,
+      "letterSpacingEm": 0,
+      "rowHeightEm": 1.15,
+      "paddingXEm": 0.28,
+      "paddingYEm": 0.23,
+      "outerRadiusEm": 0.25,
+      "innerRadiusEm": 0.25,
+      "fillToken": null,
+      "textToken": "--color-style-4-white",
+      "measuredWidths": [
+        721.6875,
+        307.3125
+      ],
+      "rowHeight": 55.199999999999996,
+      "geometry": null,
+      "width": 721.6875,
+      "height": 110.39999999999999,
+      "html": "<div layer-name=\"step-3 — Move complete block\" style=\"position:absolute;left:179.15625px;top:1024px;width:721.6875px;height:110.39999999999999px;display:flex\"><div layer-name=\"step-3 — Row 1\" style=\"position:absolute;left:0px;top:0px;display:flex;align-items:center;width:max-content;height:55.199999999999996px;font-family:Roboto;font-size:48px;font-weight:700;letter-spacing:0em;line-height:55.199999999999996px;color:var(--color-style-4-white)\"><img layer-name=\"step-3 — 📌\" src=\"paper-asset:///Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/public/emoji/f09f938c.png\" style=\"width:48px;height:48px;flex-shrink:0\" /><span layer-name=\"step-3 — Text 1\" style=\"white-space:pre\"> We personalize every outreach</span></div><div layer-name=\"step-3 — Row 2\" style=\"position:absolute;left:207.1875px;top:55.199999999999996px;display:flex;align-items:center;width:max-content;height:55.199999999999996px;font-family:Roboto;font-size:48px;font-weight:700;letter-spacing:0em;line-height:55.199999999999996px;color:var(--color-style-4-white)\"><span layer-name=\"step-3 — Text 2\" style=\"white-space:pre\">email using AI</span></div></div>",
+      "gapBefore": 58.400000000000006
+    },
+    {
+      "id": "step-4",
+      "lines": [
+        "📌 We respond to the leads and",
+        "book the calls"
+      ],
+      "x": 540,
+      "y": 1188,
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "fontSize": 48,
+      "letterSpacingEm": 0,
+      "rowHeightEm": 1.15,
+      "paddingXEm": 0.28,
+      "paddingYEm": 0.23,
+      "outerRadiusEm": 0.25,
+      "innerRadiusEm": 0.25,
+      "fillToken": null,
+      "textToken": "--color-style-4-white",
+      "measuredWidths": [
+        669.875,
+        300.5
+      ],
+      "rowHeight": 55.199999999999996,
+      "geometry": null,
+      "width": 669.875,
+      "height": 110.39999999999999,
+      "html": "<div layer-name=\"step-4 — Move complete block\" style=\"position:absolute;left:205.0625px;top:1188px;width:669.875px;height:110.39999999999999px;display:flex\"><div layer-name=\"step-4 — Row 1\" style=\"position:absolute;left:0px;top:0px;display:flex;align-items:center;width:max-content;height:55.199999999999996px;font-family:Roboto;font-size:48px;font-weight:700;letter-spacing:0em;line-height:55.199999999999996px;color:var(--color-style-4-white)\"><img layer-name=\"step-4 — 📌\" src=\"paper-asset:///Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/public/emoji/f09f938c.png\" style=\"width:48px;height:48px;flex-shrink:0\" /><span layer-name=\"step-4 — Text 1\" style=\"white-space:pre\"> We respond to the leads and</span></div><div layer-name=\"step-4 — Row 2\" style=\"position:absolute;left:184.6875px;top:55.199999999999996px;display:flex;align-items:center;width:max-content;height:55.199999999999996px;font-family:Roboto;font-size:48px;font-weight:700;letter-spacing:0em;line-height:55.199999999999996px;color:var(--color-style-4-white)\"><span layer-name=\"step-4 — Text 2\" style=\"white-space:pre\">book the calls</span></div></div>",
+      "gapBefore": 53.60000000000001
+    },
+    {
+      "id": "cta",
+      "lines": [
+        "click the button below 👇"
+      ],
+      "x": 540,
+      "y": 1406,
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "fontSize": 48,
+      "letterSpacingEm": 0,
+      "rowHeightEm": 1.15,
+      "paddingXEm": 0.3,
+      "paddingYEm": 0.25,
+      "outerRadiusEm": 0.2,
+      "innerRadiusEm": 0.25,
+      "fillToken": "--color-style-4-white",
+      "textToken": "--color-style-4-ink",
+      "measuredWidths": [
+        533.53125
+      ],
+      "rowHeight": 55.199999999999996,
+      "geometry": {
+        "width": 562.33125,
+        "height": 79.19999999999999,
+        "widths": [
+          562.33125
+        ],
+        "textWidths": [
+          533.53125
+        ],
+        "rowHeight": 55.199999999999996,
+        "paddingX": 14.399999999999999,
+        "paddingY": 12,
+        "outerRadius": 9.600000000000001,
+        "innerRadius": 12,
+        "d": "M 0 9.6 L 0 9.6 A 9.6 9.6 0 0 1 9.6 0 L 552.7312 0 A 9.6 9.6 0 0 1 562.3312 9.6 L 562.3312 69.6 A 9.6 9.6 0 0 1 552.7312 79.2 L 9.6 79.2 A 9.6 9.6 0 0 1 0 69.6 Z"
+      },
+      "width": 562.33125,
+      "height": 79.19999999999999,
+      "html": "<div layer-name=\"cta — Move complete block\" style=\"position:absolute;left:258.834375px;top:1406px;width:562.33125px;height:79.19999999999999px;display:flex\"><svg layer-name=\"cta — Editable joined highlight\" width=\"562.33125\" height=\"79.19999999999999\" viewBox=\"0 0 562.33125 79.19999999999999\" style=\"position:absolute;left:0px;top:0px\"><path d=\"M 0 9.6 L 0 9.6 A 9.6 9.6 0 0 1 9.6 0 L 552.7312 0 A 9.6 9.6 0 0 1 562.3312 9.6 L 562.3312 69.6 A 9.6 9.6 0 0 1 552.7312 79.2 L 9.6 79.2 A 9.6 9.6 0 0 1 0 69.6 Z\" fill=\"var(--color-style-4-white)\" /></svg><div layer-name=\"cta — Row 1\" style=\"position:absolute;left:14.399999999999977px;top:12px;display:flex;align-items:center;width:max-content;height:55.199999999999996px;font-family:Roboto;font-size:48px;font-weight:700;letter-spacing:0em;line-height:55.199999999999996px;color:var(--color-style-4-ink)\"><span layer-name=\"cta — Text 1\" style=\"white-space:pre\">click the button below </span><img layer-name=\"cta — 👇\" src=\"paper-asset:///Users/kanishqbansal/Documents/Video-Editing/Ad-Campaigns/Instagram-Native-Ads/public/emoji/f09f9187.png\" style=\"width:48px;height:48px;flex-shrink:0\" /></div></div>",
+      "gapBefore": 107.60000000000001
+    }
+  ],
+  "status": "draft-awaiting-user-tuning",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "safeMargins": {
+      "top": 150,
+      "side": 70,
+      "bottom": 280
+    }
+  },
+  "measurement": "Bundled local Roboto Bold and platform Times New Roman; Paper measurements to be read after user tuning"
+}

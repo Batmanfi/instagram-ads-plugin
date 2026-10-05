@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "source": "User screenshot matched to archived campaign ad-06; for this spacing demonstration only.",
+  "ads": [
+    {
+      "id": "ad-06",
+      "blocks": [
+        {
+          "id": "hook",
+          "text": "In the last 75 days, we sent over 18,300 cold emails and added $432K in revenue for a B2B client."
+        },
+        {
+          "id": "body-01",
+          "text": "📌 Want to make more revenue with cold email? We can run this same system for you."
+        },
+        {
+          "id": "body-02",
+          "text": "If we don't book calls, you don't pay 💰"
+        },
+        {
+          "id": "cta",
+          "text": "Click the button below for more info 👇"
+        }
+      ]
+    }
+  ]
+}

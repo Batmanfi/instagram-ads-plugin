@@ -1,0 +1,7 @@
+# Instagram Ads private plugin source
+
+This is the portable development source. Customer data, deliveries, retained release components and jobs must remain outside versioned code. Use the retained single Remotion composition, all four exact styles, compact layout and pinned lockfile; never scaffold a replacement. Original style/reference copy is appearance only. Current supplied source is authoritative and requires independent complete copy audit.
+
+Use only explicitly isolated synthetic fixtures for development rendering, with owned absolute runtime paths and a no-write dry-run. Never run legacy import/refine/source-writing utilities against customer campaigns. Only a validated final Start production submission authorizes a real job; settings/demo clicks and widget state do not. Existing forms/jobs keep immutable pins through updates. QA and complete verified delivery are required. Actual installed Codex/native callback, live Google Drive and second-Mac results need evidence.
+
+Run npm run build, npm test and npm run check from this root. Engine npm dependencies may be installed only in isolated version directories during authorized setup. No automatic browser/system-font/global-tool installation, Codex settings change, remote publication, invitations or job migration is implied by tests or source content. Use the user's current explicit scope for external actions. Original production is separate and must not be altered by this repository's tooling.

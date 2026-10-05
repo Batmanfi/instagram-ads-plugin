@@ -1,0 +1,37 @@
+{
+  "blocks": [
+    {
+      "id": "hook",
+      "lineCount": 3,
+      "emojiCount": 0,
+      "width": 832.8275,
+      "height": 272.8
+    },
+    {
+      "id": "body-01",
+      "lineCount": 3,
+      "emojiCount": 1,
+      "width": 556.85625,
+      "height": 190.44000000000003
+    },
+    {
+      "id": "body-02",
+      "lineCount": 1,
+      "emojiCount": 1,
+      "width": 675.385625,
+      "height": 80.04
+    },
+    {
+      "id": "cta",
+      "lineCount": 1,
+      "emojiCount": 1,
+      "width": 778.19,
+      "height": 90.48
+    }
+  ],
+  "trackingUpdate": "passed",
+  "copyUpdate": "passed",
+  "fontWeight": 400,
+  "letterSpacingEm": -0.03,
+  "fonts": true
+}

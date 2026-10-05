@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "description": "Style 2 — Classic-inspired editable draft. Roboto Bold is a working match, not verified Instagram proprietary Classic.",
+  "sourceScreenshot": "design/styles/style-1/source-screenshot.png",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "safeMargins": {
+      "top": 150,
+      "side": 90,
+      "bottom": 280
+    }
+  },
+  "fontFile": "design/styles/style-2/Roboto-Bold.ttf",
+  "fontFamily": "Roboto",
+  "fontWeight": 700,
+  "letterSpacingEm": -0.03,
+  "blocks": [
+    {
+      "id": "hook",
+      "preset": "hook",
+      "fontSize": 62,
+      "x": 540,
+      "y": 150,
+      "fill": "#000000",
+      "lines": [
+        "I’m looking for 5-10 B2B",
+        "businesses who want to book",
+        "20-40 new sales calls per month"
+      ]
+    },
+    {
+      "id": "intro",
+      "preset": "label",
+      "fontSize": 52,
+      "x": 540,
+      "y": 470,
+      "fill": "#000000",
+      "lines": [
+        "Here’s how it works:"
+      ]
+    },
+    {
+      "id": "step-1",
+      "preset": "white",
+      "fontSize": 46,
+      "x": 540,
+      "y": 620,
+      "fill": "#FFFFFF",
+      "lines": [
+        "📌 We scrape every decision",
+        "maker in your market"
+      ]
+    },
+    {
+      "id": "step-2",
+      "preset": "white",
+      "fontSize": 46,
+      "x": 540,
+      "y": 790,
+      "fill": "#FFFFFF",
+      "lines": [
+        "📌 We send 5,000+ personalized",
+        "cold emails to them every day"
+      ]
+    },
+    {
+      "id": "step-3",
+      "preset": "white",
+      "fontSize": 46,
+      "x": 540,
+      "y": 960,
+      "fill": "#FFFFFF",
+      "lines": [
+        "📌 We respond to the interested",
+        "leads and book the calls"
+      ]
+    },
+    {
+      "id": "proof",
+      "preset": "black",
+      "fontSize": 46,
+      "x": 540,
+      "y": 1170,
+      "fill": "#000000",
+      "lines": [
+        "We’ve used this approach to book",
+        "5,000+ sales calls across 30+",
+        "industries"
+      ]
+    },
+    {
+      "id": "cta",
+      "preset": "black",
+      "fontSize": 52,
+      "x": 540,
+      "y": 1480,
+      "fill": "#000000",
+      "lines": [
+        "If you want more information, click",
+        "the button below 👇"
+      ]
+    }
+  ],
+  "tokenPrefix": "--color-style-2-"
+}

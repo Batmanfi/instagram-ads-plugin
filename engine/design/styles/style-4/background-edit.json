@@ -1,0 +1,10 @@
+{
+  "style": "style-4",
+  "input": "Screenshot_20261003-192122_Gallery.jpg",
+  "generatedSource": "/Users/kanishqbansal/.codex/generated_images/01a0f6ec-4150-70d3-beb7-d62301e6d730/exec-3e1a0862-12c5-4f91-9dfd-3ccf47fa5b92.png",
+  "prompt": "Use case: precise-object-edit. Edit target: portrait screenshot showing a blue-purple sports car in a dense forest. Create a clean background plate for rebuilding the ad with separately editable text. Remove ALL overlaid advertising text, pin and pointing-hand emojis, and the white CTA rectangle. Inpaint the erased regions with natural continuation of the original scene, preserving the purple sports car, forest trees, dirt road, lighting, framing, colors and all actual photographic details. Crop out only the black Gallery letterboxing at the top and bottom. The inner photographic image is portrait 9:16; output that same 9:16 scene without black borders. Do not add anything and leave no advertising text or graphic overlays anywhere.",
+  "tool": "built-in image_gen.imagegen",
+  "savedOn": "2026-10-03",
+  "savedAsset": "background-cleaned.png",
+  "note": "Erased regions are AI reconstructed; original reference remains unchanged. Reference still only, not production footage."
+}

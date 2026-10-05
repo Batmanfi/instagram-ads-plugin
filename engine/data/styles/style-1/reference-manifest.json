@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "style": "style-1",
+  "safeMargins": {
+    "top": 150,
+    "side": 90,
+    "bottom": 280
+  },
+  "defaultContrast": 0.28,
+  "ads": [
+    {
+      "id": "style-1-reference",
+      "outputName": "style-1-reference",
+      "style": "style-1",
+      "fontPreset": "condensed-regular",
+      "background": {
+        "filename": "01-Mount-Rainier-Road-1080x1920.mp4",
+        "startTime": 0,
+        "cropPosition": [
+          50,
+          50
+        ]
+      },
+      "blocks": [
+        {
+          "id": "hook",
+          "styleRole": "hook",
+          "x": 540,
+          "y": 150,
+          "fontSize": 62,
+          "highlight": "black",
+          "lines": [
+            "I’m looking for 5-10 B2B",
+            "businesses who want to book",
+            "20-40 new sales calls per month"
+          ],
+          "maxWidth": 900
+        },
+        {
+          "id": "intro",
+          "styleRole": "label",
+          "x": 540,
+          "y": 470,
+          "fontSize": 52,
+          "highlight": "black",
+          "lines": [
+            "Here’s how it works:"
+          ],
+          "maxWidth": 900
+        },
+        {
+          "id": "step-1",
+          "styleRole": "support",
+          "x": 540,
+          "y": 620,
+          "fontSize": 46,
+          "highlight": "white",
+          "lines": [
+            "📌 We scrape every decision",
+            "maker in your market"
+          ],
+          "maxWidth": 900
+        },
+        {
+          "id": "step-2",
+          "styleRole": "support",
+          "x": 540,
+          "y": 790,
+          "fontSize": 46,
+          "highlight": "white",
+          "lines": [
+            "📌 We send 5,000+ personalized",
+            "cold emails to them every day"
+          ],
+          "maxWidth": 900
+        },
+        {
+          "id": "step-3",
+          "styleRole": "support",
+          "x": 540,
+          "y": 960,
+          "fontSize": 46,
+          "highlight": "white",
+          "lines": [
+            "📌 We respond to the interested",
+            "leads and book the calls"
+          ],
+          "maxWidth": 900
+        },
+        {
+          "id": "proof",
+          "styleRole": "proof",
+          "x": 540,
+          "y": 1170,
+          "fontSize": 46,
+          "highlight": "black",
+          "lines": [
+            "We’ve used this approach to book",
+            "5,000+ sales calls across 30+",
+            "industries"
+          ],
+          "maxWidth": 900
+        },
+        {
+          "id": "cta",
+          "styleRole": "cta",
+          "x": 540,
+          "y": 1480,
+          "fontSize": 52,
+          "highlight": "black",
+          "lines": [
+            "If you want more information, click",
+            "the button below 👇"
+          ],
+          "maxWidth": 900
+        }
+      ]
+    }
+  ]
+}

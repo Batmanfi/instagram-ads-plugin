@@ -1,0 +1,9 @@
+# Native compatibility test
+
+Use `compatibility-form --chat-id <actual-chat-id> --output <absolute-path>` after initialization. This reuses the saved style/music/override form with synthetic metadata and a separate `kind: instagram-ad-plugin-compatibility`, `demo: true` payload. Its final action is labeled Send compatibility result. It does not authorize a campaign, invoke Remotion or alter production data.
+
+Choose the output path inside the current chat's explicitly supplied visualization root when available. Do not assume that a file in an unrelated development folder or hidden `.local` directory is readable by the native conversation. An `Invalid visualization read request` fails before form execution: preserve the existing request and copy the unchanged fragment into the supplied chat visualization root, then display its new absolute content reference. Do not create another compatibility request to repair a file-location problem. If no visualization root is supplied, follow the visualize skill's authorized output-location contract and verify host access before claiming compatibility.
+
+Display the returned native content reference and end the turn. On the actual final follow-up message, archive its JSON in owned state and invoke `compatibility-accept --chat-id <same-id> --choices <json>`. The saved request validates IDs/hash/count and choice behavior. Record the actual app/account/local-execution context and confirm the message reached the same chat. CLI validation alone is not evidence of native callback success.
+
+Ordinary intermediate selections must remain local. If visualization or its follow-up bridge is missing, report the host limitation, preserve the pending request and stop this test. Do not replace it with a browser server and claim the native workflow passed. A second Mac/account must repeat this test before teammate release.

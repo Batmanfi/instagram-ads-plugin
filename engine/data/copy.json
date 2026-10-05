@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "ads": [
+    {
+      "id": "qa-01",
+      "blocks": [
+        {
+          "id": "hook",
+          "text": "Plugin compatibility fixture"
+        },
+        {
+          "id": "cta",
+          "text": "QA only — no advertising claims 👇"
+        }
+      ]
+    }
+  ]
+}

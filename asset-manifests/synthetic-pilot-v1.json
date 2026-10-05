@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "id": "synthetic-pilot-v1",
+  "distributionStatus": "approved-private-distribution",
+  "rightsRecord": "RIGHTS-AND-SCOPE.md",
+  "synthetic": true,
+  "files": [
+    {
+      "path": "RIGHTS-AND-SCOPE.md",
+      "size": 1364,
+      "sha256": "75ece2077a01278e4490ae47ba606082aa0b9e36c3683bbe1e82f8d4b315cd6b"
+    },
+    {
+      "path": "backgrounds/01-Mount-Rainier-Road-1080x1920.mp4",
+      "size": 789841,
+      "sha256": "704d42ad20f94b7c5f87b36a923dc3d5ee32095bbf067201624f87c1ab3952fc"
+    },
+    {
+      "path": "backgrounds/03-Rocky-Coast-1080x1920.mp4",
+      "size": 789841,
+      "sha256": "704d42ad20f94b7c5f87b36a923dc3d5ee32095bbf067201624f87c1ab3952fc"
+    },
+    {
+      "path": "backgrounds/05-City-Traffic-Dusk-1920x1080.mp4",
+      "size": 743064,
+      "sha256": "3029ec75c138ade1e7fc2305492b3f3026f442bb87ee737d8a4c02f1b3d98d4d"
+    },
+    {
+      "path": "backgrounds/06-Flowering-Cactus-Garden-1080x1920.mp4",
+      "size": 789841,
+      "sha256": "704d42ad20f94b7c5f87b36a923dc3d5ee32095bbf067201624f87c1ab3952fc"
+    },
+    {
+      "path": "backgrounds/10-Island-Coast-1080x1920.mp4",
+      "size": 789841,
+      "sha256": "704d42ad20f94b7c5f87b36a923dc3d5ee32095bbf067201624f87c1ab3952fc"
+    },
+    {
+      "path": "backgrounds/11-Mountain-Landscape-1080x1920.mp4",
+      "size": 789841,
+      "sha256": "704d42ad20f94b7c5f87b36a923dc3d5ee32095bbf067201624f87c1ab3952fc"
+    },
+    {
+      "path": "backgrounds/12-Mountain-Road-2160x3840.mp4",
+      "size": 789841,
+      "sha256": "704d42ad20f94b7c5f87b36a923dc3d5ee32095bbf067201624f87c1ab3952fc"
+    },
+    {
+      "path": "generation.json",
+      "size": 1888,
+      "sha256": "00b63c7e0b1f646746e4e5cc768f69a123864d1a15b9b006bb5dcf66c33b8f32"
+    },
+    {
+      "path": "music/chill-sunday-TN6ea1nnp8w.mp3",
+      "size": 192813,
+      "sha256": "16e309a7947fc564ffb223d701d2329c42921949c29a5d7b0c01bf953d2d5d94"
+    },
+    {
+      "path": "music/hush-Wuc5DWazolU.mp3",
+      "size": 192813,
+      "sha256": "098f754b05aec48027b10e5d280041766db0b61161b7b045dc0f9897b608ec25"
+    },
+    {
+      "path": "music/sunday-evening-c7qCc7NXErc.mp3",
+      "size": 192813,
+      "sha256": "c4702ebb6586e918ac82163fef507d11076f96bcd7832ac68e3f4b3df2c59e9e"
+    }
+  ]
+}

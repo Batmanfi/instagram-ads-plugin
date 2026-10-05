@@ -1,0 +1,285 @@
+{
+  "source": "/Users/kanishqbansal/Documents/Screenshots/Screenshot 2026-09-30 at 7.40.26\u202fPM.png",
+  "sourceWidth": 1056,
+  "sourceHeight": 1788,
+  "blocks": [
+    {
+      "block": "hook",
+      "fill": "black",
+      "outlineBox": [
+        144,
+        85,
+        918,
+        358
+      ],
+      "width": 774,
+      "height": 273,
+      "lines": [
+        {
+          "inkBox": [
+            271,
+            118,
+            791,
+            166
+          ],
+          "inkHeight": 48,
+          "backgroundWidth": 586,
+          "paddingLeft": 28,
+          "paddingRight": 38
+        },
+        {
+          "inkBox": [
+            209,
+            197,
+            853,
+            244
+          ],
+          "inkHeight": 47,
+          "backgroundWidth": 735,
+          "paddingLeft": 27,
+          "paddingRight": 64
+        },
+        {
+          "inkBox": [
+            172,
+            276,
+            890,
+            324
+          ],
+          "inkHeight": 48,
+          "backgroundWidth": 773,
+          "paddingLeft": 28,
+          "paddingRight": 27
+        }
+      ]
+    },
+    {
+      "block": "intro",
+      "fill": "black",
+      "outlineBox": [
+        333,
+        411,
+        729,
+        501
+      ],
+      "width": 396,
+      "height": 90,
+      "lines": [
+        {
+          "inkBox": [
+            356,
+            438,
+            706,
+            475
+          ],
+          "inkHeight": 37,
+          "backgroundWidth": 395,
+          "paddingLeft": 22,
+          "paddingRight": 23
+        }
+      ]
+    },
+    {
+      "block": "step-1",
+      "fill": "white",
+      "outlineBox": [
+        288,
+        588,
+        780,
+        719
+      ],
+      "width": 492,
+      "height": 131,
+      "lines": [
+        {
+          "inkBox": [
+            316,
+            605,
+            755,
+            651
+          ],
+          "inkHeight": 46,
+          "backgroundWidth": 492,
+          "paddingLeft": 28,
+          "paddingRight": 25
+        },
+        {
+          "inkBox": [
+            365,
+            665,
+            697,
+            698
+          ],
+          "inkHeight": 33,
+          "backgroundWidth": 365,
+          "paddingLeft": 17,
+          "paddingRight": 16
+        }
+      ]
+    },
+    {
+      "block": "step-2",
+      "fill": "white",
+      "outlineBox": [
+        257,
+        751,
+        811,
+        900
+      ],
+      "width": 554,
+      "height": 149,
+      "lines": [
+        {
+          "inkBox": [
+            285,
+            770,
+            786,
+            810
+          ],
+          "inkHeight": 40,
+          "backgroundWidth": 554,
+          "paddingLeft": 28,
+          "paddingRight": 25
+        },
+        {
+          "inkBox": [
+            302,
+            828,
+            759,
+            869
+          ],
+          "inkHeight": 41,
+          "backgroundWidth": 492,
+          "paddingLeft": 17,
+          "paddingRight": 18
+        }
+      ]
+    },
+    {
+      "block": "step-3",
+      "fill": "white",
+      "outlineBox": [
+        257,
+        908,
+        813,
+        1060
+      ],
+      "width": 556,
+      "height": 152,
+      "lines": [
+        {
+          "inkBox": [
+            285,
+            933,
+            786,
+            971
+          ],
+          "inkHeight": 38,
+          "backgroundWidth": 552,
+          "paddingLeft": 27,
+          "paddingRight": 24
+        },
+        {
+          "inkBox": [
+            347,
+            992,
+            715,
+            1026
+          ],
+          "inkHeight": 34,
+          "backgroundWidth": 406,
+          "paddingLeft": 20,
+          "paddingRight": 18
+        }
+      ]
+    },
+    {
+      "block": "proof",
+      "fill": "black",
+      "outlineBox": [
+        198,
+        1200,
+        782,
+        1405
+      ],
+      "width": 584,
+      "height": 205,
+      "lines": [
+        {
+          "inkBox": [
+            231,
+            1232,
+            749,
+            1264
+          ],
+          "inkHeight": 32,
+          "backgroundWidth": 580,
+          "paddingLeft": 33,
+          "paddingRight": 29
+        },
+        {
+          "inkBox": [
+            262,
+            1285,
+            717,
+            1318
+          ],
+          "inkHeight": 33,
+          "backgroundWidth": 547,
+          "paddingLeft": 64,
+          "paddingRight": 28
+        },
+        {
+          "inkBox": [
+            413,
+            1350,
+            569,
+            1373
+          ],
+          "inkHeight": 23,
+          "backgroundWidth": 243,
+          "paddingLeft": 19,
+          "paddingRight": 68
+        }
+      ]
+    },
+    {
+      "block": "cta",
+      "fill": "black",
+      "outlineBox": [
+        160,
+        1485,
+        898,
+        1673
+      ],
+      "width": 738,
+      "height": 188,
+      "lines": [
+        {
+          "inkBox": [
+            196,
+            1528,
+            861,
+            1569
+          ],
+          "inkHeight": 41,
+          "backgroundWidth": 734,
+          "paddingLeft": 36,
+          "paddingRight": 33
+        },
+        {
+          "inkBox": [
+            331,
+            1596,
+            711,
+            1636
+          ],
+          "inkHeight": 40,
+          "backgroundWidth": 453,
+          "paddingLeft": 22,
+          "paddingRight": 51
+        }
+      ]
+    }
+  ]
+}

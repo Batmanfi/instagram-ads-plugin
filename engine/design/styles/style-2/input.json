@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "description": "Style 2 — user-approved Roboto Bold with -1% letter spacing, saved 2026-10-03.",
+  "sourceScreenshot": "design/styles/style-1/source-screenshot.png",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "safeMargins": {
+      "top": 150,
+      "side": 70,
+      "bottom": 280
+    }
+  },
+  "fontFile": "public/fonts/Roboto-Bold.ttf",
+  "fontFamily": "Roboto",
+  "fontWeight": 700,
+  "letterSpacingEm": -0.01,
+  "blocks": [
+    {
+      "id": "hook",
+      "preset": "hook",
+      "fontSize": 62,
+      "x": 539.9925125,
+      "y": 150,
+      "fill": "#000000",
+      "lines": [
+        "I’m looking for 5-10 B2B",
+        "businesses who want to book",
+        "20-40 new sales calls per month"
+      ],
+      "measuredWidths": [
+        665,
+        804,
+        886
+      ],
+      "measurement": "Direct Paper MCP text and emoji widths at -0.01em, 2026-10-03.",
+      "geometry": {
+        "paddingXEm": 0.36,
+        "paddingYEm": 0.28,
+        "rowHeightEm": 1.28,
+        "outerRadiusEm": 0.24,
+        "innerRadiusEm": 0.24
+      }
+    },
+    {
+      "id": "intro",
+      "preset": "label",
+      "fontSize": 52,
+      "x": 539.9975,
+      "y": 470,
+      "fill": "#000000",
+      "lines": [
+        "Here’s how it works:"
+      ],
+      "measuredWidths": [
+        456
+      ],
+      "measurement": "Direct Paper MCP text and emoji widths at -0.01em, 2026-10-03.",
+      "geometry": {
+        "paddingXEm": 0.22,
+        "paddingYEm": 0.23,
+        "rowHeightEm": 1.28,
+        "outerRadiusEm": 0.2,
+        "innerRadiusEm": 0.2
+      }
+    },
+    {
+      "id": "step-1",
+      "preset": "white",
+      "fontSize": 46,
+      "x": 539.9940625,
+      "y": 620,
+      "fill": "#FFFFFF",
+      "lines": [
+        "📌 We scrape every decision",
+        "maker in your market"
+      ],
+      "measuredWidths": [
+        571,
+        431
+      ],
+      "measurement": "Direct Paper MCP text and emoji widths at -0.01em, 2026-10-03.",
+      "geometry": {
+        "paddingXEm": 0.35,
+        "paddingYEm": 0.15,
+        "rowHeightEm": 1.28,
+        "outerRadiusEm": 0.18,
+        "innerRadiusEm": 0.22
+      }
+    },
+    {
+      "id": "step-2",
+      "preset": "white",
+      "fontSize": 46,
+      "x": 539.9941875,
+      "y": 790,
+      "fill": "#FFFFFF",
+      "lines": [
+        "📌 We send 5,000+ personalized",
+        "cold emails to them every day"
+      ],
+      "measuredWidths": [
+        652,
+        603
+      ],
+      "measurement": "Direct Paper MCP text and emoji widths at -0.01em, 2026-10-03.",
+      "geometry": {
+        "paddingXEm": 0.35,
+        "paddingYEm": 0.15,
+        "rowHeightEm": 1.28,
+        "outerRadiusEm": 0.18,
+        "innerRadiusEm": 0.22
+      }
+    },
+    {
+      "id": "step-3",
+      "preset": "white",
+      "fontSize": 46,
+      "x": 539.9934375,
+      "y": 960,
+      "fill": "#FFFFFF",
+      "lines": [
+        "📌 We respond to the interested",
+        "leads and book the calls"
+      ],
+      "measuredWidths": [
+        640,
+        488
+      ],
+      "measurement": "Direct Paper MCP text and emoji widths at -0.01em, 2026-10-03.",
+      "geometry": {
+        "paddingXEm": 0.35,
+        "paddingYEm": 0.15,
+        "rowHeightEm": 1.28,
+        "outerRadiusEm": 0.18,
+        "innerRadiusEm": 0.22
+      }
+    },
+    {
+      "id": "proof",
+      "preset": "black",
+      "fontSize": 46,
+      "x": 539.995,
+      "y": 1170,
+      "fill": "#000000",
+      "lines": [
+        "We’ve used this approach to book",
+        "5,000+ sales calls across 30+",
+        "industries"
+      ],
+      "measuredWidths": [
+        678,
+        596,
+        202
+      ],
+      "measurement": "Direct Paper MCP text and emoji widths at -0.01em, 2026-10-03.",
+      "geometry": {
+        "paddingXEm": 0.36,
+        "paddingYEm": 0.23,
+        "rowHeightEm": 1.28,
+        "outerRadiusEm": 0.22,
+        "innerRadiusEm": 0.24
+      }
+    },
+    {
+      "id": "cta",
+      "preset": "black",
+      "fontSize": 52,
+      "x": 539.998625,
+      "y": 1480,
+      "fill": "#000000",
+      "lines": [
+        "If you want more information, click",
+        "the button below 👇"
+      ],
+      "measuredWidths": [
+        794,
+        447
+      ],
+      "measurement": "Direct Paper MCP text and emoji widths at -0.01em, 2026-10-03.",
+      "geometry": {
+        "paddingXEm": 0.36,
+        "paddingYEm": 0.23,
+        "rowHeightEm": 1.28,
+        "outerRadiusEm": 0.22,
+        "innerRadiusEm": 0.24
+      }
+    }
+  ],
+  "tokenPrefix": "--color-style-2-"
+}

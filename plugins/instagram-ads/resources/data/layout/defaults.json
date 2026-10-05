@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "savedOn": "2026-10-03",
+  "defaultMode": "compact",
+  "preferredGap": 64,
+  "minGap": 28,
+  "anchor": "above-center",
+  "description": "Center the measured compact group 151.26px above the 1920px canvas midpoint, matching the user’s manual Paper placement; clamp the group inside the safe top/bottom margins.",
+  "paperUrl": "https://app.paper.design/file/01M3VF361K5SV4TAFHF5Q9C09D/p-3-0",
+  "centerOffsetPx": 151.26,
+  "calibration": {
+    "paperGroupTop": 396,
+    "paperGroupBottom": 1221.48,
+    "paperGroupCenterY": 808.74,
+    "measurement": "Direct Paper computed CSS: user-adjusted group positions; gaps remain approximately 64px with pixel snapping."
+  }
+}

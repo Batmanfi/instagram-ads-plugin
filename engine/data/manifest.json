@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "qaOnly": true,
+  "layoutMode": "compact",
+  "defaultContrast": 0.28,
+  "safeMargins": {
+    "top": 150,
+    "side": 90,
+    "bottom": 280
+  },
+  "music": false,
+  "ads": [
+    {
+      "id": "qa-01",
+      "outputName": "plugin-qa-01",
+      "fontPreset": "condensed-regular",
+      "style": "style-1",
+      "background": {
+        "filename": "01-Mount-Rainier-Road-1080x1920.mp4",
+        "startTime": 0,
+        "cropPosition": [
+          50,
+          50
+        ]
+      },
+      "music": false,
+      "blocks": [
+        {
+          "id": "hook",
+          "styleRole": "hook"
+        },
+        {
+          "id": "cta",
+          "styleRole": "cta"
+        }
+      ]
+    }
+  ]
+}

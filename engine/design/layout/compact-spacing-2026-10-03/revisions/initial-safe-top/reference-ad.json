@@ -1,0 +1,65 @@
+{
+  "id": "ad-06",
+  "outputName": "outboundpilot-style1-2026-10-01-01-ad-06-city",
+  "fontPreset": "condensed-regular",
+  "background": {
+    "filename": "05-City-Traffic-Dusk-1920x1080.mp4",
+    "startTime": 1.5,
+    "cropPosition": [
+      55,
+      50
+    ]
+  },
+  "blocks": [
+    {
+      "id": "hook",
+      "styleRole": "hook",
+      "fontSize": 62,
+      "highlight": "black",
+      "maxWidth": 900,
+      "lines": [
+        "In the last 75 days, we sent",
+        "over 18,300 cold emails and added",
+        "$432K in revenue for a B2B client."
+      ],
+      "text": "In the last 75 days, we sent over 18,300 cold emails and added $432K in revenue for a B2B client."
+    },
+    {
+      "id": "body-01",
+      "styleRole": "support",
+      "fontSize": 46,
+      "highlight": "white",
+      "maxWidth": 900,
+      "lines": [
+        "📌 Want to make more revenue",
+        "with cold email? We can run",
+        "this same system for you."
+      ],
+      "text": "📌 Want to make more revenue with cold email? We can run this same system for you."
+    },
+    {
+      "id": "body-02",
+      "styleRole": "proof",
+      "fontSize": 46,
+      "highlight": "black",
+      "maxWidth": 900,
+      "lines": [
+        "If we don't book calls, you don't pay 💰"
+      ],
+      "text": "If we don't book calls, you don't pay 💰"
+    },
+    {
+      "id": "cta",
+      "styleRole": "cta",
+      "fontSize": 52,
+      "highlight": "black",
+      "maxWidth": 900,
+      "lines": [
+        "Click the button below for more info 👇"
+      ],
+      "text": "Click the button below for more info 👇"
+    }
+  ],
+  "style": "style-1",
+  "layoutMode": "compact"
+}

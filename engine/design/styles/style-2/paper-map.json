@@ -1,0 +1,123 @@
+{
+  "fileId": "01M3VF361K5SV4TAFHF5Q9C09D",
+  "pageId": "p-2-0",
+  "master": "5I-0",
+  "guide": "7B-0",
+  "blocks": [
+    {
+      "id": "hook",
+      "paperNode": "5L-0",
+      "backgroundNode": "9F-0",
+      "rowNodes": [
+        "5O-0",
+        "5Q-0",
+        "5S-0"
+      ],
+      "textNodes": [
+        "5P-0",
+        "5R-0",
+        "5T-0"
+      ],
+      "emojiNodes": [],
+      "tokenName": "--color-style-2-hook"
+    },
+    {
+      "id": "intro",
+      "paperNode": "5V-0",
+      "backgroundNode": "9I-0",
+      "rowNodes": [
+        "5Y-0"
+      ],
+      "textNodes": [
+        "5Z-0"
+      ],
+      "emojiNodes": [],
+      "tokenName": "--color-style-2-intro"
+    },
+    {
+      "id": "step-1",
+      "paperNode": "61-0",
+      "backgroundNode": "9L-0",
+      "rowNodes": [
+        "64-0",
+        "67-0"
+      ],
+      "textNodes": [
+        "66-0",
+        "68-0"
+      ],
+      "emojiNodes": [
+        "65-0"
+      ],
+      "tokenName": "--color-style-2-step-1"
+    },
+    {
+      "id": "step-2",
+      "paperNode": "6A-0",
+      "backgroundNode": "9O-0",
+      "rowNodes": [
+        "6D-0",
+        "6G-0"
+      ],
+      "textNodes": [
+        "6F-0",
+        "6H-0"
+      ],
+      "emojiNodes": [
+        "6E-0"
+      ],
+      "tokenName": "--color-style-2-step-2"
+    },
+    {
+      "id": "step-3",
+      "paperNode": "6J-0",
+      "backgroundNode": "9R-0",
+      "rowNodes": [
+        "6M-0",
+        "6P-0"
+      ],
+      "textNodes": [
+        "6O-0",
+        "6Q-0"
+      ],
+      "emojiNodes": [
+        "6N-0"
+      ],
+      "tokenName": "--color-style-2-step-3"
+    },
+    {
+      "id": "proof",
+      "paperNode": "6S-0",
+      "backgroundNode": "9U-0",
+      "rowNodes": [
+        "6V-0",
+        "6X-0",
+        "6Z-0"
+      ],
+      "textNodes": [
+        "6W-0",
+        "6Y-0",
+        "70-0"
+      ],
+      "emojiNodes": [],
+      "tokenName": "--color-style-2-proof"
+    },
+    {
+      "id": "cta",
+      "paperNode": "72-0",
+      "backgroundNode": "9X-0",
+      "rowNodes": [
+        "75-0",
+        "77-0"
+      ],
+      "textNodes": [
+        "76-0",
+        "78-0"
+      ],
+      "emojiNodes": [
+        "79-0"
+      ],
+      "tokenName": "--color-style-2-cta"
+    }
+  ]
+}
